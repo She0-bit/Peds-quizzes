@@ -1,0 +1,166 @@
+@L20 443
+A 9-year-old boy was recently diagnosed with nephrotic syndrome. Which is an indication for renal biopsy?
+- Age between 1 and 8 years
+- Protein/creatinine ratio >2.5
+- Serum albumin <2.5 g/dL
+* Hypertension
+> Biopsy if features atypical for minimal change: age <1 or >12, persistent hypertension, gross hematuria, low C3, renal impairment, or steroid resistance.
+
+@L13 443
+A 9-year-old collapses during soccer practice without warning. His father died suddenly at 40. Next step in evaluation?
+* ECG and echocardiogram to look for a cardiac cause
+- Increase fluid and salt intake
+- Brain MRI
+- Tilt-table test
+> Exertional syncope + family history of sudden death = cardiac until proven otherwise (HCM, long QT, etc.).
+
+@L10 443
+A 26-month-old speaks single words only (20-word vocabulary), does not respond when his mother talks to him, is picky about foods and gets angry when his face is held. Diagnosis?
+- ADHD
+- Deafness
+- Speech delay
+* Autism
+> Speech delay + poor social response + restricted interests + sensory aversion = ASD. A hearing test is still part of every speech-delay workup.
+
+@L3 443
+A 14-year-old girl is short (3rd percentile height, 35th weight), Tanner 2 breasts, no pubic hair, bone age 11 years. Her father was short as a teenager and is now 177 cm. Management?
+* Reassurance and follow-up
+- Pelvic ultrasound
+- Growth hormone
+- Karyotyping
+> Delayed bone age + delayed but started puberty + family history of late growth = constitutional delay.
+
+@L4 443
+A few-month-old infant has a mild fever (around 37.8) and looks alert and playful at the vaccine visit. What is correct?
+* Minor illness and low-grade fever are not contraindications to immunization
+- Fever alone is a contraindication
+- Any fever contraindicates DTaP
+- None of the above
+> Only moderate-severe acute illness warrants deferral.
+
+@L18 443
+A child has fever, lethargy, neck stiffness and irritability. CSF is turbid with high WBC (mainly polymorphs), high protein and low glucose. Most likely diagnosis?
+* Bacterial meningitis
+- Viral meningitis
+- TB meningitis
+- Viral encephalitis
+> Neutrophils + high protein + low glucose = bacterial. TB: lymphocytes, very high protein, low glucose. Viral: lymphocytes, normal glucose.
+
+@L16 443
+An 8-year-old has weight and height above the 95th percentile, BMI 30, looks older than peers, otherwise normal exam. Most appropriate management?
+* Lifestyle modification
+- Referral for surgery
+- Obesity medication
+- Observe and re-evaluate in 12 months
+> First-line for pediatric obesity is intensive family-based lifestyle change. Tall stature suggests exogenous obesity (endocrine causes are usually short).
+
+@L9 443
+A 5-year-old in PICU on insulin infusion and fluids for DKA: Na 138, K 2.8, Cl 101, HCO3 22. Most likely cause of the low potassium?
+- Vomiting
+- Bicarbonate therapy
+- Diuretics
+* Insulin therapy
+> Insulin drives K into cells. Total body K is depleted in DKA; add K to fluids once urine output confirmed and K <5.5.
+
+@L9 443
+A 5-month-old with 3 days of severe diarrhea is lethargic and dehydrated. pH 7.22, HCO3 15, PaCO2 32. Primary disturbance?
+* Metabolic acidosis with respiratory compensation
+- Respiratory acidosis
+- Mixed metabolic and respiratory acidosis
+- Metabolic alkalosis with respiratory compensation
+> Low pH, low HCO3, low PaCO2. Expected PaCO2 = 1.5 x 15 + 8 = 30.5 (+/-2), so compensation is appropriate.
+
+@Other 443
+A 4-year-old girl with speech delay has a flat facial profile, upslanting eyes and a single palmar crease. Which blood test confirms the diagnosis?
+- FISH
+* Karyotyping
+- CBC
+- PCR
+> Karyotype confirms trisomy 21 and identifies translocations (important for recurrence risk). FISH is rapid but does not show translocation.
+
+@L3 443
+A 3-month-old girl born breech is suspected to have developmental dysplasia of the hip. Best diagnostic modality?
+* Ultrasound
+- X-ray
+- MRI
+- CT scan
+> Ultrasound before ~4-6 months (femoral head not ossified). X-ray after that.
+
+@L15 443
+An exclusively breastfed 5-day-old term boy had all standard newborn care and is normal on exam. Without supplementation, he is at greatest risk of:
+* Rickets
+- Microcytic anemia
+- Scaly dermatitis
+- Intracranial bleed
+> Breast milk is low in vitamin D; give 400 IU/day. Vitamin K was given at birth, and iron stores last about 4-6 months.
+
+@L23 443
+An 18-hour-old term formula-fed baby is jaundiced. Mother O+, baby A+, retics 10%, total bilirubin 13, direct 1, direct Coombs positive. Underlying pathophysiology?
+- Physiological jaundice
+- Breast milk jaundice
+* Immune-mediated hemolysis from blood group incompatibility
+- Biliary atresia
+> Jaundice in the first 24 h + Coombs positive + reticulocytosis = ABO hemolytic disease.
+
+@L20 442
+A 5-year-old with nephrotic syndrome develops renal vein thrombosis. Which blood abnormality contributes to this complication?
+- Hypocalcemia
+- Thrombocytopenia
+* Low antithrombin III
+- DIC
+> Urinary loss of antithrombin III + increased hepatic clotting factors + hemoconcentration = hypercoagulable state.
+
+@L11 442
+All of the following are part of high-quality CPR EXCEPT:
+- Allow the chest to fully recoil
+- Compressions at least 100/min
+* Chest depressed at least 2/3 of its AP diameter
+- Minimize interruptions
+> Depth is at least 1/3 of the AP diameter, not 2/3.
+
+@L7 442
+A fully vaccinated girl develops muscle weakness, loss of deep tendon reflexes and hypotonia. Her classmates have hand-foot-mouth disease. Most likely cause?
+* Non-polio enterovirus
+- Poliovirus
+- Measles
+- Herpes simplex virus
+> Enterovirus A71 (a cause of HFMD) can cause acute flaccid myelitis. Vaccinated, so polio unlikely.
+
+@L5 442
+A 6-week-old has persistent non-bilious vomiting, dehydration and visible peristalsis. Most likely electrolyte disturbance?
+- Hypokalemia, hypernatremia, metabolic acidosis
+* Hypokalemia, hypochloremia, metabolic alkalosis
+- Hypokalemia, hypochloremia, metabolic acidosis
+- Hypokalemia, hypernatremia, metabolic alkalosis
+> Pyloric stenosis: loss of gastric HCl gives hypochloremic hypokalemic metabolic alkalosis (paradoxical aciduria late).
+
+@L16 442
+A 23-month-old hospitalized for severe malnutrition received inappropriately rapid NG feeding. Which lab value is most concerning as an iatrogenic complication?
+- Hyponatremia
+* Hypophosphatemia
+- Hyperglycemia
+- Hyperkalemia
+> Refeeding syndrome: insulin surge shifts phosphate (and K, Mg) into cells. Start feeds slowly and monitor.
+
+@L26 442
+A 2-year-old wakes at night with inspiratory noisy breathing, marked retractions, nasal flaring and a barking cough after 2 days of mild URTI. What will be done in the emergency department?
+- Short-acting bronchodilators and 5-day steroids
+- Intubation and antibiotics
+- Observation for hypoxia and dehydration alone
+* Inhaled epinephrine and a dose of steroids
+> Moderate-severe croup: nebulized epinephrine + dexamethasone. Observe 2-4 h after epinephrine for rebound.
+
+@L10 442
+A 5-year-old girl is inattentive at home and school, refuses to talk to parents or peers, prefers playing alone. Normal physical and neurological exam. Most likely diagnosis?
+- Cerebral palsy
+* Autism spectrum disorder
+- ADHD
+- Normal behavior
+> Social communication deficits and preference for solitary play point to ASD.
+
+@L11 442
+A 12-year-old ate peanuts and 10 minutes later has lip angioedema, urticaria, stridor and hypotension. Underlying pathophysiology?
+- Delayed T-cell/macrophage hypersensitivity
+* IgE-mediated degranulation of mast cells and basophils releasing histamine and other mediators
+- Complement activation releasing histamine
+> Anaphylaxis is a type I (IgE-mediated) hypersensitivity reaction.

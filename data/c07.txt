@@ -1,0 +1,183 @@
+@L5 442
+A 6-month-old has episodes of drawing up the legs, inconsolable crying and "red currant jelly" stool, is irritable with a distended abdomen and a palpable right-sided mass. Most likely diagnosis?
+- Acute appendicitis
+* Intussusception
+- Gastroenteritis
+- Mesenteric lymphadenitis
+> Ileocolic intussusception (peak 6-36 months). Ultrasound (target sign), then air/contrast enema reduction.
+
+@L25 442
+A healthy 7-year-old has brief staring spells with eyelid fluttering, provoked by hyperventilation; EEG shows 3-Hz spike-and-wave. Most appropriate drug?
+* Ethosuximide
+- Carbamazepine
+- Levetiracetam
+- Vigabatrin
+> First-line for childhood absence epilepsy. Carbamazepine can worsen absences.
+
+@L8 442
+A 4-year-old has fever and an itchy rash that started on the trunk and spread to the face, scalp and arms, with lesions in different stages (macules, papules, "dewdrop on a rose petal" vesicles, crusts), sparing palms and soles. Diagnosis?
+- Hand, foot and mouth disease
+- Measles
+* Chickenpox (varicella)
+- Impetigo
+> Centripetal rash with crops at different stages = varicella.
+
+@L28 442
+A 20 kg 6-year-old has severe dehydration. Initial isotonic saline bolus volume?
+- 240 mL
+- 120 mL
+* 400 mL
+- 60 mL
+> 20 mL/kg x 20 kg = 400 mL.
+
+@L7 442
+A 5-year-old boy, toilet trained 4 months ago, has abdominal pain, frequency, new bedwetting and odd-smelling urine. Last bowel movement 3 days ago. Dipstick: leukocyte esterase, nitrite, blood positive; gram-negative rods. Strongest risk factor?
+- Posterior urethral valves
+* Constipation
+- Respiratory tract infection
+- Male gender
+> Bladder and bowel dysfunction (constipation) is a major risk factor for UTI in toilet-trained children. No features here suggest PUV.
+
+@L3 442
+A 16-year-old girl with primary amenorrhea is 140 cm tall with no breast tissue and Tanner 3 pubic hair. Mother 173 cm, father 178 cm. Most likely diagnosis?
+- Androgen insensitivity syndrome
+- Familial short stature
+- Constitutional delay
+* Turner syndrome
+> Short stature despite tall parents + absent breast development (ovarian failure) = Turner (45,X). Pubic hair from adrenal androgens is preserved.
+
+@L20 442
+A 14-year-old has asymptomatic isolated proteinuria on routine urinalysis, confirmed on repeat, with normal BP and renal function. Best next step?
+- Serum ANA and anti-dsDNA
+- Kidney biopsy
+* Early morning urine protein/creatinine ratio
+- Start prednisolone
+> First-morning sample distinguishes orthostatic (benign) proteinuria from persistent proteinuria.
+
+@L18 442
+A 3-year-old has high fever, lethargy, CRT 4 s, weak pulse, BP 85/50, mottled and minimally responsive. Initial management?
+* IV fluids and broad-spectrum antibiotics
+- Antipyretics and observe
+- High-dose steroids immediately
+- Urgent lumbar puncture
+> Septic shock: fluid boluses and antibiotics within the first hour. LP is deferred in an unstable child.
+
+@L3 442
+A 2-year-old has a painless limp for months, limited left hip abduction, Trendelenburg gait and leg length discrepancy. X-ray: shallow acetabulum with superolateral displacement of the femoral head. Diagnosis?
+- Proximal femoral focal deficiency
+- Transient synovitis
+- Legg-Calve-Perthes disease
+* Developmental dysplasia of the hip
+> Late-presenting DDH. Perthes occurs at 4-8 y with femoral head avascular necrosis.
+
+@Other 442
+Healthy first-cousin parents have a 3-year-old with cystic fibrosis (autosomal recessive). Recurrence risk in each future pregnancy?
+- 100%
+- 75%
+* 25%
+- 50%
+> Both parents are obligate carriers: 1 in 4 affected each pregnancy.
+
+@L9 442
+A 3-year-old in DKA (glucose 700, pH 7.0, HCO3 8, 10% dehydrated). Most appropriate action to decrease the risk of cerebral edema?
+* Rehydrate slowly using 0.9% saline
+- Correct acidosis rapidly with bicarbonate
+- Replace ongoing urinary losses with 0.2% saline
+- Rehydrate initially with 3% saline
+> Deficit replaced evenly over 24-48 h with isotonic fluids. Bicarbonate and hypotonic fluids increase cerebral edema risk.
+
+@L17 442
+A newborn at 38 weeks delivered by emergency C-section for cord prolapse has arterial pH 6.89 at 30 minutes, SpO2 97%, lethargy, generalized hypotonia and weak suck. Management will include:
+- Zinc supplementation
+- Surfactant
+- Coenzyme Q10
+* Therapeutic hypothermia
+> Moderate-severe encephalopathy after a sentinel event with severe acidosis = HIE; cool within 6 h.
+
+@L23 442
+A 4-week-old has persistent jaundice since birth, pale stools, dark urine, hepatomegaly. Bilirubin 7.2 (direct 5.6), GGT very high, HIDA shows no excretion after 24 h. Next best step?
+* Kasai portoenterostomy
+- Oral corticosteroids
+- Ursodeoxycholic acid and observe 2 months
+- Liver transplant evaluation
+> Biliary atresia: intraoperative cholangiogram confirms, then Kasai as early as possible (best before 60 days). Transplant if Kasai fails.
+
+@L4 442
+A healthy term 2-month-old in Saudi Arabia comes for routine vaccines. According to the local schedule, which vaccines are given now?
+* DTaP, IPV, Hib, Hepatitis B, PCV and Rotavirus
+- MMR, Varicella and Hepatitis A
+- Influenza and Hepatitis A
+- Tdap, HPV and Meningococcal conjugate
+> Saudi schedule at 2, 4, 6 months: hexavalent (DTaP-IPV-Hib-HepB), PCV, rotavirus.
+
+@L27 442 dr
+A 4-year-old girl suddenly starts wheezing right after opening holiday gifts; her brother received toy cars with detachable wheels. Most appropriate test?
+- Chest CT
+- Chest ultrasound
+- Decubitus films
+* Inspiratory and expiratory films
+> Foreign body aspiration: expiratory film shows air trapping on the affected side (decubitus films in young children who cannot cooperate). Rigid bronchoscopy is diagnostic and therapeutic. Source PDF: "answer by Dr. Dana".
+
+@L19 442
+A 5-year-old girl has 8 weeks of intermittent right knee swelling and positive ANA. Other than uveitis, which systemic complication may develop in oligoarticular JIA?
+- Macrophage activation syndrome
+* Growth delay
+- Hemophagocytic lymphohistiocytosis
+- Vasculitis
+> Oligoarticular JIA can cause local growth disturbance (leg length discrepancy). MAS/HLH is associated with systemic JIA.
+
+@L20 442
+An 18-month-old girl has a "full" abdomen with an abdominal mass, hematuria and a solid renal mass on ultrasound. Most likely diagnosis?
+- Neuroblastoma
+- Leukemia
+- Lymphoma
+* Wilms tumor
+> Wilms: smooth flank mass not crossing midline, hematuria, hypertension, age 2-5. Neuroblastoma is adrenal, crosses midline, child looks ill.
+
+@L15 442
+Which advice on introducing complementary foods is correct?
+- Avoid honey until 4 years
+- Start with homemade fresh juice
+- Avoid allergenic foods until after 1 year
+* Introduce one new food every 3-5 days
+> One new food at a time helps identify reactions. Honey is avoided under 1 year (botulism). Juice is not recommended in infancy. No need to delay allergens.
+
+@L20 442
+A child develops hemolytic uremic syndrome after bacterial gastroenteritis. Which lab finding suggests this diagnosis?
+- Positive direct Coombs test
+- Decreased LDH
+- Decreased reticulocyte count
+* Thrombocytopenia
+> HUS triad: microangiopathic (Coombs-negative) hemolytic anemia, thrombocytopenia, AKI. LDH and retics are high.
+
+@L13 442
+A 10-year-old has fever, polyarthritis, tachycardia and a systolic murmur. You suspect acute rheumatic fever. Next step to support the diagnosis?
+- Chest X-ray
+- Right knee MRI
+- Cardiac enzymes
+* Antistreptolysin O titer
+> Jones criteria require evidence of preceding GAS infection (ASO, anti-DNase B, or positive culture). Echo assesses carditis.
+
+@L8 442
+A 10-year-old on a rural livestock farm who drinks unpasteurized goat milk has 4 weeks of low-grade fever, fatigue, weight loss, musculoskeletal pain and mild hepatosplenomegaly. Blood cultures pending. Next lab test?
+- ANA
+* Standard tube agglutination test (SAT)
+- ASO titer
+- Tuberculin skin test
+> Brucella serology: SAT titer >=1:160 (or >=1:320 in endemic areas) supports diagnosis.
+
+@L28 442
+A 10-year-old has 3 days of watery diarrhea, is thirsty, active, with mildly dry mucous membranes, CRT 2 s, taking sips without vomiting. Next step?
+* Oral rehydration therapy
+- Antidiarrheal medication
+- Admit and keep NPO
+- IV normal saline bolus
+> Mild-moderate dehydration: ORS (50-100 mL/kg over 4 h). Antidiarrheals are not used in children.
+
+@L15 442
+A Saudi mother with HIV on ART has a high viral load. What feeding advice is appropriate for her infant?
+- Exclusive breast milk until 6 months
+- Heat-treated breast milk
+* Commercially prepared formula instead of breastfeeding
+- Treat infant with antiretrovirals and then breastfeed
+> Where safe formula is available, HIV-positive mothers (especially with detectable viral load) should not breastfeed.

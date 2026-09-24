@@ -1,0 +1,151 @@
+@L23 442
+An 18-hour-old term formula-fed neonate is jaundiced. Mother O+, baby A+. Most important investigation to order?
+- Liver function tests
+- CBC
+* Coombs test
+- Kidney function tests
+> Early jaundice with possible ABO setup: direct antiglobulin (Coombs) test, plus bilirubin, blood group, retics.
+
+@L17 442
+A post-term (42 weeks) baby born through thick meconium needed PPV and intubation. Cord pH 6.8, HCO3 8, Apgar 3 and 4, hypotonic with possible seizures. Which treatment improves long-term neurological outcome?
+- Thyroxine
+* Therapeutic hypothermia
+- Inhaled nitric oxide
+- Fresh frozen plasma
+> Moderate-severe HIE: cooling within 6 hours of birth.
+
+@L17 442
+At 5 minutes, a 28-week newborn in a plastic wrap is on CPAP 5 cmH2O with FiO2 70%, pink, well perfused, HR 135. Main reason for his respiratory distress?
+- Transient tachypnea of the newborn
+* Surfactant deficiency
+- Pneumonia
+- Diaphragmatic hernia
+> RDS (hyaline membrane disease) is inversely related to gestational age.
+
+@L8 442
+A 10-year-old who drinks fresh camel milk on his grandfather's farm has 2 weeks of recurrent fever spikes, drenching night sweats, arthralgia, tender lymph nodes, relative bradycardia and raised AST/ALT. Most likely diagnosis?
+- Malaria
+- Tuberculosis
+- Typhoid fever
+* Brucellosis
+> Undulant fever + sweats + arthralgia + raw camel milk = brucellosis.
+
+@L17 442
+A term neonate delivered for cord prolapse has a secure airway. Despite PPV with corrective maneuvers, HR is 52. After 1 minute of compressions HR is 48. Best next step?
+- Chest tube for possible pneumothorax
+- Surfactant via ETT
+* Epinephrine via ETT until vascular access is established
+- Suction mouth and nose
+> HR <60 despite 30 s effective ventilation and 60 s of compressions with 100% O2: epinephrine (IV/UVC preferred; ETT while access is obtained).
+
+@L26 442
+A 13-year-old has 7 days of fever, nausea, non-productive cough, headache, fatigue, myalgia and arthralgia, now dyspnea. Scattered wheezes, bilateral interstitial opacities on CXR. Most likely organism?
+- Staphylococcus aureus
+* Mycoplasma pneumoniae
+- Haemophilus influenzae
+- Streptococcus pneumoniae
+> Atypical pneumonia in school-age children: gradual onset, extrapulmonary symptoms, interstitial pattern. Treat with a macrolide.
+
+@L13 442
+A 4-year-old has had fever for 5 days and you suspect Kawasaki disease. Which is a diagnostic criterion?
+- Vesicular rash
+- Inguinal lymphadenopathy
+* Cracked lips
+- Bilateral exudative conjunctivitis
+> Criteria: fever >=5 days + 4 of: non-exudative bilateral conjunctivitis, oral changes (cracked lips, strawberry tongue), polymorphous rash, extremity changes, unilateral cervical node >1.5 cm.
+
+@L11 442
+A 20 kg 5-year-old ingested 500 mg of paracetamol 10 hours ago and is asymptomatic. Next step?
+* Discharge with follow-up instructions
+- Gastric lavage
+- N-acetylcysteine
+- Activated charcoal
+> 500 mg / 20 kg = 25 mg/kg, well below the ~150-200 mg/kg toxic threshold for acute ingestion.
+
+@L22 442
+Which vaccine can be given to a child with SCID?
+- BCG
+- MMR
+- Rotavirus
+* Pneumococcal
+> Live vaccines (BCG, MMR, rotavirus, varicella, OPV) are contraindicated in SCID. Inactivated vaccines are safe (though response may be poor).
+
+@L18 442
+A 3-week-old has high fever, irritability, lethargy, poor feeding and leukocytosis (sepsis features). Best empirical antibiotics?
+* Ampicillin + ceftriaxone
+- Vancomycin
+- Ampicillin + cefuroxime
+- Meropenem
+> Late-onset neonatal sepsis: ampicillin (Listeria, GBS, enterococcus) + third-generation cephalosporin. Cefotaxime/ceftazidime is often preferred over ceftriaxone in neonates.
+
+@L10 442
+A 5-year-old wakes screaming at night, frightened, unaware of surroundings, hard to console, for several minutes, and does not remember in the morning. He also has vivid dreams he can describe. Diagnosis for the screaming episodes?
+- Sleep apnea
+- Sleepwalking
+* Night terrors
+- Nightmares
+> Night terrors: NREM, first third of night, inconsolable, no recall. The recalled dreams are nightmares.
+
+@L27 442
+A 10-year-old has 2 years of cough and dyspnea worse at night and with exercise, triggered by dust. Which test most assists diagnosis of asthma?
+- Chest ultrasound
+- Bronchoscopy
+- Chest X-ray
+* Spirometry
+> Spirometry with bronchodilator reversibility (FEV1 increase >=12%) in children >5-6 years.
+
+@L4 442
+An 18-month-old due for vaccines including varicella was exposed to active varicella at kindergarten this morning. What should the mother be told?
+- Skip this set and resume at 24 months
+- Come in to check serologic immunity first
+- No need to vaccinate; natural exposure gives immunity
+* Come to the clinic anyway; keep immunizations on schedule
+> Varicella vaccine within 3-5 days of exposure can prevent or modify disease. Exposure is not a contraindication.
+
+@L28 442
+A healthy 22 kg child is to receive maintenance IV fluids before surgery. Maintenance rate?
+* 62 mL/hour
+- 44 mL/hour
+- 100 mL/hour
+- 22 mL/hour
+> 4-2-1 rule: 4x10 + 2x10 + 1x2 = 40 + 20 + 2 = 62 mL/h.
+
+@L26 442
+A 5-year-old unvaccinated girl has severe sore throat, drooling, high fever and increasing breathing difficulty. Looks toxic, sits on her mother's lap refusing to move, tachypneic. Most likely diagnosis?
+- Bronchiolitis
+- Croup
+- Bronchitis
+* Epiglottitis
+> Hib epiglottitis: toxic, drooling, tripod, muffled voice. Keep calm; secure the airway in the OR.
+
+@L9 442
+A neonate with 2 days of vomiting, poor sucking, afebrile: pH 7.28, CO2 29, HCO3 14. To calculate the anion gap you need:
+- Sodium, glucose, magnesium
+* Sodium, chloride, bicarbonate
+- Sodium, potassium, calcium, chloride
+- Sodium, glucose, calcium
+> AG = Na - (Cl + HCO3).
+
+@L26 442
+A 3-year-old sitting upright, drooling and distressed with stridor and retractions. What is important when assessing suspected upper airway obstruction?
+- Establish IV access immediately
+- Examine supine
+* Avoid agitating the child
+- Keep the child in a crowded area
+> Agitation can precipitate complete obstruction. Let the child stay with the parent in a position of comfort; no throat exam or IV until the airway is secured.
+
+@L13 442
+A 5-year-old has 6 days of fever, conjunctivitis, strawberry tongue, hand swelling, diffuse rash and cervical lymphadenopathy. Which medication in initial treatment lessens the risk of complications?
+- IV antibiotics
+* IV immunoglobulin
+- NSAIDs
+- IV steroids
+> IVIG 2 g/kg (plus aspirin) reduces coronary aneurysm risk from ~25% to <5%.
+
+@L24 442
+A friend advises giving fresh cow's milk instead of formula to a 2-month-old. Before 1 year, cow's milk puts the baby at risk of:
+- Thalassemia
+- Physiological anemia
+* Iron deficiency anemia
+- Sickle cell anemia
+> Cow's milk is low in iron, inhibits absorption, and causes occult GI blood loss.

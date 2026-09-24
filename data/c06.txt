@@ -1,0 +1,191 @@
+@L5 442
+A 3-week-old has frequent milky vomiting, abdominal distension and a small, fixed RUQ mass. Advice for first initial management?
+- Reassure
+* Start intravenous fluids
+- Antiemetic and observe
+- Pediatric surgery consultation
+> Pyloric stenosis is not a surgical emergency. Correct dehydration and alkalosis first, then pyloromyotomy.
+
+@L28 442
+A 10 kg 1-year-old has fever, vomiting, acute diarrhea, HR 150, RR 50 with deep breaths, decreased turgor, lethargy, CRT 3 s. Next step?
+- Half normal saline bolus 200 mL over 30 min
+* Normal saline bolus 200 mL over 30 min
+- Normal saline at 40 mL/hour
+- D5 half normal saline at 40 mL/hour
+> Severe dehydration with poor perfusion: 20 mL/kg isotonic bolus. Hypotonic fluids are never used for boluses.
+
+@L15 442 dr
+A 2-week-old born at 36 weeks weighed 2.4 kg at birth and weighs 2.4 kg now. Parents are worried about intake. What would you advise?
+* Encourage breastfeeding
+- Prescribe premature formula
+- 80 kcal/kg/day
+- Prescribe soy formula
+> Regaining birth weight by 2 weeks is expected. Source PDF notes "Dr. Ahmed says this is the right answer."
+
+@L4 442
+A child received IVIG for Kawasaki disease and is now due for his 2-year (live) vaccines. Expected effect on the vaccine?
+- Unchanged immune response
+* Decreased immune response
+- Augmented immune response
+- Delayed immune response
+> Passive antibodies in IVIG neutralize live vaccines (MMR, varicella). Delay them about 11 months after high-dose IVIG.
+
+@L17 442
+A 12-hour-old infant born by C-section is jittery and hypoglycemic; the mother has diabetes. Likely cause of hypoglycemia?
+* Maternal diabetes
+- IUGR
+- Prematurity
+- Neural tube defects
+> Fetal hyperinsulinism from maternal hyperglycemia persists after birth.
+
+@L20 442
+A child has red urine following an upper respiratory infection. Urinalysis: 2+ protein, 20-30 RBC/HPF, dysmorphic RBCs. Most likely diagnosis?
+- Rhabdomyolysis
+- Membranous glomerulonephritis
+* IgA nephropathy
+- Nephrolithiasis
+> Synpharyngitic hematuria (1-2 days after URTI) = IgA nephropathy. PSGN occurs 1-3 weeks after infection with low C3.
+
+@L7 442
+A school-age child has streptococcal pharyngitis confirmed by rapid test. Antibiotics are started to prevent which serious complication?
+- Otitis media
+- Post-streptococcal glomerulonephritis
+* Rheumatic fever
+- Lower respiratory infection
+> Treatment within 9 days prevents rheumatic fever. It does NOT prevent PSGN.
+
+@L24 442
+A child with beta thalassemia major on chronic transfusions. Which complication will be seen?
+- Vaso-occlusive crisis
+- Acute chest syndrome
+* Iron overload
+- Stroke
+> Transfusional hemosiderosis (heart, liver, endocrine). Needs chelation. The other options are sickle cell complications.
+
+@L8 442
+A child has progressive cognitive decline. Parents say he had a viral exanthem 10 years ago. Most likely pathogen?
+- Varicella
+- Rubella
+* Measles
+- Mumps
+> Subacute sclerosing panencephalitis (SSPE), 7-10 years after measles.
+
+@L6 442
+A 14-year-old Saudi girl has jaundice after a week of flu-like illness. She recently swam in pools and beaches in Bahrain and donated blood a month ago. ALT 1225, AST 340, bilirubin 6.6, HBsAg negative, anti-HBs positive, anti-HCV negative, anti-HEV IgM negative. Most likely diagnosis?
+* Hepatitis A
+- Hepatitis B
+- Hepatitis C
+- Hepatitis D
+> Fecal-oral exposure + acute hepatitis. Anti-HBs positive with negative HBsAg = immune (vaccinated). Confirm with anti-HAV IgM.
+
+@L28 442
+What is the daily fluid requirement for an 18 kg child?
+* 1400 mL
+- 1700 mL
+- 1000 mL
+- 1500 mL
+> Holliday-Segar: 100x10 + 50x8 = 1000 + 400 = 1400 mL/day.
+
+@L27 442
+A child has intermittent asthma. What should be prescribed?
+* Short-acting beta agonist
+- SABA and inhaled corticosteroid
+- Long-acting beta agonist
+- Inhaled corticosteroid
+> Classic step 1: SABA as needed. Note: newer GINA recommends ICS whenever SABA is used (6-11 y) or as-needed ICS-formoterol (>=12 y), so check which your lecture taught.
+
+@L16 442
+A family follows a strict vegan diet. Which deficiency is expected?
+- Iron
+- Folate
+- Niacin
+* Vitamin B12
+> B12 is found almost only in animal foods. Iron can also be low, but B12 is the classic answer.
+
+@L20 442
+An 8-year-old girl was dry at night until age 6, now wets frequently at night. No UTIs, no daytime symptoms, recent school stress. Most likely contributing factor?
+- Neurological disorder
+* Psychological stress
+- UTI
+- Diabetes mellitus
+> Secondary enuresis (after >=6 months dry) is often triggered by stress. Still screen urine for UTI and glucose.
+
+@L18 442
+A 9-month-old has fever of 38.9 for 3 days, looks well, with no focus of infection. Next best step?
+- Empirical antibiotics and reassess in 48 h
+- Lumbar puncture
+- Chest X-ray
+* Urine microscopy and culture
+> UTI is the most common serious bacterial infection in febrile infants without a source.
+
+@L13 442
+A 3-year-old has 6 days of fever, conjunctivitis, lymph node enlargement and a maculopapular rash. What will you see on CBC?
+- Low platelets
+* High platelets
+- Low WBC
+- High RBC
+> Kawasaki: leukocytosis, normocytic anemia, raised ESR/CRP, and thrombocytosis (peaks in the 2nd-3rd week).
+
+@L17 442
+A neonate is born with a myelomeningocele. Best time for surgery?
+- Within 1 week
+* Within 24-48 hours
+- At discharge
+- After one month
+> Early closure (within 48-72 h) reduces the risk of infection (ventriculitis/meningitis).
+
+@L3 442
+A 4-month-old's head circumference is above the 98th percentile, with normal development and neurological exam. The father and his family have large heads. Next step?
+* Reassure and continue to monitor development
+- Urgent neurosurgery referral
+- Urgent brain CT to rule out hydrocephalus
+- Geneticist referral
+> Benign familial macrocephaly. Measure parents' heads; follow HC growth velocity.
+
+@L8 442
+A 6-year-old has fever, malaise and a slapped-cheek rash followed by a lacy body rash. Which complication is most associated with this infection in sickle cell anemia?
+- Splenic infarction
+- Myocarditis
+- HUS
+* Aplastic crisis
+> Parvovirus B19 infects erythroid progenitors; transient red cell aplasia is dangerous with short RBC survival.
+
+@L13 442
+A 15-year-old collapses suddenly while sitting in a class exam, with a few seconds of twitching, then several minutes of confusion. First episode. First investigation?
+- Brain CT
+* Electrocardiogram
+- Tilt-table test
+- EEG
+> ECG is the first test for any transient loss of consciousness to exclude arrhythmia (long QT, WPW, etc.). Brief myoclonic jerks can occur with syncope. Note: the post-event confusion makes seizure possible too; EEG would follow.
+
+@L15 442
+In which condition would you strongly advise against breastfeeding?
+- Mother returns to full-time work
+- Mother takes acetaminophen
+- Infant has congenital immunodeficiency
+* Mother has active untreated pulmonary tuberculosis
+> Separate until the mother has had about 2 weeks of treatment (expressed milk can be given). Other contraindications: HIV (in high-resource settings), galactosemia, HTLV.
+
+@L12 442
+A child begins to copy a square, hop on one foot and ask "why" and "how" questions. Most likely age?
+- 3 years
+* 4 years
+- 5 years
+- 6 years
+> 4 y: copies square (some texts: cross at 4, square 4-5), hops, tells stories, "why" questions.
+
+@L7 442
+A well, afebrile 4-year-old has small perioral vesicles that rupture leaving honey-colored crusts. Initial management?
+- IV clindamycin
+- Oral fluconazole
+- Oral acyclovir
+* Topical mupirocin
+> Localized impetigo: topical mupirocin or fusidic acid. Oral antibiotics for extensive disease.
+
+@L14 442
+A 2-day-old has blue lips and tongue, SpO2 84% on room air, not improving with 100% oxygen. What best differentiates central from peripheral cyanosis?
+* Discoloration of mucous membranes and tongue
+- Degree of hypothermia
+- Heart rate response to oxygen
+- Bluish hands and feet
+> Central cyanosis involves the tongue and mucous membranes. Failure to rise with O2 suggests cyanotic CHD.

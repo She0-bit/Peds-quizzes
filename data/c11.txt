@@ -1,0 +1,23 @@
+@L24 442
+A child has petechiae and ecchymoses (no other bleeding), no family history, and platelet count 33,000. Best therapy?
+* Observe
+- Steroids
+- Immunoglobulin
+- Prophylactic antibiotics
+> Newly diagnosed ITP with only skin bleeding: observation (ASH 2019), regardless of platelet count. Steroids or IVIG for mucosal/significant bleeding. Check what your lecture taught, as some teach treatment below a count threshold.
+
+@L24 442
+A 7-year-old has pallor, fatigue and hepatosplenomegaly. Low Hb and low platelets. Most likely diagnosis?
+- Wilms tumor
+- Hodgkin lymphoma
+* B-cell acute lymphoblastic leukemia
+- Medulloblastoma
+> Bone marrow failure (anemia, thrombocytopenia) + organomegaly = ALL, the most common childhood cancer.
+
+@L25 442
+A child has slurred speech and left facial twitching at night with no focal deficit. What will you see on EEG?
+- Occipital spikes
+* Centrotemporal spikes
+- Spikes on hyperventilation
+- 3-Hz spike and wave
+> Benign epilepsy with centrotemporal spikes (Rolandic): nocturnal hemifacial seizures with drooling/speech arrest, good prognosis.

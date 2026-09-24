@@ -1,0 +1,114 @@
+@L3 441
+An 8-year-old has not grown in height for 2 years. Which best approximates the normal prepubertal annual height gain?
+- 1-2 cm
+- 2-4 cm
+* 4-8 cm
+- 8-12 cm
+> Prepubertal children grow about 5-6 cm/year. Less than 4 cm/year after age 3 needs evaluation.
+
+@L12 441
+A child rides a tricycle, draws a cross and helps to dress himself. Expected age?
+- 16 months
+- 24 months
+- 30 months
+* 36 months
+> 3 years: tricycle, copies circle/cross, helps dress, alternates feet on stairs.
+
+@L20 441
+A patient with E. coli O157 has acute renal failure and anemia (HUS). What do you expect to see?
+- Thrombocytosis
+- High haptoglobin
+* Fragmented RBCs (schistocytes)
+> Microangiopathic hemolysis: schistocytes, low haptoglobin, high LDH, thrombocytopenia.
+
+@L15 441
+What is the earliest time you can give cow's milk?
+- 3 months
+- 6 months
+* 1 year
+- 2 years
+> Whole cow's milk as a main drink from 12 months.
+
+@L17 441
+A 3-week-old has microcephaly, periventricular calcifications and blindness. Most likely cause?
+- Bilateral subdural hemorrhage
+- Cerebral agenesis
+- Primary microcephaly
+* Congenital CMV infection
+> CMV: periventricular calcification, microcephaly, chorioretinitis, sensorineural hearing loss. Toxoplasmosis gives diffuse calcifications + hydrocephalus.
+
+@Other 441
+A 4-year-old has axillary freckling, 6 cafe-au-lait spots and neurological manifestations. Diagnosis?
+- Tuberous sclerosis
+* Neurofibromatosis type 1
+- Sturge-Weber syndrome
+> NF1 criteria: >=6 CALMs (>5 mm prepubertal), axillary/inguinal freckling, neurofibromas, optic glioma, Lisch nodules, bone lesions, first-degree relative.
+
+@L20 441
+An 8-year-old has never been dry at night (3-4 wet nights/week), dry by day since 3, no urinary symptoms, normal exam and urinalysis; father wet until 9. Best next step?
+* Decrease fluids at bedtime and use a bedwetting alarm
+- Trial of oxybutynin
+- Trial of imipramine
+- Lower spine MRI
+> Primary monosymptomatic enuresis (strong family history). Behavioral measures and alarm first; desmopressin as alternative.
+
+@L22 441
+DiGeorge syndrome is a defect in which arm of immunity?
+* Cellular
+- Humoral
+- Complement
+- Phagocytic
+> Thymic hypoplasia means a T-cell (cellular) immunodeficiency.
+
+@L24 441
+A patient has G6PD deficiency with hemolysis. Which lab finding is true?
+* High reticulocytes
+- Thrombocytosis
+- High haptoglobin
+> Hemolysis: high retics, low haptoglobin, high LDH and indirect bilirubin; Heinz bodies and bite cells on smear.
+
+@L28 441
+Oral rehydration solution (homemade) contains:
+* Half teaspoon salt and 6 teaspoons sugar in 1 liter of water
+- Half teaspoon salt and 6 teaspoons sugar in 1 liter of apple juice
+- Half teaspoon sugar and 6 teaspoons salt in 1 liter of water
+- Half teaspoon sugar and 6 teaspoons salt in 1 liter of apple juice
+> WHO home recipe: 1/2 level teaspoon salt + 6 level teaspoons sugar in 1 L clean water.
+
+@L26 441
+A 3-month-old ex-preterm was in the NICU for weeks and has just been discharged. Parents fear severe lower respiratory infection. What do you advise?
+- Just stick with the vaccination schedule
+* Palivizumab injection once a month during winter (RSV season)
+- Omalizumab injection once a month during winter
+> Palivizumab (anti-RSV monoclonal) for high-risk infants (prematurity, CLD, significant CHD). Nirsevimab is a newer single-dose option. Omalizumab is anti-IgE.
+
+@L19 441
+A 12-year-old girl has 2 weeks of fever and polyarthralgia; she looks well but pale. Urine shows traces of protein and blood. Most likely diagnosis?
+- Rheumatic fever
+- Systemic juvenile idiopathic arthritis
+* Systemic lupus erythematosus
+- Goodpasture syndrome
+> Adolescent girl + fever + arthralgia + anemia + renal involvement = SLE.
+
+@L20 441
+On urine dipstick, which of the following is heme-negative (red/pink urine without blood)?
+- Alport syndrome
+* Urate crystals
+- Post-streptococcal glomerulonephritis
+> Urate crystals give pink/brick-colored diapers with a negative heme test. Glomerular causes contain RBCs (heme positive).
+
+@L7 441
+A child has fever, sore throat and a unilateral, tender, erythematous cervical lymph node. Most likely causative agent?
+- Adenovirus
+* Staphylococcus aureus
+- EBV
+- Cat scratch disease
+> Acute unilateral pyogenic lymphadenitis: S. aureus and GAS. EBV and adenovirus give bilateral nodes; cat scratch is subacute and less tender. (The source notes list S. aureus.)
+
+@L8 441
+A well 2-year-old has tender vesicular lesions on both feet, a few on his hands and tongue. Most likely cause?
+* Coxsackie A virus
+- Flea bites
+- Mumps
+- Ebola virus
+> Hand, foot and mouth disease (Coxsackie A16, enterovirus A71).

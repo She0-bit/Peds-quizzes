@@ -1,0 +1,58 @@
+@L3 441
+A boy's growth chart shows short stature with delayed bone age. Most likely diagnosis among these?
+- Turner syndrome
+* Growth hormone deficiency
+- Skeletal dysplasia
+> Delayed bone age: GH deficiency, hypothyroidism, constitutional delay. Normal bone age: familial short stature, skeletal dysplasia. Turner occurs in girls.
+
+@L19 441
+A boy has palpable purpura on the lower limbs and buttocks, joint pain and abdominal pain. Which immunoglobulin is involved?
+* IgA
+- IgG
+- IgM
+> Henoch-Schonlein purpura (IgA vasculitis). Monitor urinalysis and BP for nephritis.
+
+@L16 441
+A neglected child in hospital develops pedal edema, ascites, hepatomegaly, and is apathetic and hard to console. Most likely diagnosis?
+- Nephrotic syndrome
+- Marasmus
+* Kwashiorkor
+> Protein-energy malnutrition with edema, fatty liver (hepatomegaly), skin/hair changes and apathy = kwashiorkor.
+
+@L17 441
+A 2-day-old term neonate has multiple firm yellow-white 1-2 mm papules with a surrounding erythematous flare on the trunk. Wright stain shows many eosinophils. Active and feeding well. Diagnosis?
+- Herpes simplex infection
+- Pustular melanosis
+* Erythema toxicum
+- Folliculitis
+> Erythema toxicum neonatorum: benign, eosinophil-filled pustules with red flare, days 1-3. Transient pustular melanosis has neutrophils and no erythema.
+
+@L12 441 dr
+An 18-month-old boy: what can he do?
+- Copies a line
+- Handles a spoon well
+* Helps to undress
+- Stands on one leg for 10 seconds
+> Source PDF: "doctor said this is the right answer." 18 m: removes clothes, uses spoon with spilling, scribbles, 10-25 words.
+
+@L13 441
+A girl has migratory arthritis after a GAS infection. What is true about this arthritis?
+- It is painless
+* It heals without deformity
+- It affects large and small joints
+> Rheumatic fever arthritis: very painful, migratory, large joints, responds dramatically to aspirin, leaves no deformity.
+
+@L27 441
+A 14-year-old with asthma on a bronchodilator exercises normally, has no night waking, and had one ER-treated exacerbation last year. State of his asthma control?
+* Well controlled
+- Partially controlled
+- Poorly controlled
+> Control is judged on the last 4 weeks of symptoms (daytime symptoms, night waking, reliever use, activity limitation). A past exacerbation is a future-risk factor, not a control criterion.
+
+@L5 441
+An 18-month-old has a brief generalized seizure with fever 40 C. During a (normal) LP he passes a large watery stool with blood and mucus. Most likely diagnosis?
+- Salmonella
+- Enterovirus
+- Rotavirus
+* Shigella
+> Shigella: high fever, febrile seizures (neurotoxin), bloody mucoid diarrhea.

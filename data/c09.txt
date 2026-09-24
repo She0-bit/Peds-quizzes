@@ -1,0 +1,55 @@
+@L20 442
+A 6-year-old has persistent proteinuria on dipstick at a routine check, otherwise normal exam and no family history. Most appropriate initial investigation?
+* Urine protein-to-creatinine ratio
+- Serum complement levels
+- Kidney biopsy
+- Renal ultrasound
+> Quantify first with a (first-morning) UPCR: normal <0.2 mg/mg, nephrotic >2.
+
+@L28 442
+A well-hydrated 30 kg 6-year-old is admitted for elective surgery. Maintenance IV volume for the next 24 hours?
+- 1900 mL
+* 1700 mL
+- 1100 mL
+- 2200 mL
+> 1000 + 500 + 20 x 10 = 1700 mL/day.
+
+@L11 442
+A 2-month-old girl is fussy, sleepy, poorly feeding and difficult to console, afebrile, with a full fontanelle and dilated pupils. CBC, electrolytes and urinalysis are normal. CT shows subdural hematoma. Most likely diagnosis?
+- Galactosemia
+- Meningoencephalitis
+- Von Willebrand disease
+* Nonaccidental trauma
+> Subdural hematoma in a non-mobile infant without a clear history = abusive head trauma until proven otherwise. Do skeletal survey and fundoscopy for retinal hemorrhages.
+
+@L18 442
+A previously healthy 7-year-old has 3 days of fever and headache and 1 day of abnormal movements, now lethargic with decreased consciousness. CSF is clear with mild lymphocytic pleocytosis, normal glucose, slightly high protein. Diagnosis?
+- Autoimmune encephalitis
+- Tuberculous meningitis
+* Viral encephalitis
+- Bacterial meningitis
+> Altered consciousness + seizures + viral CSF picture = encephalitis (HSV until proven otherwise: start IV acyclovir).
+
+@L7 442 dr
+A 1-year-old has 2 days of irritability, poor feeding, strong-smelling pink urine, no urine since morning, fever 38.8, and cries when the lower abdomen is palpated. Next step?
+- Voiding cystourethrogram
+- Renal ultrasound
+* Transurethral catheterization
+- Administer cefixime
+> Obtain a reliable urine sample by catheterization before starting antibiotics (and it relieves possible retention). Source PDF marks this as "confirmed by dr".
+
+@L3 442
+A mother asks how she will know her 9-year-old daughter is beginning puberty. First visible sign?
+* Breast buds
+- Menarche
+- Early pubic hair
+- Axillary hair
+> Thelarche is the first sign of female puberty (age 8-13). Menarche comes about 2-2.5 years later.
+
+@L23 442
+A 3-month-old has progressively worsening jaundice since birth, pale stools, dark urine, hepatomegaly and poor weight gain. Most definitive test to confirm biliary atresia?
+- Abdominal ultrasound
+- CT of the liver and biliary tract
+- Liver function tests
+* (Intraoperative) cholangiography
+> Intraoperative cholangiogram is the gold standard.

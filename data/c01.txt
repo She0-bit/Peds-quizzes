@@ -1,0 +1,284 @@
+@L5 443
+A 4-week-old male infant presents with progressive, non-bilious projectile vomiting after feeds. The infant remains hungry after vomiting. Exam shows mild dehydration and a small, firm epigastric mass. Labs show hypochloremic metabolic alkalosis. What is the most likely diagnosis and appropriate management?
+- Sepsis; IV antibiotics and fluid resuscitation
+- Intestinal malrotation; urgent exploratory laparotomy
+- GERD; reassurance and feeding modification
+* Pyloric stenosis; correct electrolytes followed by surgical pyloromyotomy
+> Classic hypertrophic pyloric stenosis ("olive"). Electrolytes and fluids must be corrected before pyloromyotomy.
+
+@L28 443
+A 6-month-old infant presents with diarrhea and poor feeding. Serum sodium is 165 mEq/L. What is the most appropriate rehydration strategy?
+- Rapid correction over 6-8 hours
+- Bolus followed by rapid hypotonic fluid
+* Rehydration over 48 hours
+- Rehydration over 24 hours
+> Hypernatremic dehydration is corrected slowly (about 48 h, sodium drop no more than ~10-12 mEq/L/day) to avoid cerebral edema.
+
+@L26 443
+A 14-month-old girl has nasal congestion, hoarse cough and fever for 2 days, then "noisy breathing". Drinking well. RR 38, T 38.4. Inspiratory stridor only when crying, resolves at rest. What is the most appropriate next step?
+* Prescribe oral dexamethasone
+- Oral course of amoxicillin
+- Administer racemic epinephrine
+- Neck radiograph
+> Mild croup (no stridor at rest): single dose of oral dexamethasone. Racemic epinephrine is for moderate/severe croup with stridor at rest.
+
+@L17 443
+A 4-day-old newborn has lost 5% of birth weight. The baby is breastfeeding well with adequate urine output. What is the most appropriate interpretation?
+- Indicates poor milk supply
+- Abnormal weight loss
+- Suggests dehydration
+* Normal physiological weight loss
+> Up to ~7-10% weight loss in the first week is physiological; birth weight is regained by 10-14 days.
+
+@L22 443
+Marked leukocytosis with severe recurrent necrotizing bacterial infections in a child with a history of delayed separation of the umbilical cord most likely suggests:
+* A leukocyte adhesion defect
+- Chronic granulomatous disease
+- Shwachman-Diamond syndrome
+- Agammaglobulinemia
+> LAD: neutrophils cannot leave vessels, so high WBC, no pus, delayed cord separation (>30 days).
+
+@L26 443
+An 11-month-old has 4 days of productive cough and congestion, now wheezing. Feeding slightly less but wet diapers normal. T 37.5, HR 130, RR 30, SpO2 95%, looks well, mild subcostal retractions and intermittent wheeze. Most appropriate next step?
+- Obtain chest X-ray
+* Provide supportive care in the outpatient setting
+- Obtain nasopharyngeal swab for virologic testing
+- Refer to nearest emergency department
+> Mild bronchiolitis: clinical diagnosis, no routine CXR or viral testing; supportive care at home if feeding and oxygenating well.
+
+@L28 443
+A 6-year-old admitted for elective surgery is well-hydrated, afebrile, with normal glucose and sodium. Most appropriate maintenance IV fluid?
+- Ringer's lactate at maintenance rate
+- 5% dextrose in 0.2% saline
+- 5% dextrose in water
+* 5% dextrose in 0.9% saline
+> Current guidance (AAP 2018) favors isotonic maintenance fluid with dextrose to prevent hospital-acquired hyponatremia (surgery = high ADH state).
+
+@L27 443
+A 9-year-old boy has months of sneezing, nasal itching, clear rhinorrhea and congestion, worse in spring. Pale, boggy turbinates. Most appropriate approach?
+- Measure serum IgE only and prescribe oral decongestants
+- Nasal culture and oral antibiotics
+- CT sinuses and systemic corticosteroids
+* Allergy testing if needed and intranasal corticosteroids
+> Allergic rhinitis: clinical diagnosis, intranasal steroids are first-line; allergy testing to identify triggers when needed.
+
+@L9 443
+A 9-year-old took an unknown amount of aspirin 4 hours ago. Vomiting, tachypnea, tinnitus. T 38, RR 34. Salicylate 45 mg/dL, pH 7.48, HCO3 16, K 3.2, high anion gap. Next management step?
+- IV fluids only and repeat salicylate level in 6 hours
+* Activated charcoal and IV sodium bicarbonate infusion
+- Intubate to correct hyperventilation
+- Start hemodialysis immediately
+> Symptomatic salicylate toxicity: decontaminate and alkalinize urine with bicarbonate (correct K). Dialysis is for very high levels (e.g., >90-100 mg/dL), AMS, renal failure, or pulmonary edema. Intubation can worsen acidosis.
+
+@L9 443
+A 10-month-old has profuse watery diarrhea for 3 days, dehydrated and tachypneic. ABG: pH 7.18, PaCO2 30, HCO3 14. Most appropriate interpretation?
+- Mixed respiratory and metabolic alkalosis
+* Metabolic acidosis due to bicarbonate loss
+- Respiratory alkalosis due to hyperventilation
+- Metabolic alkalosis due to volume depletion
+> Low pH + low HCO3 = metabolic acidosis (normal anion gap from stool HCO3 loss); low PaCO2 is respiratory compensation.
+
+@L27 443
+A 6-year-old has 4 months of recurrent cough and wheeze triggered by football and colds. Mild end-expiratory wheeze, CXR normal. Which feature most supports asthma?
+- Productive cough with green sputum for 3 weeks
+* Cough and wheezing that improve with bronchodilator therapy
+- Persistent daily cough without wheezing
+- Fever and chills with chest pain
+> Reversibility with bronchodilator is a key supportive feature of asthma.
+
+@L6 443
+A 6-year-old has chronic constipation with painful defecation and stool withholding. Normal anus, fecal mass in the abdomen, occasional bright red blood on toilet paper. Diagnosis and initial management?
+* Functional constipation; stool softeners and behavioral modification
+- Hirschsprung disease; rectal biopsy
+- IBD; colonoscopy and steroids
+- Meckel diverticulum; surgical resection
+> Withholding + painful stools + fissure bleeding = functional constipation. Treat with disimpaction, osmotic laxatives (PEG), toilet training.
+
+@L27 443
+An 8-year-old girl with seasonal allergic rhinitis has 6 months of episodic dry cough, dyspnea, chest tightness. Diffuse expiratory wheeze, FEV1 70%. Which drug is most effective at reducing bronchial inflammation?
+- Oral theophylline
+* Inhaled glucocorticoid
+- Inhaled ipratropium bromide
+- Inhaled salmeterol
+> ICS are the main anti-inflammatory controller in asthma.
+
+@L11 443
+A 6-year-old with eczema develops generalized urticaria, lip swelling, wheeze and hypotension shortly after eating peanuts. Initial management and key long-term precaution?
+* IM epinephrine; prescribe epinephrine auto-injector and emergency action plan
+- Nebulized salbutamol; reassure it is self-limited
+- Oral antihistamines; advise peanut avoidance only
+- IV corticosteroids; skin-prick testing immediately
+> Anaphylaxis: IM epinephrine (0.01 mg/kg, anterolateral thigh) first. Discharge with auto-injector and action plan.
+
+@L23 443
+A 25-day-old term infant has progressive jaundice, clay-colored stools and hepatomegaly. Total bilirubin 15, direct 9 mg/dL. Most likely diagnosis?
+- Breast milk jaundice
+- Hemolytic disease of the newborn
+- Physiological jaundice
+* Biliary atresia
+> Conjugated hyperbilirubinemia + acholic stools = biliary atresia until proven otherwise; Kasai before ~60 days.
+
+@L20 443
+A 7-year-old boy wets the bed at night but is dry during the day. No urinary symptoms, normal exam. First step?
+- Renal ultrasound
+* Reassure parents and start behavioral therapy (bedwetting alarm)
+- Diagnose UTI
+- Start anticholinergic medication
+> Monosymptomatic nocturnal enuresis: reassurance, behavioral measures, enuresis alarm (desmopressin as alternative).
+
+@L18 443
+A 9-year-old girl has fever, erythema, tenderness and edema over the left eye, with limited ocular movement and decreased visual acuity. Most appropriate management?
+- IV immunoglobulin
+* Antibiotics and urgent ophthalmology consultation
+- Epinephrine immediately
+- ANA level
+> Painful/limited eye movement and reduced vision = orbital (post-septal) cellulitis: IV antibiotics, urgent ophthalmology, CT orbits.
+
+@L12 443
+A 2-year-old comes for routine developmental assessment. He is expected to be able to:
+- Draw a square
+- Ride a tricycle and tie shoes
+- Use 10 words and combine them into long sentences
+* Run and kick a ball
+> 2 y: runs, kicks ball, 2-word phrases, ~50 words. Tricycle 3 y, square 4 y, tie shoes 5-6 y.
+
+@L15 443
+A mother breastfeeds her child every 2-3 hours. Choose the appropriate answer:
+* It is appropriate to breastfeed on demand
+- Feeding every 2-3 h is excessive
+- The mother should wait for the child to cry
+- The mother should breastfeed more
+> On-demand feeding, 8-12 times/day in early infancy, is normal. Crying is a late hunger cue.
+
+@L8 443
+A child with brucellosis treated with rifampicin still has fever after 10 days. Next step?
+- Continue rifampicin alone for one more week
+* Add trimethoprim-sulfamethoxazole to rifampicin
+- Stop rifampicin
+- Start biologics
+> Brucellosis needs combination therapy (monotherapy relapses). In children <8 y: TMP-SMX + rifampicin; >8 y: doxycycline + rifampicin.
+
+@L22 443
+A 5-month-old has had recurrent infections since 2 months including PCP pneumonia and oral thrush. Severe lymphopenia, absent thymic shadow. Most likely diagnosis?
+- X-linked agammaglobulinemia
+* Severe combined immunodeficiency
+- DiGeorge syndrome
+- Chronic granulomatous disease
+> Early opportunistic infections + lymphopenia + absent thymus = SCID (medical emergency; HSCT).
+
+@Other 443
+A fetus is at high risk for Down syndrome and the mother wants a definitive invasive test to confirm trisomy 21. Most appropriate investigation?
+- Non-invasive prenatal testing
+* CVS or amniocentesis
+- Nuchal translucency ultrasound
+- Maternal serum screening
+> NIPT, NT and serum screening are screening tests. Diagnostic (invasive) karyotyping = CVS or amniocentesis.
+
+@L7 443
+A 7-year-old unvaccinated child has fever and a vesicular rash in different stages of healing. Best management?
+* Oral acyclovir
+- IV antiviral therapy
+- Corticosteroids
+- Antibiotics
+> Varicella. In a healthy child it is mostly supportive; oral acyclovir if started early / risk factors. IV is for immunocompromised or complicated cases. Among these options, oral acyclovir fits best.
+
+@L24 443
+Which laboratory finding is most consistent with hemolytic anemia?
+* High reticulocyte count
+- Low hemoglobin only
+- Low MCV
+- Prolonged PT
+> Hemolysis: high retics, high indirect bilirubin, high LDH, low haptoglobin.
+
+@L24 443
+A healthy 10-week-old has Hb 10 g/dL with normal MCV and no symptoms. Next step?
+- Start oral iron
+* Reassure
+- Hemoglobin electrophoresis
+- Coombs test
+> Physiologic anemia of infancy (nadir ~8-12 weeks in term infants, Hb ~9-11), normocytic. No treatment.
+
+@L17 443
+A neonate presents with respiratory distress and a scaphoid abdomen. Diagnosis?
+* Congenital diaphragmatic hernia
+- Pectus excavatum
+- Pulmonary sequestration
+- Choanal atresia
+> Bowel in the chest (usually left, Bochdalek) = scaphoid abdomen + respiratory distress. Avoid bag-mask ventilation; intubate, NG decompression.
+
+@Other 443
+A child has a hard thyroid nodule with cervical lymphadenopathy. Next step?
+* Thyroid ultrasound + FNA
+- Observation
+- Antibiotics
+- Reassure
+> Pediatric thyroid nodules carry higher malignancy risk; hard nodule + nodes needs US and FNA.
+
+@L25 443
+A child started a new antiepileptic drug and 2-3 weeks later developed fever, rash, eosinophilia and elevated liver enzymes. Diagnosis?
+* DRESS
+- SJS
+- TEN
+- AGEP
+> DRESS: latency 2-8 weeks, fever, rash, eosinophilia, organ involvement (liver). Aromatic AEDs (carbamazepine, phenytoin, lamotrigine) are common causes.
+
+@L9 443
+A neonate has metabolic acidosis, hypoglycemia and mild hyperammonemia, with a family history of neonatal death. Most likely diagnosis?
+* Organic acidemia
+- Urea cycle defect
+- Branched-chain amino acid disorder
+- Fatty acid oxidation defect
+> Organic acidemias: high anion gap acidosis + ketosis +/- hypoglycemia, mild-moderate ammonia. Urea cycle defects give very high ammonia with respiratory alkalosis, no acidosis.
+
+@L25 443
+A child has seizures lasting 3 minutes, only during fever. Diagnosis?
+* Simple febrile seizure
+- Complex febrile seizure
+- Status epilepticus
+- Absence seizure
+> Simple: generalized, <15 min, once in 24 h, age 6 m-5 y. Complex: focal, >15 min, or recurs within 24 h.
+
+@L25 443
+A child has brief staring spells with eyelid fluttering and generalized spikes on EEG. Diagnosis?
+- Juvenile absence epilepsy
+* Childhood absence epilepsy
+- Focal epilepsy
+- Myoclonic epilepsy
+> Childhood absence (4-10 y): many brief daily staring spells, 3 Hz spike-wave, provoked by hyperventilation. Treat with ethosuximide.
+
+@L15 443
+A child can sit with support and shows interest in food. Most appropriate feeding recommendation?
+- Start cow's milk
+* Start iron-rich complementary foods
+- Delay solids until 9 months
+- Avoid allergenic food
+> Signs of readiness around 6 months: start complementary foods, iron-rich first. No need to delay allergenic foods.
+
+@L20 443
+A child's urine protein is negative in the morning and 2+ in the afternoon. Diagnosis?
+* Orthostatic proteinuria
+- Nephrotic syndrome
+- Transient proteinuria
+> Orthostatic (postural) proteinuria: first-morning sample normal, protein appears after being upright. Benign.
+
+@L18 443
+A 4-month-old infant has fever and gram-positive diplococci on culture. What is the organism?
+* Streptococcus pneumoniae
+- Group A streptococcus
+- Group B streptococcus
+> Gram-positive lancet-shaped diplococci = pneumococcus. Streptococci otherwise appear in chains.
+
+@L20 443
+Schistocytes on peripheral smear after a diarrheal illness. What is the causative organism?
+* E. coli O157:H7
+- Non-typhoid salmonella
+- Entamoeba histolytica
+> HUS (microangiopathic hemolytic anemia + thrombocytopenia + AKI), classically after Shiga toxin-producing E. coli O157:H7.
+
+@L17 443
+How do you screen a 25-week preterm for intraventricular hemorrhage (IVH)?
+- MRI
+- CT
+* Cranial ultrasound
+- EEG
+> Bedside cranial ultrasound through the anterior fontanelle, recommended for infants <30-32 weeks.

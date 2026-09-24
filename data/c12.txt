@@ -1,0 +1,121 @@
+@L27 441
+You are following a 13-year-old with asthma. Which is a reliever therapy?
+- Seretide (salmeterol + fluticasone)
+- Fluticasone
+- Zafirlukast
+* Symbicort (budesonide + formoterol)
+> Formoterol has a rapid onset, so budesonide-formoterol can be used as reliever (MART / as-needed ICS-formoterol). Salmeterol is slow-onset and is not a reliever.
+
+@L27 441
+A child has wheezing and sudden cough that started when he was alone in a room. CXR shows unilateral hyperinflation. Asthma therapy gives no improvement. Next step?
+* Bronchoscopy
+- Oral steroids
+- Higher dose of inhaled corticosteroids
+> Unwitnessed choking + unilateral hyperinflation (ball-valve) = foreign body. Rigid bronchoscopy.
+
+@L24 441
+A 9-month-old term girl has iron deficiency anemia. She had formula until 6 months, then baby foods and whole cow's milk. Which is correct?
+- Her age is atypical for iron deficiency
+- Full-term babies are at high risk of iron deficiency
+* Early introduction of cow's milk is the likely cause
+- Early introduction of solids is the likely cause
+> Cow's milk before 12 months: low iron, poor bioavailability, occult GI blood loss.
+
+@L20 441
+Which is an indication for renal biopsy in nephrotic syndrome?
+* Gross hematuria
+- Age between 1 and 8 years
+- Protein/creatinine ratio of 2.5
+- Serum albumin <2.5 g/dL
+> Gross hematuria, hypertension, low C3, renal failure, age <1 or >12, or steroid resistance suggest a lesion other than minimal change disease.
+
+@L18 441
+A neonate is in shock (tachycardia, tachypnea, CRT >4 s). Cultures grow gram-positive cocci. Most likely organism?
+* Group B streptococcus
+- Streptococcus pneumoniae
+- Group A streptococcus
+- Streptococcus viridans
+> GBS is the leading cause of neonatal sepsis (with E. coli).
+
+@L15 441
+A 2-week-old formula-fed neonate was 3.6 kg at birth and is now 2.8 kg. He sleeps about 18 hours. Main concern?
+- Sleep hours
+* Calorie intake
+- Ingestion of solid food
+- Vaccination
+> 22% below birth weight at 2 weeks is abnormal (should have regained birth weight). 16-18 h sleep is normal for a newborn.
+
+@L5 441
+A 5-year-old with GERD has failed conservative management. Next step?
+* Initiate medical therapy
+- Surgery (fundoplication)
+- Diet
+> Step up to acid suppression (PPI/H2 blocker) after lifestyle measures fail. Fundoplication is reserved for refractory or life-threatening cases.
+
+@L9 441
+All of the following are true about salicylate poisoning EXCEPT:
+- Activated charcoal is effective
+* It causes respiratory acidosis and metabolic alkalosis
+- Urine alkalinization increases salicylate elimination
+- Hyperglycemia followed by hypoglycemia
+> Salicylates cause respiratory ALKALOSIS (direct respiratory center stimulation) and high anion gap metabolic ACIDOSIS.
+
+@L18 441
+A child has fever, headache and behavioral change. CSF is clear with normal glucose, slightly raised protein and lymphocytosis. Imaging shows temporal lobe involvement. Best next step?
+- Lumbar puncture
+- Antibiotics
+* IV acyclovir
+> Temporal lobe encephalitis = HSV. Start IV acyclovir immediately; confirm with CSF HSV PCR.
+
+@L4 441
+A 4-year-old has only received his 2- and 4-month vaccines. Appropriate action?
+* Give vaccines for his current age and catch up the missed ones
+- Give only current-age vaccines and ignore the missed ones
+- Repeat the 2- and 4-month doses
+> Never restart a series. Continue where it stopped, following the catch-up schedule.
+
+@L21 441
+A child with renal failure missed dialysis and looks sick. What will his blood gas show?
+* High anion gap metabolic acidosis
+- Metabolic alkalosis
+- Respiratory acidosis
+> Retained acids (sulfate, phosphate, urate) cause high AG metabolic acidosis in uremia.
+
+@L20 441
+A child's BP is 114/74, between the 50th and 90th percentile. Next step?
+- Diet and healthy lifestyle
+- Start antihypertensive treatment
+* Reassure the parents that it is normal
+> <90th percentile is normal BP.
+
+@L14 441
+A 4-month-old seen for an ear infection has a heart murmur. Which feature most suggests it needs further investigation?
+* Presence of a thrill
+- Disappears on lying flat
+- Body weight of 6 kg
+- Systolic murmur
+> Pathological features: thrill (grade >=4), diastolic, pansystolic, loud, harsh, symptoms, abnormal S2. Innocent murmurs change with posture. 6 kg is normal at 4 months.
+
+@L12 441
+A child can draw a cross/square. What is his age?
+- 2 years
+- 3 years
+* 4 years
+- 5 years
+> Circle 3 y, cross 3-4 y, square 4 y, triangle 5 y.
+
+@L8 441
+A 10-year-old has fever, exudative tonsillitis, prominent lymphadenopathy and lethargy. Amoxicillin was given; the next day she developed a maculopapular rash. She has splenomegaly. Cause of the rash?
+* EBV infection with amoxicillin reaction
+- Immune complex
+- Streptococcal pharyngitis
+- Parvovirus infection
+> Infectious mononucleosis: amoxicillin/ampicillin causes a rash in most patients. Avoid contact sports due to splenomegaly.
+
+@L4 441
+A mother does not want her infant to get varicella and MMR on the same day and asks to return in 2 weeks for the second. Best response?
+* If live vaccines are not given simultaneously, they must be separated by at least 28 days
+- Live vaccines may be given within 4 days of one another
+- Live vaccines may be given within 2 weeks of one another
+- Giving more than one live vaccine on the same day increases adverse reactions
+> Interference: a second injectable live vaccine given within 28 days of the first may be less effective.

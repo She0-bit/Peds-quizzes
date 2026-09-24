@@ -1,0 +1,267 @@
+@L17 443
+A full-term neonate has unilateral chest distension and respiratory distress. Diagnosis?
+* Pneumothorax
+- Meconium aspiration
+- Diaphragmatic hernia
+> Unilateral hyperexpansion with shifted heart sounds suggests pneumothorax. CDH typically causes a scaphoid abdomen; meconium aspiration is bilateral.
+
+@L23 443
+A neonate with congenital CMV infection has jaundice. The intrahepatic cause of cholestasis is:
+* Neonatal hepatitis
+- Gallbladder obstruction
+- Biliary atresia
+> Congenital infections (TORCH, including CMV) cause neonatal (giant-cell) hepatitis, an intrahepatic cholestasis. Biliary atresia is extrahepatic.
+
+@L12 443
+At what age does a child ride a tricycle?
+- 2 years
+* 3 years
+- 4 years
+> Tricycle at 3 years (along with copying a circle, alternating feet up stairs).
+
+@L14 443
+A 4-week-old well baby has a grade 3/6 ejection systolic murmur at the upper left sternal edge and a fixed, widely split S2. Most likely explanation?
+- Left-to-right shunt through the ventricular septum
+* Left-to-right shunt through the atrial septum
+- Right-to-left shunt through the ventricular septum
+- Right-to-left shunt through the atrial septum
+> ASD: fixed wide split S2; the murmur is a flow murmur across the pulmonary valve (upper left sternal border), not from the defect itself.
+
+@L3 443
+Reviewing growth charts, which one is abnormal?
+- 6-month-old girl with height on the 20th percentile
+* 7-year-old boy whose weight dropped from the 90th to the 25th percentile over one year
+- 3-month-old with weight on the 10th percentile
+- 10-year-old with BMI below the 50th percentile
+> Crossing 2 or more major percentile lines is abnormal. A steady position on any percentile is normal.
+
+@L3 443
+A 14-year-old boy has constitutional growth delay. Which statement is consistent with this diagnosis?
+* Prognosis for a normal adult height is good
+- He was undernourished during his first year of life
+- He was small for size at birth
+- Bone age is normal compared to chronological age
+> CDGP: delayed bone age, late puberty, often family history of "late bloomers", normal final adult height.
+
+@L20 443
+A 10-year-old develops facial swelling 8 days after treatment for tonsillitis. You suspect post-streptococcal glomerulonephritis. Which finding is most commonly associated?
+- High serum IgA
+- High anti-GBM antibody
+- Blood clots in the urine
+* Low serum C3
+> PSGN: low C3 that normalizes within 6-8 weeks. High ASO/anti-DNase B. Cola-colored urine, not clots.
+
+@L12 443
+A 3-year-old comes for developmental assessment. He should be able to:
+- Skip with both feet
+- Write his name
+- Hop on one foot
+* Ride a tricycle
+> 3 y: tricycle. Hop on one foot ~4 y, skip ~5 y, write name ~5-6 y.
+
+@L20 443
+A 5-year-old has generalized edema and you suspect nephrotic syndrome. Which is mandatory for diagnosis?
+- Presence of edema
+- Urinary protein excretion >100 mg/m2/day
+- Hyperlipidemia
+* Serum albumin <3 g/dL
+> Diagnosis needs nephrotic-range proteinuria (>40 mg/m2/h, or UPCR >2) plus hypoalbuminemia (KDIGO: <3.0 g/dL; many texts say <2.5). Edema and hyperlipidemia are usual but not required. Note: option B's threshold is far too low, so D is the best choice here.
+
+@L7 443
+A febrile 3-month-old has a catheterized urine with 100,000 CFU/mL Klebsiella pneumoniae and >=5 WBC/HPF. Interpretation?
+- Likely asymptomatic bacteriuria
+- Normal finding in this age group
+- Contaminated sample; repeat
+* UTI requiring treatment
+> Febrile infant + pyuria + >=50,000 CFU/mL of a single uropathogen from a catheter sample = UTI.
+
+@L14 443
+A 4-month-old has tachypnea, tachycardia, hepatomegaly, a soft pansystolic murmur at the lower left sternal border, cardiomegaly and increased pulmonary markings, and normal saturations in all limbs. Most likely diagnosis?
+- Inborn error of metabolism
+* Large ventricular septal defect
+- Small ventricular septal defect
+- Tetralogy of Fallot
+> Large VSD: heart failure at 1-3 months as PVR falls. Large defects give softer murmurs (less turbulence); small VSDs are loud and asymptomatic.
+
+@L3 443
+What is the initial physical manifestation of puberty in males?
+* Testicular enlargement
+- Growth spurt
+- Early pubic hair
+- Thelarche
+> Boys: testicular volume >=4 mL first. Girls: thelarche first. The growth spurt is late in boys.
+
+@L19 443
+A 15-year-old girl has 2 months of fatigue, joint and muscle pain and a malar rash. Positive ANA, low complement, proteinuria. Most likely diagnosis?
+- Ankylosing spondylitis
+* Systemic lupus erythematosus
+- Sjogren syndrome
+- Rheumatoid arthritis
+> Malar rash + arthritis + renal involvement + ANA + low complement = SLE.
+
+@L15 443
+At a 4-month visit the grandmother says solids should have started at 2 months. What is the recommended age to introduce foods other than milk?
+- 12 months
+- 8 months
+* 6 months
+- 10 months
+> WHO/AAP: exclusive breastfeeding to about 6 months, then complementary foods.
+
+@L7 443
+An infant is born to an HIV-infected mother who had effective ART and undetectable viral load at delivery. The infant is on post-exposure prophylaxis. How is HIV status determined in the first months?
+- HIV ELISA antibody at 1 month
+* HIV DNA PCR at 2 weeks, 1-2 months, and 4-6 months
+- HIV RNA PCR at 6 weeks as the sole test
+- CD4 count at birth and monthly
+> Maternal IgG crosses the placenta, so antibody tests are unreliable before 18 months. Use nucleic acid tests (DNA or RNA PCR) serially.
+
+@L28 443
+A 2-year-old with days of vomiting and diarrhea is lethargic, tachypneic, with poor skin turgor, refusing oral fluids. Initial IV management?
+- Normal saline 10 mL/kg
+* Bolus of isotonic solution at 20 mL/kg
+- D5 0.45% saline at maintenance rate
+- Wait for serum electrolytes
+> Severe dehydration: 20 mL/kg isotonic crystalloid bolus, repeat as needed, then deficit + maintenance.
+
+@L8 443
+A 6-month-old has 3 days of high fever, then a maculopapular rash appears as the fever subsides. Most likely diagnosis?
+- Measles
+- Scarlet fever
+* Roseola infantum (HHV-6)
+- Rubella
+> Roseola: high fever 3-5 days, rash appears when fever breaks. Can cause febrile seizures.
+
+@L26 443
+A 3-year-old has fever, barky cough and stridor after 2 days of URTI. Vitally stable; inspiratory stridor only. Most appropriate next step?
+- Oral Augmentin course
+- Reassure that it is croup and send home
+* One dose of dexamethasone
+- Go to the operating room to secure the airway
+> All croup severities benefit from a single dose of dexamethasone (0.15-0.6 mg/kg).
+
+@L22 443
+A 3-year-old has recurrent S. aureus skin abscesses, Aspergillus pneumonia, delayed cord separation (5 weeks), recurrent gingivitis, poor wound healing and marked neutrophilia. Most consistent immunodeficiency?
+* Leukocyte adhesion defect (LAD)
+- SCID
+- X-linked agammaglobulinemia
+- Complement C3 deficiency
+> Delayed cord separation + neutrophilia + gingivitis/periodontitis + poor wound healing = LAD.
+
+@L19 443
+A 6-year-old girl has 8 months of intermittent left knee pain with morning stiffness, limping in the mornings, a warm effusion and flexion contracture. Which lab finding is most associated with increased risk of ocular complications?
+- Elevated CRP
+- Elevated rheumatoid factor
+- Microcytic hypochromic anemia
+* Elevated ANA titer
+> Oligoarticular JIA in young girls: ANA positivity carries the highest risk of silent anterior uveitis. Needs regular slit-lamp screening.
+
+@L10 443
+A child drops to the floor crying, arching his back and screaming when denied a toy, twice a week, about 10 minutes each. Best advice?
+- Start immediate psychotherapy
+- Rule out autism
+* Ignore him during the behavior
+> Temper tantrums are normal at 1-4 y. Planned ignoring (keeping the child safe) and praising good behavior.
+
+@L4 443
+By which route is BCG vaccine given to a newborn?
+- Subcutaneous
+- Intramuscular
+* Intradermal
+- Oral
+> BCG is intradermal (usually left upper arm).
+
+@L4 443
+A 2-month-old receives a combination vaccine (DTaP, IPV, Hib, HepB, PCV, rotavirus). Primary benefit of combined form?
+- Multiple antigens at once produce stronger immunity
+* Fewer injections and clinic visits
+- More fever and local reaction to boost memory
+- No need for future boosters
+> Combination vaccines improve compliance and timeliness by reducing injections.
+
+@L5 443
+A 3-week-old has recurrent projectile non-bilious vomiting, irritability, weight loss and a firm olive-shaped epigastric mass. Most likely diagnosis?
+- Duodenal atresia
+* Hypertrophic pyloric stenosis
+- GERD
+- Intussusception
+> Olive mass + projectile non-bilious vomiting at 2-8 weeks = pyloric stenosis. Confirm with ultrasound.
+
+@L6 443
+A 13-year-old girl with constipation passes hard stools with streaks of bright red blood on the surface. No pain or systemic symptoms. Most likely diagnosis?
+* Anal fissure
+- Peptic ulcer disease
+- Esophageal varices
+- Meckel diverticulum
+> Bright red blood streaking hard stool = anal fissure, the commonest cause of rectal bleeding in children.
+
+@L9 443
+A 7-year-old with fever, vomiting, Kussmaul breathing: Na 138, Cl 96, HCO3 10, glucose 350. Which is the correct formula for the serum anion gap?
+- (Na + K) - (Cl + HCO3)
+* Na - (Cl + HCO3)
+- (Na - Cl) / HCO3
+- (Na + HCO3) - Cl
+> AG = Na - (Cl + HCO3), normal ~8-12. Here 138 - 106 = 32, high AG (DKA).
+
+@L9 443
+An 8-year-old becomes dizzy and short of breath during an exam, anxious and breathing fast. pH 7.55, pCO2 22, HCO3 22. Acid-base disorder?
+* Respiratory alkalosis due to hyperventilation
+- Mixed metabolic and respiratory alkalosis
+- Respiratory acidosis with metabolic compensation
+- Metabolic acidosis with respiratory compensation
+> High pH, low pCO2, normal HCO3 = acute (uncompensated) respiratory alkalosis from anxiety hyperventilation.
+
+@L10 443
+A 7-year-old often wakes terrified at night and clearly remembers a vivid dream the next day. Which is true?
+- The child does not remember the dream
+- Immediate psychotherapy should be started
+* He is experiencing nightmares
+- It occurs during non-REM sleep
+> Nightmares: REM sleep, later in the night, child wakes fully and recalls the dream. Night terrors: NREM, early night, no recall.
+
+@L11 443
+A 4-year-old is found collapsed, apneic, pulseless, with cold extremities. Best next step?
+- Rescue breaths only, since children arrest from respiratory failure
+- Two-finger compressions in the center of the chest to 2 cm
+* Compressions with one or two hands on the lower half of the sternum, ~5 cm (1/3 AP diameter), full recoil, 15:2 with two rescuers
+- Both hands on the upper sternum, 6-8 cm deep, 30:2 regardless of rescuers
+> Pediatric CPR: 100-120/min, depth 1/3 AP (~5 cm child), full recoil, 15:2 with 2 rescuers (30:2 single rescuer).
+
+@L9 443
+A 12-year-old has abdominal pain, vomiting, deep breathing, drowsy, tachycardic, hypotensive. Glucose 420, pH 7.12, HCO3 10, Na 130, K 4.2, urine ketones. Most appropriate initial step?
+- Start IV insulin infusion immediately
+* 10-20 mL/kg bolus of 0.9% saline
+- Begin potassium replacement
+- Sodium bicarbonate infusion
+> DKA with shock: fluids first. Insulin starts about 1 hour after fluids are begun; never bolus insulin. Bicarbonate is not used routinely.
+
+@L28 443
+A 6-year-old weighing 12 kg is in shock from severe dehydration. What volume of 0.9% saline should be the initial bolus?
+- 120 mL
+- 180 mL
+* 240 mL
+- 360 mL
+> 20 mL/kg x 12 kg = 240 mL.
+
+@L8 443
+A 12-year-old Saudi boy has fever, sweats, malaise and arthralgia after drinking unpasteurized camel milk on a farm. Most likely organism?
+* Brucella melitensis
+- Brucella abortus
+- Brucella suis
+- Brucella canis
+> B. melitensis (sheep, goats, camels) is the most common and virulent species in Saudi Arabia.
+
+@L17 443
+A newborn has a sacral swelling covered by a thin membrane; myelomeningocele is suspected. Most appropriate next diagnostic step?
+- Plain X-ray of the spine
+- Ultrasound of the sacral swelling
+* MRI of the spine
+- CT scan of the brain
+> MRI defines the defect, cord tethering and associated anomalies (Chiari II). Head ultrasound also screens for hydrocephalus.
+
+@L17 443
+After vacuum delivery a newborn develops a progressive fluctuant scalp swelling that crosses sutures and extends to the orbits and nape of the neck. The infant becomes pale and tachycardic. Diagnosis?
+- Caput succedaneum
+- Cephalohematoma
+* Subgaleal hemorrhage
+- Intracranial hemorrhage
+> Subgaleal bleed: crosses sutures, extends from orbits to nape, can hold a large blood volume and cause shock. Cephalohematoma does not cross sutures; caput is not progressive.

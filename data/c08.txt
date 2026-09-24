@@ -1,0 +1,119 @@
+@L21 442
+Which factor indicates pre-renal acute kidney injury in children?
+- Urine osmolality <300 mOsm/L
+* Fractional excretion of sodium (FeNa) <1%
+- Proteinuria on urinalysis
+- Hyperkalemia
+> Pre-renal: kidneys avidly retain Na and concentrate urine (FeNa <1%, urine osm >500). FeNa >2% suggests ATN.
+
+@L8 442
+A 1-year-old has fever, cough, coryza, conjunctivitis and a descending maculopapular rash. Hallmark diagnostic feature in the prodromal stage?
+- Redness and swelling of the Stensen duct opening
+* Koplik spots
+- Strawberry tongue
+- Bullous skin lesions
+> Koplik spots (white spots on buccal mucosa) appear 1-2 days before the rash. Stensen duct redness is mumps.
+
+@L17 442
+A midwife wants to give an intramuscular injection for routine neonatal care. What is it?
+* Vitamin K
+- Normal saline
+- Hepatitis A vaccine
+- Tetanus immunoglobulin
+> 1 mg IM vitamin K at birth prevents vitamin K deficiency bleeding. (Hepatitis B, not A, is the birth vaccine.)
+
+@L27 442
+A 10-year-old girl has chronic rhinorrhea, nasal itch, sneezing, dark circles under her eyes and pale boggy mucosa. Which is true?
+* Skin testing is performed to identify causative allergens
+- Intranasal decongestants are the main treatment
+- It is a type III hypersensitivity disorder
+- Eosinophils release mediators in the early phase
+> Allergic rhinitis is type I. Mast cells drive the early phase; eosinophils the late phase. Intranasal steroids are first-line; topical decongestants cause rebound.
+
+@L27 442
+A 10-year-old was just discharged after an asthma exacerbation. Advice to prevent future exacerbations?
+- Limit physical activity
+- Start oral antibiotics at the onset of any URTI
+- SABA as needed for symptoms
+* Provide a written asthma action plan
+> Written action plans, controller adherence, inhaler technique and trigger avoidance reduce exacerbations.
+
+@L26 442
+A 4-year-old has fever, tachypnea and retractions; CXR confirms lobar pneumonia. Most likely etiology?
+- Streptococcus pyogenes
+* Streptococcus pneumoniae
+- Mycoplasma pneumoniae
+- Chlamydophila pneumoniae
+> Pneumococcus is the leading cause of lobar pneumonia. Mycoplasma is more common in school-age children with interstitial patterns.
+
+@L28 442
+A 12 kg 2-year-old with viral gastroenteritis has HR 130, otherwise normal vitals, looks tired, cries with slight tears, moist mucosa. Most appropriate rehydration?
+- D10 normal saline 120 mL over 30 minutes
+- Free water 500 mL over 2 hours
+- Commercial low-carb, no-sodium drink 750 mL over 4 hours
+* Oral solution with 1:1 glucose/sodium content, 600 mL over 6 hours
+> Mild dehydration: ORS (glucose and sodium in a balanced ratio for co-transport), about 50 mL/kg (600 mL). Free water and sodium-free drinks risk hyponatremia.
+
+@L7 442
+Which test is used to diagnose HIV in infants less than 18 months old?
+- Viral culture
+- ELISA
+* HIV DNA PCR
+- Western blot
+> Maternal antibodies make antibody tests (ELISA, Western blot) unreliable before 18 months.
+
+@L4 442
+Parents are concerned about MMR. Which is a valid contraindication?
+- Older brother with autism
+- Illness with low-grade fever
+- Short course of low-dose corticosteroids
+* Anaphylaxis to a previous dose
+> Anaphylaxis to a prior dose or component is a contraindication. MMR does not cause autism.
+
+@L21 442
+In children with chronic kidney disease, which is the most effective strategy to slow progression?
+- Sodium bicarbonate for metabolic acidosis
+* Blood pressure control with ACE inhibitors
+- High-protein diet
+- Frequent diuretics
+> BP control and reducing proteinuria with ACEi/ARB slow CKD progression (ESCAPE trial).
+
+@L13 442
+A 10-year-old has fever, polyarthritis, tachycardia, tachypnea and a systolic murmur. You suspect acute rheumatic fever. Which is a major criterion?
+- Conjunctivitis
+* Carditis
+- Fever for 5 days
+- Erythema nodosum
+> Major (J♥NES): Joints (polyarthritis), carditis, nodules (subcutaneous), erythema marginatum, Sydenham chorea. Fever is minor.
+
+@L8 442
+An unvaccinated 4-year-old has fever and a pruritic vesicular rash in different stages. Her immunocompromised sister had a painful unilateral truncal vesicular rash. Which is true?
+- Immunocompromised patients usually have mild breakthrough illness
+- The causative organism is an RNA virus
+- Fecal-oral transmission is known
+* It can be complicated by necrotizing fasciitis from GAS
+> VZV (a DNA virus) spreads by respiratory droplets and vesicle fluid. Secondary GAS infection including necrotizing fasciitis is a key complication. It is severe in the immunocompromised.
+
+@L22 442
+Which vaccine should NOT be given to a child with SCID?
+- Hepatitis B
+* Measles
+- DTP
+- Pneumococcal
+> Measles vaccine is live attenuated.
+
+@L18 442
+A 2-year-old with femoral osteomyelitis on IV antibiotics is afebrile with improving inflammatory markers after 72 hours. Next step?
+- Continue IV antibiotics for 6 weeks
+- Stop antibiotics and monitor
+* Switch to oral antibiotics for a total of 3-4 weeks
+- Bone biopsy to confirm
+> Early IV-to-oral switch once clinically improved and CRP falling. Total course usually 3-4 weeks.
+
+@L11 442
+A 20 kg 5-year-old ingested paracetamol. If the serum level is above the treatment line on the Rumack-Matthew nomogram, next step?
+- Discharge with follow-up
+- Gastric lavage
+* N-acetylcysteine (NAC)
+- Activated charcoal
+> Level above the treatment line (4-hour level or later) = give NAC.

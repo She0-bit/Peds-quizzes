@@ -1,0 +1,13 @@
+@L17 441
+A 9-month-old has a bulging fontanelle and head circumference above the 98th percentile, with suspected hydrocephalus. Next step?
+* Head CT
+- Start diuretics and re-measure later
+- Head X-ray
+> Imaging to define the cause and ventricles (cranial US is possible while the fontanelle is open; MRI is ideal). Diuretics are not a treatment.
+
+@L17 441
+A 6-day-old with birth weight 3000 g now weighs 2950 g. Next step?
+* Reassure
+- CBC, LFT and urinalysis
+- Admit
+> A 1.7% loss at day 6 is well within normal physiological weight loss.

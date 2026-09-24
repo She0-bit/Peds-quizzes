@@ -1,0 +1,99 @@
+@L27 442
+A 3-year-old with recurrent wheezing (admitted at 9 months for bronchiolitis). According to the modified Asthma Predictive Index, which increases the risk of asthma later in life?
+- Male gender
+- Prematurity
+- Siblings diagnosed with asthma
+* Wheezing not related to colds
+> mAPI: >=4 wheezing episodes plus 1 major (parental asthma, atopic dermatitis, aeroallergen sensitization) or 2 minor (food sensitization, eosinophils >=4%, wheezing apart from colds). Sibling asthma is not a criterion.
+
+@L10 442
+A school-age boy always interrupts class, doesn't like to sit down and doesn't follow rules. Diagnosis and treatment?
+* ADHD; behavioral therapy
+- Oppositional defiant disorder
+- Autism spectrum disorder; speech and language therapy
+> Hyperactivity/impulsivity across settings = ADHD. Treatment combines behavioral therapy and stimulants (methylphenidate) for school-age children.
+
+@L8 442
+A 15-month-old unvaccinated boy has fever then a cephalocaudal maculopapular rash, with cough, coryza and conjunctivitis. Which is also seen in this disease?
+* Subacute sclerosing panencephalitis after 7-10 years
+- Mouth ulcers
+- Orchitis as a well-known post-pubertal complication
+> Measles. Orchitis is mumps.
+
+@L7 442
+A 3-year-old has 2 days of fever and submandibular lymphadenopathy. Which is a red flag in lymphadenitis?
+- 2 days of fever
+- Local tenderness
+- Recent cold symptoms
+* Lymphadenopathy for more than 4 weeks
+> Red flags for malignancy: >4-6 weeks, >2-3 cm, hard/fixed/non-tender, supraclavicular, weight loss, night sweats, hepatosplenomegaly.
+
+@L20 442
+A 13-year-old girl has abdominal pain and diarrhea after eating at a burger restaurant a week ago. Low Hb, high retics, high LDH, high urea and creatinine, schistocytes. Most likely organism?
+- Non-typhoid Salmonella
+- Vibrio cholerae
+* Enterohemorrhagic E. coli
+> Undercooked beef is a classic source of E. coli O157:H7, the main cause of HUS.
+
+@L21 442
+A 12-year-old girl with ESRD has bruising and nosebleeds, normal platelet count and prolonged bleeding time. Most likely cause?
+- Immune thrombocytopenic purpura
+- DIC
+* Uremic platelet dysfunction
+- Von Willebrand disease
+> Uremic toxins impair platelet adhesion/aggregation. Treat with dialysis, desmopressin, correcting anemia.
+
+@L22 442
+A patient has IgA deficiency. Which vaccine can be given?
+* Pneumococcal vaccine
+- Yellow fever vaccine
+- Oral polio vaccine
+- BCG vaccine
+> Inactivated vaccines are safe. Live vaccines (especially OPV) are generally avoided in immunodeficiency; pneumococcal is the safe choice here.
+
+@L24 442
+A 14-year-old girl who eats no animal products has pale conjunctiva and a high MCV. Which is expected to be deficient?
+- Iron
+- Folate
+- Niacin
+* Vitamin B12
+> Macrocytic anemia + vegan diet = B12 deficiency.
+
+@L22 442
+A 4-month-old has DiGeorge syndrome. What is the cause of its immunodeficiency?
+- Gene mutation of humoral immunity
+* Absent or hypoplastic thymus with impaired T-cell function
+- Defect in natural killer cells
+- Defect in the complement system
+> 22q11.2 deletion: third/fourth pharyngeal pouch defect: thymic hypoplasia (T-cell deficiency), hypocalcemia (parathyroid), conotruncal heart defects.
+
+@L25 442
+A child has had two febrile seizures, no developmental delay, normal neurological exam and normal EEG. Likelihood of developing epilepsy?
+- High
+* Low, because the seizures are associated with fever
+- Potentially increased due to his history
+- Medium
+> Risk after simple febrile seizures is about 1-2%, only slightly above the general population. Recurrent febrile seizures alone do not make it high.
+
+@L25 442
+A child has brief spells of staring into space, unaware, with generalized spike-and-wave on EEG. Diagnosis and treatment?
+* Childhood absence seizures; ethosuximide (or valproate)
+- Juvenile myoclonic epilepsy; lamotrigine
+- Infantile spasms
+- Rolandic epilepsy
+> Ethosuximide first-line; valproate and lamotrigine are alternatives.
+
+@L5 442
+A 3-week-old girl has large-volume vomiting after breastfeeds and an epigastric mass. What is the gold standard for diagnosis?
+* Ultrasound
+- Fluoroscopy
+- X-ray
+> US: pyloric muscle thickness >=3-4 mm, length >=15-17 mm.
+
+@L26 442
+A well-appearing 5-year-old has 2 days of fever 38.5, mild ear pain and ear discharge. Bulging dull tympanic membrane with otorrhea. Next best step?
+* High-dose amoxicillin for 10 days
+- Symptomatic therapy and reassess in 48-72 h
+- ENT consult for tympanic surgery
+- Blood culture from ear and other tests
+> AOM with otorrhea is an indication for antibiotics at any age (watchful waiting is only for mild, non-severe cases without otorrhea). Duration for age >=2 y is often 5-7 days in guidelines; the option given is 10 days.

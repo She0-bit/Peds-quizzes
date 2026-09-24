@@ -1,0 +1,188 @@
+<title>Peds Midterm Mini Quizzes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+:root{
+  --bg:#F3F6F5; --surface:#FFFFFF; --ink:#16211E; --muted:#5B6B66; --line:#D5DEDA;
+  --accent:#2A4D8F; --accent-soft:#E3EAF6; --ok:#2F7D4F; --ok-soft:#E1F1E7;
+  --bad:#B3372E; --bad-soft:#F8E3E0; --warn:#8A5F00; --warn-soft:#FBF0D5;
+  --display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+  --body:"Atkinson Hyperlegible",ui-sans-serif,system-ui,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#101614; --surface:#18201E; --ink:#E6EEEB; --muted:#98A8A3; --line:#2B3633;
+  --accent:#8FB0EC; --accent-soft:#1E2A40; --ok:#6CC692; --ok-soft:#16301F;
+  --bad:#F08A80; --bad-soft:#3A1C19; --warn:#E6B952; --warn-soft:#352A10; color-scheme:dark;}}
+:root[data-theme="dark"]{
+  --bg:#101614; --surface:#18201E; --ink:#E6EEEB; --muted:#98A8A3; --line:#2B3633;
+  --accent:#8FB0EC; --accent-soft:#1E2A40; --ok:#6CC692; --ok-soft:#16301F;
+  --bad:#F08A80; --bad-soft:#3A1C19; --warn:#E6B952; --warn-soft:#352A10; color-scheme:dark;}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:16px/1.55 var(--body);padding-inline:16px;padding-block:24px 48px}
+.wrap{max-width:760px;margin:0 auto;display:flex;flex-direction:column;gap:20px}
+h1,h2{font-family:var(--display);text-wrap:balance;margin:0;line-height:1.15}
+h1{font-size:clamp(1.7rem,5vw,2.4rem);font-weight:800;letter-spacing:-.01em}
+h2{font-size:1.25rem;font-weight:600}
+p{margin:0}
+.muted{color:var(--muted)}
+.label{font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:700}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums}
+.note{background:var(--warn-soft);color:var(--ink);border-radius:8px;padding:12px 14px;font-size:.92rem}
+.note b{color:var(--warn)}
+button{font:inherit;color:inherit;cursor:pointer}
+button:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.btn{background:var(--accent);color:var(--bg);border:0;border-radius:8px;padding:10px 18px;font-weight:700}
+.btn.ghost{background:transparent;color:var(--accent);border:1.5px solid var(--accent)}
+.row{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px}
+.tile{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px;text-align:left;display:flex;flex-direction:column;gap:4px}
+.tile:hover{border-color:var(--accent)}
+.tile .t{font-family:var(--display);font-weight:600;font-size:1.05rem}
+.tile .s{font-size:.8rem;color:var(--muted)}
+.tile.done{border-color:var(--ok)}
+.tile .best{font-size:.8rem;font-weight:700;color:var(--ok)}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);padding-block:8px;display:flex;justify-content:space-between;align-items:center;gap:10px;z-index:2;border-bottom:1px solid var(--line)}
+.progress{height:6px;background:var(--line);border-radius:3px;overflow:hidden}
+.progress>div{height:100%;background:var(--accent);transition:width .2s}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:20px;display:flex;flex-direction:column;gap:14px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font-size:.75rem;padding:2px 9px;border-radius:99px;background:var(--accent-soft);color:var(--accent);font-weight:700}
+.chip.dr{background:var(--warn-soft);color:var(--warn)}
+.stem{font-size:1.08rem}
+.opts{display:flex;flex-direction:column;gap:8px}
+.opt{display:flex;gap:10px;align-items:flex-start;text-align:left;background:var(--bg);border:1.5px solid var(--line);border-radius:8px;padding:10px 12px}
+.opt:hover:not(:disabled){border-color:var(--accent)}
+.opt .k{font-family:var(--mono);color:var(--muted);min-width:1.2em}
+.opt:disabled{cursor:default}
+.opt.right{border-color:var(--ok);background:var(--ok-soft)}
+.opt.wrong{border-color:var(--bad);background:var(--bad-soft)}
+.expl{border-left:3px solid var(--ok);padding:4px 0 4px 12px;font-size:.95rem}
+.expl.bad{border-left-color:var(--bad)}
+.src{font-size:.8rem;color:var(--muted)}
+.timer.low{color:var(--bad)}
+.review{display:flex;flex-direction:column;gap:12px}
+.rv{border-top:1px solid var(--line);padding-top:12px;display:flex;flex-direction:column;gap:6px;font-size:.95rem}
+.big{font-family:var(--display);font-weight:800;font-size:3rem;line-height:1}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap" id="app"></div>
+
+<script>
+const DATA = __DATA__;
+const QS = DATA.questions, LEC = DATA.lectures;
+const PER = 10, SECS = 600;
+
+function rng(seed){return()=>{seed|=0;seed=seed+0x6D2B79F5|0;let t=Math.imul(seed^seed>>>15,1|seed);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296}}
+function shuffle(a,r=Math.random){a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(r()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
+
+// Fixed quizzes: each quiz takes one question from each of the lectures with the most questions left,
+// so every quiz spreads across as many different lectures as possible.
+function buildQuizzes(){
+  const r=rng(2026), buckets={};
+  shuffle(QS,r).forEach(q=>(buckets[q.lec]??=[]).push(q.id));
+  const n=Math.ceil(QS.length/PER), quizzes=[];
+  let left=QS.length;
+  for(let k=0;k<n;k++){
+    const size=Math.ceil(left/(n-k)), quiz=[];
+    const order=Object.keys(buckets).filter(l=>buckets[l].length).sort((a,b)=>buckets[b].length-buckets[a].length||r()-.5);
+    for(const l of order){ if(quiz.length>=size)break; quiz.push(buckets[l].pop()); }
+    while(quiz.length<size){ const l=Object.keys(buckets).find(l=>buckets[l].length); quiz.push(buckets[l].pop()); }
+    left-=quiz.length; quizzes.push(shuffle(quiz,r));
+  }
+  return quizzes;
+}
+const QUIZZES=buildQuizzes();
+
+const store={get(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){return null}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+const app=document.getElementById('app');
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+let timerId=null;
+
+function home(){
+  clearInterval(timerId);
+  const best=store.get('best')||{};
+  const nLec=new Set(QS.map(q=>q.lec)).size;
+  app.innerHTML=`
+  <header style="display:flex;flex-direction:column;gap:8px">
+    <span class="label">Pediatrics midterm · batches 441 to 443</span>
+    <h1>Peds Midterm Mini Quizzes</h1>
+    <p class="muted">${QS.length} past-year questions, deduplicated and tagged to ${nLec} lecture groups. Each quiz has about ${PER} questions from ${PER} different lectures, with a ${SECS/60}-minute timer.</p>
+  </header>
+  <div class="note"><b>About the answers.</b> The source PDF is unsolved. Every answer and explanation here was written by Claude and should be checked against your lecture slides. Answers marked <span class="chip dr">Doctor-confirmed</span> come from notes in the PDF saying a doctor gave that answer.</div>
+  <div class="row"><button class="btn" id="rand">Random mix of ${PER}</button><span class="muted" style="font-size:.9rem">New random set each time</span></div>
+  <section style="display:flex;flex-direction:column;gap:10px">
+    <h2>Quizzes</h2>
+    <div class="grid">${QUIZZES.map((qz,i)=>{
+      const b=best[i]; const lecs=new Set(qz.map(id=>QS[id].lec)).size;
+      return `<button class="tile ${b!=null?'done':''}" data-i="${i}"><span class="t">Quiz ${i+1}</span><span class="s">${qz.length} Qs · ${lecs} lectures</span>${b!=null?`<span class="best num">Best ${b}/${qz.length}</span>`:''}</button>`}).join('')}</div>
+  </section>`;
+  app.querySelectorAll('.tile').forEach(t=>t.onclick=()=>start(QUIZZES[+t.dataset.i],+t.dataset.i));
+  document.getElementById('rand').onclick=()=>{
+    const byLec={};shuffle(QS).forEach(q=>(byLec[q.lec]??=[]).push(q.id));
+    start(shuffle(Object.keys(byLec)).slice(0,PER).map(l=>byLec[l][0]),null);
+  };
+  scrollTo(0,0);
+}
+
+function start(ids,quizIndex){
+  const s={ids,quizIndex,i:0,answers:[],order:ids.map(id=>shuffle(QS[id].o.map((_,k)=>k))),end:Date.now()+SECS*1000};
+  clearInterval(timerId);
+  timerId=setInterval(()=>{const el=document.getElementById('timer');if(!el)return;const t=Math.max(0,Math.round((s.end-Date.now())/1000));el.textContent=`${Math.floor(t/60)}:${String(t%60).padStart(2,'0')}`;el.classList.toggle('low',t<=60);if(t===0)el.textContent='Time up'},500);
+  show(s);
+}
+
+function show(s){
+  const q=QS[s.ids[s.i]], ord=s.order[s.i], picked=s.answers[s.i];
+  const title=s.quizIndex==null?'Random mix':`Quiz ${s.quizIndex+1}`;
+  app.innerHTML=`
+  <div class="bar"><button class="btn ghost" id="quit">Back</button><span><b>${title}</b> <span class="num muted">${s.i+1}/${s.ids.length}</span></span><span class="num timer" id="timer">${SECS/60}:00</span></div>
+  <div class="progress"><div style="width:${100*s.i/s.ids.length}%"></div></div>
+  <article class="card">
+    <div class="chips"><span class="chip">${esc(LEC[q.lec])}</span></div>
+    <p class="stem">${esc(q.q)}</p>
+    <div class="opts">${ord.map((k,n)=>`<button class="opt" data-k="${k}"><span class="k">${'ABCD'[n]}</span><span>${esc(q.o[k])}</span></button>`).join('')}</div>
+    <div id="fb"></div>
+  </article>`;
+  document.getElementById('quit').onclick=home;
+  const opts=[...app.querySelectorAll('.opt')];
+  const reveal=k=>{
+    opts.forEach(b=>{b.disabled=true;const v=+b.dataset.k;if(v===q.a)b.classList.add('right');else if(v===k)b.classList.add('wrong')});
+    const ok=k===q.a;
+    document.getElementById('fb').innerHTML=`
+      <div class="expl ${ok?'':'bad'}"><b>${ok?'Correct.':'Not quite.'}</b> ${esc(q.e)}</div>
+      <p class="src">${q.dr?'<span class="chip dr">Doctor-confirmed</span> ':'Answer by Claude, verify with your slides. '}Source: ${q.year} batch.</p>
+      <div class="row"><button class="btn" id="next">${s.i+1<s.ids.length?'Next question':'See results'}</button></div>`;
+    const nx=document.getElementById('next');nx.focus();
+    nx.onclick=()=>{if(++s.i<s.ids.length)show(s);else results(s)};
+  };
+  opts.forEach(b=>b.onclick=()=>{s.answers[s.i]=+b.dataset.k;reveal(+b.dataset.k)});
+  if(picked!=null)reveal(picked);
+  scrollTo(0,0);
+}
+
+function results(s){
+  clearInterval(timerId);
+  const score=s.ids.filter((id,i)=>s.answers[i]===QS[id].a).length;
+  const used=Math.round((Date.now()-(s.end-SECS*1000))/1000);
+  if(s.quizIndex!=null){const best=store.get('best')||{};best[s.quizIndex]=Math.max(best[s.quizIndex]??0,score);store.set('best',best)}
+  const missed=s.ids.map((id,i)=>({q:QS[id],p:s.answers[i]})).filter(x=>x.p!==x.q.a);
+  const next=s.quizIndex!=null&&s.quizIndex+1<QUIZZES.length?s.quizIndex+1:null;
+  app.innerHTML=`
+  <section class="card" style="align-items:flex-start">
+    <span class="label">${s.quizIndex==null?'Random mix':'Quiz '+(s.quizIndex+1)} finished</span>
+    <span class="big num">${score}/${s.ids.length}</span>
+    <p class="muted">Time used: <span class="num">${Math.floor(used/60)}:${String(used%60).padStart(2,'0')}</span></p>
+    <div class="row">${next!=null?`<button class="btn" id="nextq">Start Quiz ${next+1}</button>`:''}<button class="btn ghost" id="again">Retry</button><button class="btn ghost" id="home">All quizzes</button></div>
+  </section>
+  ${missed.length?`<section class="review"><h2>Review what you missed</h2>${missed.map(({q,p})=>`
+    <div class="rv"><span class="chip" style="align-self:flex-start">${esc(LEC[q.lec])}</span><p>${esc(q.q)}</p>
+    <p style="color:var(--bad)">Your answer: ${esc(q.o[p])}</p><p style="color:var(--ok)"><b>Answer: ${esc(q.o[q.a])}</b></p><p class="muted">${esc(q.e)}</p></div>`).join('')}</section>`:'<p>Perfect score. Nothing to review.</p>'}`;
+  document.getElementById('home').onclick=home;
+  document.getElementById('again').onclick=()=>start(s.ids,s.quizIndex);
+  if(next!=null)document.getElementById('nextq').onclick=()=>start(QUIZZES[next],next);
+  scrollTo(0,0);
+}
+home();
+</script>

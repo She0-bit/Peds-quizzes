@@ -1,0 +1,128 @@
+@L28 441
+A 10-month-old weighing 8 kg is admitted. At what rate should maintenance IV fluids run?
+- 8 mL/hr
+- 17 mL/hr
+- 24 mL/hr
+* 32 mL/hr
+> 4 mL/kg/h for the first 10 kg: 4 x 8 = 32 mL/h.
+
+@L26 441
+A 5-month-old with bronchiolitis (bilateral wheeze) is not feeding well. Appropriate management?
+- Oral antibiotics
+- Corticosteroids
+* IV fluids or nasogastric feeding
+- Albuterol
+> Bronchiolitis care is supportive: hydration (NG or IV), oxygen if SpO2 <90-92%, suction. Bronchodilators, steroids and antibiotics are not recommended routinely.
+
+@L11 441
+In salicylate poisoning (early hyperglycemia, later hypoglycemia), which is an indication to give IV glucose?
+- Vomiting
+- Convulsions
+- Diaphoresis
+* Altered mental status
+> CNS glucose can be low even with normal serum glucose, so give dextrose for any altered mental status in salicylate toxicity.
+
+@L27 441
+A 5-year-old is diagnosed with asthma. Appropriate way to take the inhaled treatment?
+* Metered-dose inhaler with spacer
+- MDI alone
+- Dry powder inhaler
+> Under ~6 years, pMDI + spacer (with mask if <4 y). DPIs need a strong inspiratory flow.
+
+@L22 441
+A 4-year-old boy has recurrent otitis media and pneumonia; his maternal uncle has the same problem. Best initial test?
+* Quantitative immunoglobulins
+- T-cell flow cytometry
+- X-ray for thymus
+- Diphtheria antibody titers
+> Recurrent sinopulmonary bacterial infections in a boy with X-linked family history suggests XLA: start with serum IgG, IgA, IgM, then B-cell (CD19) count.
+
+@L17 441
+A newborn has markedly enlarged head circumference with a bulging anterior fontanelle but is otherwise well. Next step?
+- CT scan for craniosynostosis
+- Reassure, it is a genetic variant
+* Congenital hydrocephalus; transcranial ultrasound
+- Seizures; EEG
+> Bulging fontanelle + macrocephaly suggests raised ICP from hydrocephalus. Cranial US through the open fontanelle is the first test.
+
+@L8 441
+A child has fever, sore throat, a sandpaper-like rash and strawberry tongue. Causative agent?
+* Group A streptococcus
+- Staphylococcus aureus
+- Coxsackie virus
+> Scarlet fever is caused by GAS erythrogenic toxin. Treat with penicillin/amoxicillin.
+
+@L4 441
+A child receives varicella zoster immunoglobulin. What type of immunity is this?
+* Passive artificial
+- Active artificial
+- Passive natural
+- Active natural
+> Pre-formed antibodies given medically = passive artificial. Maternal IgG across the placenta = passive natural.
+
+@Other 441
+A preterm infant had perinatal brain damage involving the cortex and motor pathways (pyramidal tracts). Which diagnosis?
+* Spastic cerebral palsy
+- Dyskinetic cerebral palsy
+- Mixed cerebral palsy
+> Pyramidal/periventricular white matter injury (PVL in preterms) = spastic CP, often spastic diplegia. Basal ganglia injury = dyskinetic; cerebellar = ataxic.
+
+@Other 441
+A child has facial angiofibromas and a history of seizures. Which is consistent with tuberous sclerosis?
+* Hypopigmented (ash-leaf) spots
+- Hyperpigmented macule on the back
+- Family history of renal carcinoma
+> TSC skin signs: ash-leaf macules, facial angiofibromas, shagreen patch, ungual fibromas.
+
+@L5 441
+An unvaccinated 4-month-old has fever, vomiting and non-bloody diarrhea without mucus. Likely cause?
+- Influenza A
+- Salmonella
+* Rotavirus
+> Rotavirus is the leading cause of severe dehydrating gastroenteritis in unvaccinated infants.
+
+@L25 441
+A child has repeated seizures and cafe-au-lait spots on exam. Most likely diagnosis?
+* Epilepsy with neurofibromatosis type 1
+- Epilepsy with neurofibromatosis type 2
+- Epilepsy with Sturge-Weber syndrome
+- Epilepsy with tuberous sclerosis
+> Cafe-au-lait macules are the hallmark of NF1. TSC has hypopigmented macules; Sturge-Weber has a port-wine stain.
+
+@L16 441
+An exclusively breastfed 16-month-old has swelling at the wrists/arms. Expected labs?
+- Low Ca, high phosphate, normal ALP, high PTH
+- Low Ca, low phosphate, low ALP, low PTH
+- High Ca, low phosphate, low ALP, high PTH
+* Low (or normal) Ca, low phosphate, high ALP, high PTH
+> Nutritional (vitamin D deficient) rickets: secondary hyperparathyroidism lowers phosphate, ALP rises. Low 25-OH vitamin D.
+
+@L9 441
+A child has 1 month of polydipsia, polyuria and weight loss. Which will NOT be seen?
+* Metabolic alkalosis
+- Hyperglycemia
+- Kussmaul breathing
+- Dehydration
+> New-onset T1DM/DKA gives metabolic acidosis with Kussmaul breathing, hyperglycemia and dehydration.
+
+@L6 441
+A 12-month-old was well until 9 months, when he was weaned to regular foods. Now has FTT, poor appetite, abdominal distension, diarrhea and irritability. Most likely diagnosis?
+- Giardiasis
+* Celiac disease
+- Cystic fibrosis
+- Pancreatitis
+> Symptoms starting after gluten introduction = celiac disease. CF usually presents from birth.
+
+@L20 441
+After a minor sliding accident, a child has right-sided pain, abdominal distension on the right, high BP and hematuria. Most likely diagnosis?
+- Renal contusion
+* Wilms tumor
+- Neuroblastoma
+> Minor trauma often reveals an existing Wilms tumor (flank mass, hematuria, hypertension from renin).
+
+@L25 441
+A child has staring, motionless episodes 2-3 times per week preceded by epigastric sensations. Diagnosis?
+- Juvenile myoclonic epilepsy
+- Childhood absence epilepsy
+* Focal epilepsy
+> An aura (epigastric rising sensation) means focal onset (often temporal lobe). Focal impaired-awareness seizures last longer than absences, with post-ictal confusion.

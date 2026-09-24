@@ -1,0 +1,251 @@
+@L25 443
+A 9-year-old with absence seizures on ethosuximide has been seizure-free for 2 years. Next best step?
+- Continue antiepileptics for life
+- Stop antiepileptics immediately
+* Gradually taper and discontinue
+- Switch to valproic acid for maintenance
+> After ~2 seizure-free years, AEDs are usually tapered gradually. Abrupt stopping risks rebound seizures. Childhood absence epilepsy usually remits.
+
+@L5 443
+A 7-year-old with 3 days of gastroenteritis: vomiting stopped, diarrhea continues, well hydrated with normal exam. Father asks about diet. Advice?
+- Stop solids until diarrhea stops
+* Continue an age-appropriate diet
+- Clear fluids only until symptoms resolve
+- Avoid milk and dairy until diarrhea stops
+> Early refeeding with a normal diet shortens illness. No need for clear-fluid-only or routine lactose restriction.
+
+@L27 443
+A 10-year-old on ICS with salbutamol reliever uses meds about 3 days/week, good technique and adherence, and had 2 viral exacerbations needing oral steroids this year. Next step?
+- Continue current regimen
+* Add a long-acting beta agonist (LABA)
+- Stop ICS and switch to LABA monotherapy
+- Systemic corticosteroids for prevention
+> Not well controlled on low-dose ICS despite good adherence: step up (ICS-LABA). LABA must never be used without ICS.
+
+@L23 443
+A 3-day-old healthy, well-feeding term boy is jaundiced with predominantly unconjugated bilirubin. Most likely diagnosis?
+- Hemolytic disease of the newborn
+- Breastfeeding jaundice
+* Physiological jaundice
+- Biliary atresia
+> Physiological jaundice appears after 24 h, peaks at day 3-5, unconjugated, in a well baby. Jaundice in the first 24 h is pathological.
+
+@L23 443
+A 6-week-old has persistent jaundice with clay-colored stools and dark urine, otherwise well. Most likely diagnosis?
+- Physiological jaundice
+- Breast milk jaundice
+- Hemolytic disease of the newborn
+* Biliary atresia
+> Prolonged jaundice (>2 weeks) with pale stools and dark urine = conjugated; biliary atresia must be excluded urgently.
+
+@L13 443
+A 7-year-old has 6 days of fever to 40.2, tender cervical lymph nodes, maculopapular rash, BP 80/45, HR 140, Na 129, K 3.1, CRP 120. Most concerning long-term complication?
+* Coronary artery aneurysm
+- Septic shock
+- Rheumatic heart disease
+- Acute glomerulonephritis
+> Kawasaki disease (here with shock). Coronary aneurysms are the main long-term risk; IVIG within 10 days reduces it.
+
+@L20 443
+A healthy 12-year-old girl has BP between the 90th and 95th percentile on routine visit. Next step?
+- Start antihypertensive medication
+- Refer to pediatric nephrology
+* Repeat BP on at least two additional occasions
+- Renal ultrasound immediately
+> 90th-95th percentile = elevated BP. Diagnosis of hypertension requires repeated readings on separate visits.
+
+@L12 443
+A baby girl can transfer objects between hands, sit with support and mimic sounds. What is her age?
+- 12 months
+- 2 months
+* 6 months
+- 4 months
+> Transferring objects hand-to-hand appears around 6 months.
+
+@L5 443
+A neonate has not passed meconium for 46 hours and has bilious (green) vomiting. Most likely diagnosis?
+- Duodenal atresia
+* Hirschsprung disease
+- Necrotizing enterocolitis
+- Pyloric stenosis
+> Failure to pass meconium in 48 h + bilious vomiting/distension suggests Hirschsprung. Duodenal atresia vomits in the first hours but usually passes meconium.
+
+@L7 443
+A 2-year-old returns after her first febrile UTI, finished antibiotics yesterday, asymptomatic, normal exam. Next best step?
+- Reassurance and clinic follow-up in 2-6 weeks
+* Renal and bladder ultrasound (RBUS) after 2-6 weeks
+- Repeat urine culture to document sterility
+- RBUS today
+> AAP recommends RBUS after the first febrile UTI in 2-24 month olds. Test-of-cure cultures are not needed. Timing varies by guideline; urgent US is for poor response or atypical UTI. Note: timing answer is Claude's reading, check your lecture.
+
+@L17 443
+After C-section a baby had Apgar 1 and 3, needed PPV, intubation, compressions and IV epinephrine. What should be done to preserve neurological function?
+* Therapeutic hypothermia
+- Mannitol
+- Antibiotics
+- Thiamine
+> Moderate-severe HIE in infants >=36 weeks: cooling (33.5 C for 72 h) started within 6 hours.
+
+@L17 443
+A full-term infant has acrocyanosis, no respiratory distress, SpO2 98%, pink mucous membranes. Next step?
+- Echocardiogram
+- Start prostaglandin E1
+- Hyperoxia test
+* Reassure and provide routine care
+> Acrocyanosis (blue hands and feet) is normal in the first days. Central cyanosis would need workup.
+
+@L3 443
+A 9-month-old exclusively breastfed baby is not growing well. The mother says he feeds well; exam is normal and he is alert. Most likely reason for failure to thrive?
+* Inadequate caloric intake
+- Psychosocial
+- Gastric malabsorption
+> Most FTT is from inadequate intake. At 9 months, exclusive breastfeeding without complementary foods is insufficient.
+
+@L6 443
+A 5-year-old has chronic diarrhea, abdominal pain, bloating and FTT, family history of autoimmune disease, and positive tTG-IgA. Next step?
+* Upper GI endoscopy with duodenal biopsy
+- Test for other food allergies
+- Immediate gluten-free diet
+- Anti-inflammatory medication
+> Celiac disease: confirm with biopsy (or no-biopsy route if tTG >10x ULN with positive EMA per ESPGHAN) while still on gluten.
+
+@L9 443
+A 6-year-old with FTT, irritability and confusion has glucose 50, ammonia 200 and elevated branched-chain amino acids in urine. A maternal aunt has a metabolic disorder. Primary mechanism?
+- Defective glucose transport
+- Excessive hepatic glucose production
+* Enzyme deficiency causing accumulation of toxic metabolites
+- Insulin resistance
+> Inborn errors of metabolism (here suggesting maple syrup urine disease) are enzyme defects causing toxic accumulation.
+
+@L8 443
+A 9-month-old had 3 days of fever (40 C) and developed a maculopapular rash after the fever went away. Most likely cause?
+* Roseola infantum (HHV-6)
+- Parvovirus B19
+- Measles virus
+- Varicella zoster virus
+> Rash after defervescence is the hallmark of roseola.
+
+@L8 443
+A 5-year-old has high fever, cough, coryza and red eyes, with a rash that started on the face and spread downward over 3 days. Which best describes the measles rash?
+- Small, flat, red, non-blanching spots
+- Itchy vesicles that crust over time
+* Maculopapular, starts on the face, spreads to trunk and limbs, often confluent
+- Well-defined scaly plaque in a butterfly distribution
+> Measles: 3 Cs (cough, coryza, conjunctivitis), Koplik spots, then a cephalocaudal confluent maculopapular rash.
+
+@Other 443
+A term newborn has microcephaly, micrognathia, microphthalmia, low-set ears, iris coloboma, postaxial polydactyly (7 fingers each hand), cleft palate, a VSD murmur, and rocker-bottom feet. Most likely cause?
+* Trisomy 13
+- Fragile X syndrome
+- Trisomy 18
+- Trisomy 21
+> Patau: cleft lip/palate, polydactyly, coloboma/microphthalmia, holoprosencephaly. Rocker-bottom feet occur in both T13 and T18, but polydactyly and coloboma point to T13.
+
+@Other 443
+In a patient with poorly controlled diabetes, HbA1c reflects glucose control over approximately:
+- 8 hours
+- 1 week
+- 1 month
+* 3 months
+> HbA1c reflects the average over the RBC lifespan, about 2-3 months.
+
+@L17 443
+A 2-week-old preterm (800 g) on formula since day 2 has bloody stools, is pale and sick, with a distended tender abdomen and air in the bowel wall on X-ray. BP 40/20. Most likely diagnosis?
+- Meconium ileus
+- Hirschsprung disease
+* Necrotizing enterocolitis
+- Cystic fibrosis
+> Pneumatosis intestinalis in a formula-fed preterm = NEC. Stop feeds, NG decompression, IV antibiotics.
+
+@L23 443
+A 4-week-old formula-fed infant has jaundice, poor feeding, vomiting, dark urine, pale stools and high direct bilirubin. Most important to investigate?
+* Biliary atresia
+- Hemolytic blood disorder
+- Physiological/breastfeeding hyperbilirubinemia
+> Conjugated hyperbilirubinemia with pale stools needs urgent evaluation for biliary atresia.
+
+@L23 443
+A neonate develops jaundice. Mother is O+, baby is A+, Coombs test positive. Cause?
+* ABO incompatibility
+- Rh incompatibility
+- Isoimmunization unrelated to blood group
+> Group O mothers have IgG anti-A/anti-B that crosses the placenta. Both are Rh positive so Rh disease is excluded.
+
+@L23 443
+Clear case of biliary atresia with pale stool and high direct bilirubin. Which is the gold standard among these for diagnosis?
+- ALT (elevated liver enzymes)
+- Ultrasound
+* Liver biopsy
+> Among these options, liver biopsy. The definitive gold standard is intraoperative cholangiography. Ultrasound (triangular cord sign, absent gallbladder) is supportive only.
+
+@L17 443
+Definition of prematurity:
+- Less than 38 weeks
+* Less than 37 weeks
+- Less than 40 weeks
+- Less than 34 weeks
+> Preterm = birth before 37 completed weeks.
+
+@L6 443
+An 18-month-old girl has blood-streaked stool, positive for occult blood. Most likely diagnosis?
+* Anal fissure
+- Peptic ulcer disease
+- Mallory-Weiss tear
+- Inflammatory bowel disease
+> Most common cause of blood-streaked stool in toddlers.
+
+@L26 443
+A 9-month-old has fever 38.7, ear pulling, and a bulging erythematous tympanic membrane with purulent effusion. Most likely organism?
+- Group B streptococcus
+* Streptococcus pneumoniae
+- Group A streptococcus
+- Streptococcus viridans
+> AOM: S. pneumoniae, non-typeable H. influenzae, Moraxella catarrhalis.
+
+@L22 443
+A child has recurrent chest infections and oral thrush. No T cells, but B cells and NK cells are present. Diagnosis?
+* SCID
+- X-linked agammaglobulinemia
+- Hyper-IgM
+- Wiskott-Aldrich syndrome
+> T-B+NK+ SCID (e.g., IL-7R alpha defect). XLA has absent B cells with normal T cells.
+
+@L16 443
+A 2-year-old is below the 3rd percentile for weight and height with frequent respiratory infections, irritability, visible muscle wasting and dry skin, but no edema. Most likely diagnosis?
+- Kwashiorkor
+* Marasmus
+- Organic FTT
+- Non-organic FTT
+> Severe wasting without edema = marasmus. Edema is the hallmark of kwashiorkor.
+
+@Other 443
+A 1-year-old has a normal palpable thyroid gland, elevated TSH and low T4. What do you suspect?
+- Thyroid dysgenesis
+- Thyroid receptor blocking antibody
+* Thyroid dyshormonogenesis
+- Central hypothyroidism
+> Gland present and in place (or goitrous) with primary hypothyroidism points to dyshormonogenesis. Dysgenesis = absent/ectopic gland. Central gives low/normal TSH.
+
+@L14 443
+Which physiological change occurs in the normal post-natal cardiopulmonary transition?
+* Pulmonary vascular resistance decreases
+- Pulmonary blood flow decreases
+- Ductus arteriosus remains patent
+- Prostaglandin concentration increases
+> Lung expansion and oxygen drop PVR, pulmonary flow rises; prostaglandins fall and the ductus closes.
+
+@L11 443
+An 11-year-old has 1 day of right-sided abdominal pain, fever 37.9, vomiting, HR 112 and rebound tenderness in the RIF. Most likely cause?
+- Diverticulitis
+* Appendicitis
+- Pancreatitis
+- Carcinoma
+> Classic acute appendicitis.
+
+@L9 443
+An asthmatic child in an exacerbation has pH 7.49, low CO2, HCO3 21. Gas changes?
+* Respiratory alkalosis
+- Respiratory acidosis
+- Metabolic acidosis
+- Metabolic alkalosis
+> Early asthma attack: hyperventilation lowers CO2. A "normal" or rising CO2 in an attack is an ominous sign of fatigue.
