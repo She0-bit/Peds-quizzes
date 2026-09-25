@@ -1,16 +1,7 @@
 """Parse data/c*.txt question files into questions.json."""
 import glob, json, re, sys, difflib
 
-LECTURES = {
- "L3":"Growth and Growth Disorders","L4":"Immunization","L5":"Common GI Problems 1",
- "L6":"Common GI Problems 2","L7":"Common Pediatric Infection 1","L8":"Common Pediatric Infection 2",
- "L9":"Acid-Base Balance","L10":"Behavioral Disorders","L11":"Common Pediatric Emergency",
- "L12":"Normal Development","L13":"Acquired Heart Disease","L14":"Congenital Heart Disease",
- "L15":"Basic Nutritional Concepts","L16":"Nutritional Disorders","L17":"Common Neonatal Conditions",
- "L18":"Serious Pediatric Infection","L19":"Pediatric Rheumatology","L20":"Common Renal Disorders",
- "L21":"Renal Failure","L22":"Immunodeficiency","L23":"Neonatal Jaundice","L24":"Anemia in Pediatrics",
- "L25":"Seizures in Pediatrics","L26":"Common Respiratory Infection","L27":"Common Respiratory Disorders",
- "L28":"Fluid & Electrolyte Disturbance","Other":"Other / Genetics & Endocrine"}
+LECTURES = {'L3': 'Growth and Growth Disorders', 'L4': 'Immunization', 'L5': 'Common Gastrointestinal Problems 1', 'L6': 'Common Gastrointestinal Problems 2', 'L7': 'Common Pediatric Infection 1', 'L8': 'Common Pediatric Infection 2', 'L9': 'Acid-Base Balance', 'L10': 'Behavioral Disorders', 'L11': 'Common Pediatric Emergency', 'L12': 'Normal Development', 'L13': 'Acquired Heart Disease', 'L14': 'Congenital Heart Disease', 'L15': 'Basic Nutritional Concepts in Pediatrics', 'L16': 'Nutritional Disorders', 'L17': 'Common Neonatal Conditions', 'L18': 'Serious Pediatric Infection', 'L19': 'Pediatric Rheumatology', 'L20': 'Common Renal Disorders', 'L21': 'Renal Failure', 'L22': 'Immunodeficiency in Pediatrics', 'L23': 'Neonatal Jaundice', 'L24': 'Anemia in Pediatrics', 'L25': 'Seizures in Pediatrics', 'L26': 'Common Respiratory Infection', 'L27': 'Common Respiratory Disorders', 'L28': 'Fluid & Electrolyte Disturbance', 'Other': 'Other (not in lecture list)'}
 
 qs, errs = [], []
 for f in sorted(glob.glob("data/c*.txt")):

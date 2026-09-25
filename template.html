@@ -96,7 +96,10 @@ function buildQuizzes(){
   return quizzes;
 }
 const QUIZZES=buildQuizzes();
-const TOPICS=[{key:"imm",title:"Immunization",ids:QS.filter(q=>q.imm).map(q=>q.id)}];
+// One topic quiz per lecture, in lecture order. L4 also pulls in vaccine questions tagged in other lectures.
+const TOPICS=Object.keys(LEC).map(l=>l==="L4"
+  ?{key:"imm",code:l,title:LEC[l],ids:QS.filter(q=>q.imm).map(q=>q.id)}
+  :{key:l,code:l==="Other"?"":l,title:LEC[l],ids:QS.filter(q=>q.lec===l).map(q=>q.id)});
 const secsFor=n=>Math.max(SECS,n*60);
 
 const store={get(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){return null}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
@@ -119,14 +122,14 @@ function home(){
   <header style="display:flex;flex-direction:column;gap:8px">
     <span class="label">Pediatrics midterm · batches 441 to 443</span>
     <h1>Peds Midterm Mini Quizzes</h1>
-    <p class="muted">${QS.length} past-year questions, deduplicated and tagged to ${nLec} lecture groups. Each mixed quiz has about ${PER} questions from ${PER} different lectures, with a ${SECS/60}-minute timer.</p>
+    <p class="muted">${QS.length} past-year questions, deduplicated and tagged to the ${Object.keys(LEC).filter(l=>l!=="Other").length} lectures (L3 to L28). Each mixed quiz has about ${PER} questions from ${PER} different lectures, with a ${SECS/60}-minute timer.</p>
   </header>
   <div class="note"><b>About the answers.</b> The source PDF is unsolved. Every answer and explanation here was written by Claude and should be checked against your lecture slides. Answers marked <span class="chip dr">Doctor-confirmed</span> come from notes in the PDF saying a doctor gave that answer.</div>
   <div class="row"><button class="btn" id="rand">Random mix of ${PER}</button><span class="muted" style="font-size:.9rem">New random set each time</span></div>
   <section style="display:flex;flex-direction:column;gap:10px">
-    <h2>Topic quizzes</h2>
+    <h2>Topic quizzes <span class="muted" style="font-size:1rem">one per lecture</span></h2>
     <div class="grid">${TOPICS.map((t,i)=>{const b=best[t.key];
-      return `<button class="tile topic ${b!=null?'done':''}" data-t="${i}"><span class="t">${t.title}</span><span class="s">All ${t.ids.length} questions · ${secsFor(t.ids.length)/60} min</span>${b!=null?`<span class="best num">Best ${b}/${t.ids.length}</span>`:''}</button>`}).join('')}</div>
+      return `<button class="tile topic ${b!=null?'done':''}" data-t="${i}"><span class="t">${t.code?`<span class="num muted">${t.code}</span> `:""}${esc(t.title)}</span><span class="s">All ${t.ids.length} questions · ${secsFor(t.ids.length)/60} min</span>${b!=null?`<span class="best num">Best ${b}/${t.ids.length}</span>`:''}</button>`}).join('')}</div>
   </section>
   <section style="display:flex;flex-direction:column;gap:10px">
     <h2>Mixed quizzes</h2>
@@ -138,7 +141,7 @@ function home(){
   </section>`:''}`;
   app.querySelectorAll('.mv').forEach(m=>m.onclick=()=>{const i=+m.dataset.m;setFinished(i,!finished().includes(i));home()});
   app.querySelectorAll('.tile[data-i]').forEach(t=>t.onclick=()=>start(QUIZZES[+t.dataset.i],+t.dataset.i,'Quiz '+(+t.dataset.i+1)));
-  app.querySelectorAll('.tile[data-t]').forEach(t=>{const tp=TOPICS[+t.dataset.t];t.onclick=()=>start(shuffle(tp.ids),tp.key,tp.title)});
+  app.querySelectorAll('.tile[data-t]').forEach(t=>{const tp=TOPICS[+t.dataset.t];t.onclick=()=>start(shuffle(tp.ids),tp.key,(tp.code?tp.code+" ":"")+tp.title)});
   document.getElementById('rand').onclick=()=>{
     const byLec={};shuffle(QS).forEach(q=>(byLec[q.lec]??=[]).push(q.id));
     start(shuffle(Object.keys(byLec)).slice(0,PER).map(l=>byLec[l][0]),null,'Random mix');
