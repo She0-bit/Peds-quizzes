@@ -11,3 +11,43 @@ A 6-day-old with birth weight 3000 g now weighs 2950 g. Next step?
 - CBC, LFT and urinalysis
 - Admit
 > A 1.7% loss at day 6 is well within normal physiological weight loss.
+
+@L27 442
+A 3-year-old (born at 36 weeks, RDS, bronchiolitis last winter) has recurrent cough and shortness of breath triggered by colds, dust and cold weather. His brother has similar symptoms. He has allergic shiners and nasal congestion; lungs are clear. Which best predicts future asthma?
+* Presence of allergic shiners
+- Brother with asthma symptoms
+- History of prematurity
+- Wheezing triggered by cold weather and dust
+> Official key: allergic shiners, a sign of allergic rhinitis/atopy, which is a predictor in the asthma predictive index. Sibling asthma and prematurity are not API criteria.
+
+@L12 442
+Which primitive reflex is present at birth and disappears by 6 months?
+* Moro reflex
+- Palmar grasp reflex
+- Tonic neck reflex
+- Rooting reflex
+> Official key: Moro. Moro disappears by about 4-6 months. Timings for the other reflexes vary by source, so learn Moro for this question.
+
+@L11 442
+A 6-year-old ingested many aspirin tablets a few hours ago. He is lethargic with a respiratory rate of 30. Best initial management?
+* Activated charcoal
+- Gastric lavage
+- Intravenous fluids
+- Sodium bicarbonate
+> Official key: activated charcoal (salicylates are well adsorbed, and charcoal is useful even several hours after ingestion). Protect the airway first in a lethargic child. Bicarbonate for urine alkalinization follows.
+
+@L9 442
+A girl with type 1 diabetes has 3 days of fever, diarrhea and vomiting. She looks well hydrated, fasting glucose is 260 mg/dL, bicarbonate is normal and urine shows ketones. After adjusting the insulin dose, what is the next step?
+* Admit immediately
+- Tell her to measure urine ketones daily
+- Tell her to measure blood glucose daily
+- Tell her to increase her hydration
+> Official key: admission. Ongoing vomiting with ketosis in T1DM risks rapid progression to DKA, and she cannot keep up oral intake. Sick-day monitoring at home is every 2-4 hours, not daily.
+
+@L28 441
+An 8 kg child with moderate dehydration has sodium 155. Which maintenance fluid and rate is correct?
+- 0.9% saline with D5 at 32 mL/hour
+- 0.9% saline with D5 at 42 mL/hour
+* 0.45% saline with D5 at 32 mL/hour
+- 0.45% saline with D5 at 42 mL/hour
+> Official key: D5 0.45% saline at 32 mL/h. Rate = 4 mL/kg/h x 8 kg = 32 mL/h. Hypernatremic deficit is then replaced slowly over 48 h.

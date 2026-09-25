@@ -27,13 +27,13 @@ A 2-day-old term neonate has multiple firm yellow-white 1-2 mm papules with a su
 - Folliculitis
 > Erythema toxicum neonatorum: benign, eosinophil-filled pustules with red flare, days 1-3. Transient pustular melanosis has neutrophils and no erythema.
 
-@L12 441 dr
+@L12 441 dr conflict
 An 18-month-old boy: what can he do?
 - Copies a line
 - Handles a spoon well
 * Helps to undress
 - Stands on one leg for 10 seconds
-> Source PDF: "doctor said this is the right answer." 18 m: removes clothes, uses spoon with spilling, scribbles, 10-25 words.
+> A doctor's note in the PDF says "help to undress" is right, but two copies of the key highlight "copies line". Kept the doctor's answer. By standard milestones, 18 months removes clothes; imitating a stroke/line is about 2 years.
 
 @L13 441
 A girl has migratory arthritis after a GAS infection. What is true about this arthritis?

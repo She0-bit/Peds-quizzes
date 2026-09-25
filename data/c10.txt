@@ -92,8 +92,8 @@ A 3-week-old girl has large-volume vomiting after breastfeeds and an epigastric 
 
 @L26 442
 A well-appearing 5-year-old has 2 days of fever 38.5, mild ear pain and ear discharge. Bulging dull tympanic membrane with otorrhea. Next best step?
-* High-dose amoxicillin for 10 days
-- Symptomatic therapy and reassess in 48-72 h
+- High-dose amoxicillin for 10 days
+* Symptomatic therapy and reassess in 48-72 h
 - ENT consult for tympanic surgery
 - Blood culture from ear and other tests
-> AOM with otorrhea is an indication for antibiotics at any age (watchful waiting is only for mild, non-severe cases without otorrhea). Duration for age >=2 y is often 5-7 days in guidelines; the option given is 10 days.
+> Official key: symptomatic therapy and reassess in 48-72 h (watchful waiting in a well child over 2 years). Note: AAP guidance lists otorrhea as a reason to start antibiotics, so this answer differs from the AAP guideline.

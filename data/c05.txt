@@ -72,11 +72,11 @@ Which vaccine can be given to a child with SCID?
 
 @L18 442
 A 3-week-old has high fever, irritability, lethargy, poor feeding and leukocytosis (sepsis features). Best empirical antibiotics?
-* Ampicillin + ceftriaxone
+- Ampicillin + ceftriaxone
 - Vancomycin
-- Ampicillin + cefuroxime
+* Ampicillin + cefuroxime
 - Meropenem
-> Late-onset neonatal sepsis: ampicillin (Listeria, GBS, enterococcus) + third-generation cephalosporin. Cefotaxime/ceftazidime is often preferred over ceftriaxone in neonates.
+> Official key: ampicillin + cefuroxime. Note: most guidelines use ampicillin + a third-generation cephalosporin (cefotaxime) for late-onset neonatal sepsis, since cefuroxime has poor CSF penetration. Know the key's answer for this exam.
 
 @L10 442
 A 5-year-old wakes screaming at night, frightened, unaware of surroundings, hard to console, for several minutes, and does not remember in the morning. He also has vivid dreams he can describe. Diagnosis for the screaming episodes?

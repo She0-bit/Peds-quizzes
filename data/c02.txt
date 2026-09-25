@@ -59,13 +59,13 @@ A 3-year-old comes for developmental assessment. He should be able to:
 * Ride a tricycle
 > 3 y: tricycle. Hop on one foot ~4 y, skip ~5 y, write name ~5-6 y.
 
-@L20 443
+@L20 443 conflict
 A 5-year-old has generalized edema and you suspect nephrotic syndrome. Which is mandatory for diagnosis?
 - Presence of edema
 - Urinary protein excretion >100 mg/m2/day
 - Hyperlipidemia
 * Serum albumin <3 g/dL
-> Diagnosis needs nephrotic-range proteinuria (>40 mg/m2/h, or UPCR >2) plus hypoalbuminemia (KDIGO: <3.0 g/dL; many texts say <2.5). Edema and hyperlipidemia are usual but not required. Note: option B's threshold is far too low, so D is the best choice here.
+> The solved PDF contradicts itself: the 443 copy highlights the proteinuria option, the two 442 copies highlight albumin <3 g/dL. Kept the majority answer. Diagnosis needs nephrotic-range proteinuria (>40 mg/m2/h) plus hypoalbuminemia; the 100 mg/m2/day threshold in option B is too low to be diagnostic.
 
 @L7 443
 A febrile 3-month-old has a catheterized urine with 100,000 CFU/mL Klebsiella pneumoniae and >=5 WBC/HPF. Interpretation?

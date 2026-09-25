@@ -24,11 +24,11 @@ A 2-week-old born at 36 weeks weighed 2.4 kg at birth and weighs 2.4 kg now. Par
 
 @L4 442
 A child received IVIG for Kawasaki disease and is now due for his 2-year (live) vaccines. Expected effect on the vaccine?
-- Unchanged immune response
-* Decreased immune response
+* Unchanged immune response
+- Decreased immune response
 - Augmented immune response
 - Delayed immune response
-> Passive antibodies in IVIG neutralize live vaccines (MMR, varicella). Delay them about 11 months after high-dose IVIG.
+> Official key: unchanged (one copy of this question in the PDF marks it "not sure"). Note: standard guidance (CDC/AAP) is that IVIG antibodies blunt the response to live vaccines like MMR and varicella, so they are delayed about 11 months after high-dose IVIG.
 
 @L17 442
 A 12-hour-old infant born by C-section is jittery and hypoglycemic; the mother has diabetes. Likely cause of hypoglycemia?
@@ -88,11 +88,11 @@ What is the daily fluid requirement for an 18 kg child?
 
 @L27 442
 A child has intermittent asthma. What should be prescribed?
-* Short-acting beta agonist
-- SABA and inhaled corticosteroid
+- Short-acting beta agonist
+* SABA and inhaled corticosteroid
 - Long-acting beta agonist
 - Inhaled corticosteroid
-> Classic step 1: SABA as needed. Note: newer GINA recommends ICS whenever SABA is used (6-11 y) or as-needed ICS-formoterol (>=12 y), so check which your lecture taught.
+> Current GINA guidance: do not treat with SABA alone; use low-dose ICS whenever SABA is taken (6-11 y) or as-needed ICS-formoterol (12+ y). Another question in the PDF has the same answer ("inhaled corticosteroids when taking albuterol").
 
 @L16 442
 A family follows a strict vegan diet. Which deficiency is expected?
@@ -153,10 +153,10 @@ A 6-year-old has fever, malaise and a slapped-cheek rash followed by a lacy body
 @L13 442
 A 15-year-old collapses suddenly while sitting in a class exam, with a few seconds of twitching, then several minutes of confusion. First episode. First investigation?
 - Brain CT
-* Electrocardiogram
+- Electrocardiogram
 - Tilt-table test
-- EEG
-> ECG is the first test for any transient loss of consciousness to exclude arrhythmia (long QT, WPW, etc.). Brief myoclonic jerks can occur with syncope. Note: the post-event confusion makes seizure possible too; EEG would follow.
+* EEG
+> Official key: EEG. Twitching followed by several minutes of post-ictal confusion points to a seizure. Note: many references still get an ECG in any first unexplained loss of consciousness to exclude arrhythmia.
 
 @L15 442
 In which condition would you strongly advise against breastfeeding?

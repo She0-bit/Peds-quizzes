@@ -81,17 +81,25 @@ function shuffle(a,r=Math.random){a=a.slice();for(let i=a.length-1;i>0;i--){cons
 
 // Fixed quizzes: each quiz takes one question from each of the lectures with the most questions left,
 // so every quiz spreads across as many different lectures as possible.
+// Quizzes are built from the original 285 questions so they stay the same; questions added later
+// are appended to the shortest quizzes that don't already cover that lecture.
+const ORIGINAL=285;
 function buildQuizzes(){
   const r=rng(2026), buckets={};
-  shuffle(QS,r).forEach(q=>(buckets[q.lec]??=[]).push(q.id));
-  const n=Math.ceil(QS.length/PER), quizzes=[];
-  let left=QS.length;
+  shuffle(QS.slice(0,ORIGINAL),r).forEach(q=>(buckets[q.lec]??=[]).push(q.id));
+  const n=Math.ceil(ORIGINAL/PER), quizzes=[];
+  let left=ORIGINAL;
   for(let k=0;k<n;k++){
     const size=Math.ceil(left/(n-k)), quiz=[];
     const order=Object.keys(buckets).filter(l=>buckets[l].length).sort((a,b)=>buckets[b].length-buckets[a].length||r()-.5);
     for(const l of order){ if(quiz.length>=size)break; quiz.push(buckets[l].pop()); }
     while(quiz.length<size){ const l=Object.keys(buckets).find(l=>buckets[l].length); quiz.push(buckets[l].pop()); }
     left-=quiz.length; quizzes.push(shuffle(quiz,r));
+  }
+  for(const q of QS.slice(ORIGINAL)){
+    const fits=quizzes.filter(z=>!z.some(id=>QS[id].lec===q.lec));
+    const pool=fits.length?fits:quizzes;
+    pool.reduce((a,b)=>b.length<a.length?b:a).push(q.id);
   }
   return quizzes;
 }
@@ -124,7 +132,7 @@ function home(){
     <h1>Peds Midterm Mini Quizzes</h1>
     <p class="muted">${QS.length} past-year questions, deduplicated and tagged to the ${Object.keys(LEC).filter(l=>l!=="Other").length} lectures (L3 to L28). Each mixed quiz has about ${PER} questions from ${PER} different lectures, with a ${SECS/60}-minute timer.</p>
   </header>
-  <div class="note"><b>About the answers.</b> The source PDF is unsolved. Every answer and explanation here was written by Claude and should be checked against your lecture slides. Answers marked <span class="chip dr">Doctor-confirmed</span> come from notes in the PDF saying a doctor gave that answer.</div>
+  <div class="note"><b>About the answers.</b> Every answer follows the official solved PDF. The explanations were written by Claude. Where the key differs from common guidelines, the explanation says so. Questions marked <span class="chip dr">Key conflict</span> are ones where the solved PDF highlights different answers in different copies; the explanation says which one was kept and why.</div>
   <div class="row"><button class="btn" id="rand">Random mix of ${PER}</button><span class="muted" style="font-size:.9rem">New random set each time</span></div>
   <section style="display:flex;flex-direction:column;gap:10px">
     <h2>Topic quizzes <span class="muted" style="font-size:1rem">one per lecture</span></h2>
@@ -176,7 +184,7 @@ function show(s){
     const ok=k===q.a;
     document.getElementById('fb').innerHTML=`
       <div class="expl ${ok?'':'bad'}"><b>${ok?'Correct.':'Not quite.'}</b> ${esc(q.e)}</div>
-      <p class="src">${q.dr?'<span class="chip dr">Doctor-confirmed</span> ':'Answer by Claude, verify with your slides. '}Source: ${q.year} batch.</p>
+      <p class="src">${q.conflict?'<span class="chip dr">Key conflict</span> ':'Official answer. '}${q.dr?'Doctor-confirmed in the PDF. ':''}Source: ${q.year} batch.</p>
       <div class="row"><button class="btn" id="next">${s.i+1<s.ids.length?'Next question':'See results'}</button></div>`;
     const nx=document.getElementById('next');nx.focus();
     nx.onclick=()=>{if(++s.i<s.ids.length)show(s);else results(s)};

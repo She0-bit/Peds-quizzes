@@ -134,13 +134,13 @@ A 9-year-old girl has fever, erythema, tenderness and edema over the left eye, w
 - ANA level
 > Painful/limited eye movement and reduced vision = orbital (post-septal) cellulitis: IV antibiotics, urgent ophthalmology, CT orbits.
 
-@L12 443
+@L12 443 conflict
 A 2-year-old comes for routine developmental assessment. He is expected to be able to:
 - Draw a square
 - Ride a tricycle and tie shoes
 - Use 10 words and combine them into long sentences
 * Run and kick a ball
-> 2 y: runs, kicks ball, 2-word phrases, ~50 words. Tricycle 3 y, square 4 y, tie shoes 5-6 y.
+> The solved PDF contradicts itself here: this 443 version highlights "ride a tricycle and tie shoes", but both 442 copies highlight "run and kick a ball". Run and kick is correct by standard milestones: tricycle is 3 y and tying shoes 5-6 y.
 
 @L15 443
 A mother breastfeeds her child every 2-3 hours. Choose the appropriate answer:

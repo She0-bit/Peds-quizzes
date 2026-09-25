@@ -10,6 +10,7 @@ for f in sorted(glob.glob("data/c*.txt")):
         head = lines[0].split()
         lec, year, dr = head[0][1:], head[1], "dr" in head[2:]
         imm = lec == "L4" or "imm" in head[2:]
+        conflict = "conflict" in head[2:]
         stem = " ".join(l for l in lines[1:] if l[:2] not in ("- ", "* ", "> "))
         opts = [l[2:].strip() for l in lines if l[:2] in ("- ", "* ")]
         ans = [i for i, l in enumerate(l for l in lines if l[:2] in ("- ", "* ")) if l.startswith("* ")]
@@ -19,7 +20,7 @@ for f in sorted(glob.glob("data/c*.txt")):
         if len(ans) != 1: errs.append(f"answer count {len(ans)} in {where}")
         if len(opts) < 3: errs.append(f"<3 options in {where}")
         if not expl: errs.append(f"no explanation in {where}")
-        qs.append(dict(id=len(qs), lec=lec, year=year, dr=dr, imm=imm, q=stem, o=opts, a=ans[0] if ans else -1, e=expl))
+        qs.append(dict(id=len(qs), lec=lec, year=year, dr=dr, imm=imm, conflict=conflict, q=stem, o=opts, a=ans[0] if ans else -1, e=expl))
 
 # near-duplicate report
 for i in range(len(qs)):
