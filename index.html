@@ -37,6 +37,8 @@ button:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
 .row{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px}
 .tile{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px;text-align:left;display:flex;flex-direction:column;gap:4px}
+.tw{display:flex;flex-direction:column;gap:4px}
+.mv{background:none;border:0;padding:2px 4px;font-size:.8rem;color:var(--accent);text-align:left;text-decoration:underline;text-underline-offset:2px}
 .tile:hover{border-color:var(--accent)}
 .tile .t{font-family:var(--display);font-weight:600;font-size:1.05rem}
 .tile .s{font-size:.8rem;color:var(--muted)}
@@ -101,11 +103,18 @@ const store={get(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){retu
 const app=document.getElementById('app');
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 let timerId=null;
+// Finished mixed quizzes, kept per browser. Quizzes 1-3 start as finished.
+const finished=()=>{const f=store.get('finished');return Array.isArray(f)?f:[0,1,2]};
+const setFinished=(i,on)=>{const f=finished().filter(x=>x!==i);if(on)f.push(i);store.set('finished',f)};
 
 function home(){
   clearInterval(timerId);
   const best=store.get('best')||{};
   const nLec=new Set(QS.map(q=>q.lec)).size;
+  const fin=finished(), all=QUIZZES.map((_,i)=>i);
+  const todo=all.filter(i=>!fin.includes(i)), done=all.filter(i=>fin.includes(i));
+  const tile=i=>{const qz=QUIZZES[i], b=best[i], lecs=new Set(qz.map(id=>QS[id].lec)).size, f=fin.includes(i);
+    return `<div class="tw"><button class="tile ${b!=null?'done':''}" data-i="${i}"><span class="t">Quiz ${i+1}</span><span class="s">${qz.length} Qs · ${lecs} lectures</span>${b!=null?`<span class="best num">Best ${b}/${qz.length}</span>`:''}</button><button class="mv" data-m="${i}">${f?'Move back':'Mark finished'}</button></div>`};
   app.innerHTML=`
   <header style="display:flex;flex-direction:column;gap:8px">
     <span class="label">Pediatrics midterm · batches 441 to 443</span>
@@ -121,10 +130,13 @@ function home(){
   </section>
   <section style="display:flex;flex-direction:column;gap:10px">
     <h2>Mixed quizzes</h2>
-    <div class="grid">${QUIZZES.map((qz,i)=>{
-      const b=best[i]; const lecs=new Set(qz.map(id=>QS[id].lec)).size;
-      return `<button class="tile ${b!=null?'done':''}" data-i="${i}"><span class="t">Quiz ${i+1}</span><span class="s">${qz.length} Qs · ${lecs} lectures</span>${b!=null?`<span class="best num">Best ${b}/${qz.length}</span>`:''}</button>`}).join('')}</div>
-  </section>`;
+    ${todo.length?`<div class="grid">${todo.map(tile).join('')}</div>`:'<p class="muted">You have finished every mixed quiz.</p>'}
+  </section>
+  ${done.length?`<section style="display:flex;flex-direction:column;gap:10px">
+    <h2>Finished <span class="muted num" style="font-size:1rem">${done.length}/${QUIZZES.length}</span></h2>
+    <div class="grid">${done.map(tile).join('')}</div>
+  </section>`:''}`;
+  app.querySelectorAll('.mv').forEach(m=>m.onclick=()=>{const i=+m.dataset.m;setFinished(i,!finished().includes(i));home()});
   app.querySelectorAll('.tile[data-i]').forEach(t=>t.onclick=()=>start(QUIZZES[+t.dataset.i],+t.dataset.i,'Quiz '+(+t.dataset.i+1)));
   app.querySelectorAll('.tile[data-t]').forEach(t=>{const tp=TOPICS[+t.dataset.t];t.onclick=()=>start(shuffle(tp.ids),tp.key,tp.title)});
   document.getElementById('rand').onclick=()=>{
@@ -183,12 +195,13 @@ function results(s){
     <span class="label">${esc(s.title)} finished</span>
     <span class="big num">${score}/${s.ids.length}</span>
     <p class="muted">Time used: <span class="num">${Math.floor(used/60)}:${String(used%60).padStart(2,'0')}</span></p>
-    <div class="row">${next!=null?`<button class="btn" id="nextq">Start Quiz ${next+1}</button>`:''}<button class="btn ghost" id="again">Retry</button><button class="btn ghost" id="home">All quizzes</button></div>
+    <div class="row">${next!=null?`<button class="btn" id="nextq">Start Quiz ${next+1}</button>`:''}${typeof s.quizIndex==='number'&&!finished().includes(s.quizIndex)?'<button class="btn ghost" id="fin">Mark as finished</button>':''}<button class="btn ghost" id="again">Retry</button><button class="btn ghost" id="home">All quizzes</button></div>
   </section>
   ${missed.length?`<section class="review"><h2>Review what you missed</h2>${missed.map(({q,p})=>`
     <div class="rv"><span class="chip" style="align-self:flex-start">${esc(LEC[q.lec])}</span><p>${esc(q.q)}</p>
     <p style="color:var(--bad)">Your answer: ${esc(q.o[p])}</p><p style="color:var(--ok)"><b>Answer: ${esc(q.o[q.a])}</b></p><p class="muted">${esc(q.e)}</p></div>`).join('')}</section>`:'<p>Perfect score. Nothing to review.</p>'}`;
   document.getElementById('home').onclick=home;
+  const fb=document.getElementById('fin');if(fb)fb.onclick=()=>{setFinished(s.quizIndex,true);fb.textContent='Moved to Finished';fb.disabled=true};
   document.getElementById('again').onclick=()=>start(s.ids,s.quizIndex,s.title);
   if(next!=null)document.getElementById('nextq').onclick=()=>start(QUIZZES[next],next,'Quiz '+(next+1));
   scrollTo(0,0);
