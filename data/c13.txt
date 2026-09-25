@@ -75,7 +75,7 @@ Oral rehydration solution (homemade) contains:
 - Half teaspoon sugar and 6 teaspoons salt in 1 liter of apple juice
 > WHO home recipe: 1/2 level teaspoon salt + 6 level teaspoons sugar in 1 L clean water.
 
-@L26 441
+@L26 441 imm
 A 3-month-old ex-preterm was in the NICU for weeks and has just been discharged. Parents fear severe lower respiratory infection. What do you advise?
 - Just stick with the vaccination schedule
 * Palivizumab injection once a month during winter (RSV season)

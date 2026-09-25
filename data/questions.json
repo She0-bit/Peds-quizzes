@@ -34,6 +34,7 @@
 "lec": "L5",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 4-week-old male infant presents with progressive, non-bilious projectile vomiting after feeds. The infant remains hungry after vomiting. Exam shows mild dehydration and a small, firm epigastric mass. Labs show hypochloremic metabolic alkalosis. What is the most likely diagnosis and appropriate management?",
 "o": [
 "Sepsis; IV antibiotics and fluid resuscitation",
@@ -49,6 +50,7 @@
 "lec": "L28",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 6-month-old infant presents with diarrhea and poor feeding. Serum sodium is 165 mEq/L. What is the most appropriate rehydration strategy?",
 "o": [
 "Rapid correction over 6-8 hours",
@@ -64,6 +66,7 @@
 "lec": "L26",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 14-month-old girl has nasal congestion, hoarse cough and fever for 2 days, then \"noisy breathing\". Drinking well. RR 38, T 38.4. Inspiratory stridor only when crying, resolves at rest. What is the most appropriate next step?",
 "o": [
 "Prescribe oral dexamethasone",
@@ -79,6 +82,7 @@
 "lec": "L17",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 4-day-old newborn has lost 5% of birth weight. The baby is breastfeeding well with adequate urine output. What is the most appropriate interpretation?",
 "o": [
 "Indicates poor milk supply",
@@ -94,6 +98,7 @@
 "lec": "L22",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "Marked leukocytosis with severe recurrent necrotizing bacterial infections in a child with a history of delayed separation of the umbilical cord most likely suggests:",
 "o": [
 "A leukocyte adhesion defect",
@@ -109,6 +114,7 @@
 "lec": "L26",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "An 11-month-old has 4 days of productive cough and congestion, now wheezing. Feeding slightly less but wet diapers normal. T 37.5, HR 130, RR 30, SpO2 95%, looks well, mild subcostal retractions and intermittent wheeze. Most appropriate next step?",
 "o": [
 "Obtain chest X-ray",
@@ -124,6 +130,7 @@
 "lec": "L28",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 6-year-old admitted for elective surgery is well-hydrated, afebrile, with normal glucose and sodium. Most appropriate maintenance IV fluid?",
 "o": [
 "Ringer's lactate at maintenance rate",
@@ -139,6 +146,7 @@
 "lec": "L27",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 9-year-old boy has months of sneezing, nasal itching, clear rhinorrhea and congestion, worse in spring. Pale, boggy turbinates. Most appropriate approach?",
 "o": [
 "Measure serum IgE only and prescribe oral decongestants",
@@ -154,6 +162,7 @@
 "lec": "L9",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 9-year-old took an unknown amount of aspirin 4 hours ago. Vomiting, tachypnea, tinnitus. T 38, RR 34. Salicylate 45 mg/dL, pH 7.48, HCO3 16, K 3.2, high anion gap. Next management step?",
 "o": [
 "IV fluids only and repeat salicylate level in 6 hours",
@@ -169,6 +178,7 @@
 "lec": "L9",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 10-month-old has profuse watery diarrhea for 3 days, dehydrated and tachypneic. ABG: pH 7.18, PaCO2 30, HCO3 14. Most appropriate interpretation?",
 "o": [
 "Mixed respiratory and metabolic alkalosis",
@@ -184,6 +194,7 @@
 "lec": "L27",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 6-year-old has 4 months of recurrent cough and wheeze triggered by football and colds. Mild end-expiratory wheeze, CXR normal. Which feature most supports asthma?",
 "o": [
 "Productive cough with green sputum for 3 weeks",
@@ -199,6 +210,7 @@
 "lec": "L6",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 6-year-old has chronic constipation with painful defecation and stool withholding. Normal anus, fecal mass in the abdomen, occasional bright red blood on toilet paper. Diagnosis and initial management?",
 "o": [
 "Functional constipation; stool softeners and behavioral modification",
@@ -214,6 +226,7 @@
 "lec": "L27",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "An 8-year-old girl with seasonal allergic rhinitis has 6 months of episodic dry cough, dyspnea, chest tightness. Diffuse expiratory wheeze, FEV1 70%. Which drug is most effective at reducing bronchial inflammation?",
 "o": [
 "Oral theophylline",
@@ -229,6 +242,7 @@
 "lec": "L11",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 6-year-old with eczema develops generalized urticaria, lip swelling, wheeze and hypotension shortly after eating peanuts. Initial management and key long-term precaution?",
 "o": [
 "IM epinephrine; prescribe epinephrine auto-injector and emergency action plan",
@@ -244,6 +258,7 @@
 "lec": "L23",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 25-day-old term infant has progressive jaundice, clay-colored stools and hepatomegaly. Total bilirubin 15, direct 9 mg/dL. Most likely diagnosis?",
 "o": [
 "Breast milk jaundice",
@@ -259,6 +274,7 @@
 "lec": "L20",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 7-year-old boy wets the bed at night but is dry during the day. No urinary symptoms, normal exam. First step?",
 "o": [
 "Renal ultrasound",
@@ -274,6 +290,7 @@
 "lec": "L18",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 9-year-old girl has fever, erythema, tenderness and edema over the left eye, with limited ocular movement and decreased visual acuity. Most appropriate management?",
 "o": [
 "IV immunoglobulin",
@@ -289,6 +306,7 @@
 "lec": "L12",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 2-year-old comes for routine developmental assessment. He is expected to be able to:",
 "o": [
 "Draw a square",
@@ -304,6 +322,7 @@
 "lec": "L15",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A mother breastfeeds her child every 2-3 hours. Choose the appropriate answer:",
 "o": [
 "It is appropriate to breastfeed on demand",
@@ -319,6 +338,7 @@
 "lec": "L8",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A child with brucellosis treated with rifampicin still has fever after 10 days. Next step?",
 "o": [
 "Continue rifampicin alone for one more week",
@@ -334,6 +354,7 @@
 "lec": "L22",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 5-month-old has had recurrent infections since 2 months including PCP pneumonia and oral thrush. Severe lymphopenia, absent thymic shadow. Most likely diagnosis?",
 "o": [
 "X-linked agammaglobulinemia",
@@ -349,6 +370,7 @@
 "lec": "Other",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A fetus is at high risk for Down syndrome and the mother wants a definitive invasive test to confirm trisomy 21. Most appropriate investigation?",
 "o": [
 "Non-invasive prenatal testing",
@@ -364,6 +386,7 @@
 "lec": "L7",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 7-year-old unvaccinated child has fever and a vesicular rash in different stages of healing. Best management?",
 "o": [
 "Oral acyclovir",
@@ -379,6 +402,7 @@
 "lec": "L24",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "Which laboratory finding is most consistent with hemolytic anemia?",
 "o": [
 "High reticulocyte count",
@@ -394,6 +418,7 @@
 "lec": "L24",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A healthy 10-week-old has Hb 10 g/dL with normal MCV and no symptoms. Next step?",
 "o": [
 "Start oral iron",
@@ -409,6 +434,7 @@
 "lec": "L17",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A neonate presents with respiratory distress and a scaphoid abdomen. Diagnosis?",
 "o": [
 "Congenital diaphragmatic hernia",
@@ -424,6 +450,7 @@
 "lec": "Other",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A child has a hard thyroid nodule with cervical lymphadenopathy. Next step?",
 "o": [
 "Thyroid ultrasound + FNA",
@@ -439,6 +466,7 @@
 "lec": "L25",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A child started a new antiepileptic drug and 2-3 weeks later developed fever, rash, eosinophilia and elevated liver enzymes. Diagnosis?",
 "o": [
 "DRESS",
@@ -454,6 +482,7 @@
 "lec": "L9",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A neonate has metabolic acidosis, hypoglycemia and mild hyperammonemia, with a family history of neonatal death. Most likely diagnosis?",
 "o": [
 "Organic acidemia",
@@ -469,6 +498,7 @@
 "lec": "L25",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A child has seizures lasting 3 minutes, only during fever. Diagnosis?",
 "o": [
 "Simple febrile seizure",
@@ -484,6 +514,7 @@
 "lec": "L25",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A child has brief staring spells with eyelid fluttering and generalized spikes on EEG. Diagnosis?",
 "o": [
 "Juvenile absence epilepsy",
@@ -499,6 +530,7 @@
 "lec": "L15",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A child can sit with support and shows interest in food. Most appropriate feeding recommendation?",
 "o": [
 "Start cow's milk",
@@ -514,6 +546,7 @@
 "lec": "L20",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A child's urine protein is negative in the morning and 2+ in the afternoon. Diagnosis?",
 "o": [
 "Orthostatic proteinuria",
@@ -528,6 +561,7 @@
 "lec": "L18",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 4-month-old infant has fever and gram-positive diplococci on culture. What is the organism?",
 "o": [
 "Streptococcus pneumoniae",
@@ -542,6 +576,7 @@
 "lec": "L20",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "Schistocytes on peripheral smear after a diarrheal illness. What is the causative organism?",
 "o": [
 "E. coli O157:H7",
@@ -556,6 +591,7 @@
 "lec": "L17",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "How do you screen a 25-week preterm for intraventricular hemorrhage (IVH)?",
 "o": [
 "MRI",
@@ -571,6 +607,7 @@
 "lec": "L17",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A full-term neonate has unilateral chest distension and respiratory distress. Diagnosis?",
 "o": [
 "Pneumothorax",
@@ -585,6 +622,7 @@
 "lec": "L23",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A neonate with congenital CMV infection has jaundice. The intrahepatic cause of cholestasis is:",
 "o": [
 "Neonatal hepatitis",
@@ -599,6 +637,7 @@
 "lec": "L12",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "At what age does a child ride a tricycle?",
 "o": [
 "2 years",
@@ -613,6 +652,7 @@
 "lec": "L14",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 4-week-old well baby has a grade 3/6 ejection systolic murmur at the upper left sternal edge and a fixed, widely split S2. Most likely explanation?",
 "o": [
 "Left-to-right shunt through the ventricular septum",
@@ -628,6 +668,7 @@
 "lec": "L3",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "Reviewing growth charts, which one is abnormal?",
 "o": [
 "6-month-old girl with height on the 20th percentile",
@@ -643,6 +684,7 @@
 "lec": "L3",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 14-year-old boy has constitutional growth delay. Which statement is consistent with this diagnosis?",
 "o": [
 "Prognosis for a normal adult height is good",
@@ -658,6 +700,7 @@
 "lec": "L20",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 10-year-old develops facial swelling 8 days after treatment for tonsillitis. You suspect post-streptococcal glomerulonephritis. Which finding is most commonly associated?",
 "o": [
 "High serum IgA",
@@ -673,6 +716,7 @@
 "lec": "L12",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 3-year-old comes for developmental assessment. He should be able to:",
 "o": [
 "Skip with both feet",
@@ -688,6 +732,7 @@
 "lec": "L20",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 5-year-old has generalized edema and you suspect nephrotic syndrome. Which is mandatory for diagnosis?",
 "o": [
 "Presence of edema",
@@ -703,6 +748,7 @@
 "lec": "L7",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A febrile 3-month-old has a catheterized urine with 100,000 CFU/mL Klebsiella pneumoniae and >=5 WBC/HPF. Interpretation?",
 "o": [
 "Likely asymptomatic bacteriuria",
@@ -718,6 +764,7 @@
 "lec": "L14",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 4-month-old has tachypnea, tachycardia, hepatomegaly, a soft pansystolic murmur at the lower left sternal border, cardiomegaly and increased pulmonary markings, and normal saturations in all limbs. Most likely diagnosis?",
 "o": [
 "Inborn error of metabolism",
@@ -733,6 +780,7 @@
 "lec": "L3",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "What is the initial physical manifestation of puberty in males?",
 "o": [
 "Testicular enlargement",
@@ -748,6 +796,7 @@
 "lec": "L19",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 15-year-old girl has 2 months of fatigue, joint and muscle pain and a malar rash. Positive ANA, low complement, proteinuria. Most likely diagnosis?",
 "o": [
 "Ankylosing spondylitis",
@@ -763,6 +812,7 @@
 "lec": "L15",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "At a 4-month visit the grandmother says solids should have started at 2 months. What is the recommended age to introduce foods other than milk?",
 "o": [
 "12 months",
@@ -778,6 +828,7 @@
 "lec": "L7",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "An infant is born to an HIV-infected mother who had effective ART and undetectable viral load at delivery. The infant is on post-exposure prophylaxis. How is HIV status determined in the first months?",
 "o": [
 "HIV ELISA antibody at 1 month",
@@ -793,6 +844,7 @@
 "lec": "L28",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 2-year-old with days of vomiting and diarrhea is lethargic, tachypneic, with poor skin turgor, refusing oral fluids. Initial IV management?",
 "o": [
 "Normal saline 10 mL/kg",
@@ -808,6 +860,7 @@
 "lec": "L8",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 6-month-old has 3 days of high fever, then a maculopapular rash appears as the fever subsides. Most likely diagnosis?",
 "o": [
 "Measles",
@@ -823,6 +876,7 @@
 "lec": "L26",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 3-year-old has fever, barky cough and stridor after 2 days of URTI. Vitally stable; inspiratory stridor only. Most appropriate next step?",
 "o": [
 "Oral Augmentin course",
@@ -838,6 +892,7 @@
 "lec": "L22",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 3-year-old has recurrent S. aureus skin abscesses, Aspergillus pneumonia, delayed cord separation (5 weeks), recurrent gingivitis, poor wound healing and marked neutrophilia. Most consistent immunodeficiency?",
 "o": [
 "Leukocyte adhesion defect (LAD)",
@@ -853,6 +908,7 @@
 "lec": "L19",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 6-year-old girl has 8 months of intermittent left knee pain with morning stiffness, limping in the mornings, a warm effusion and flexion contracture. Which lab finding is most associated with increased risk of ocular complications?",
 "o": [
 "Elevated CRP",
@@ -868,6 +924,7 @@
 "lec": "L10",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A child drops to the floor crying, arching his back and screaming when denied a toy, twice a week, about 10 minutes each. Best advice?",
 "o": [
 "Start immediate psychotherapy",
@@ -882,6 +939,7 @@
 "lec": "L4",
 "year": "443",
 "dr": false,
+"imm": true,
 "q": "By which route is BCG vaccine given to a newborn?",
 "o": [
 "Subcutaneous",
@@ -897,6 +955,7 @@
 "lec": "L4",
 "year": "443",
 "dr": false,
+"imm": true,
 "q": "A 2-month-old receives a combination vaccine (DTaP, IPV, Hib, HepB, PCV, rotavirus). Primary benefit of combined form?",
 "o": [
 "Multiple antigens at once produce stronger immunity",
@@ -912,6 +971,7 @@
 "lec": "L5",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 3-week-old has recurrent projectile non-bilious vomiting, irritability, weight loss and a firm olive-shaped epigastric mass. Most likely diagnosis?",
 "o": [
 "Duodenal atresia",
@@ -927,6 +987,7 @@
 "lec": "L6",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 13-year-old girl with constipation passes hard stools with streaks of bright red blood on the surface. No pain or systemic symptoms. Most likely diagnosis?",
 "o": [
 "Anal fissure",
@@ -942,6 +1003,7 @@
 "lec": "L9",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 7-year-old with fever, vomiting, Kussmaul breathing: Na 138, Cl 96, HCO3 10, glucose 350. Which is the correct formula for the serum anion gap?",
 "o": [
 "(Na + K) - (Cl + HCO3)",
@@ -957,6 +1019,7 @@
 "lec": "L9",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "An 8-year-old becomes dizzy and short of breath during an exam, anxious and breathing fast. pH 7.55, pCO2 22, HCO3 22. Acid-base disorder?",
 "o": [
 "Respiratory alkalosis due to hyperventilation",
@@ -972,6 +1035,7 @@
 "lec": "L10",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 7-year-old often wakes terrified at night and clearly remembers a vivid dream the next day. Which is true?",
 "o": [
 "The child does not remember the dream",
@@ -987,6 +1051,7 @@
 "lec": "L11",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 4-year-old is found collapsed, apneic, pulseless, with cold extremities. Best next step?",
 "o": [
 "Rescue breaths only, since children arrest from respiratory failure",
@@ -1002,6 +1067,7 @@
 "lec": "L9",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 12-year-old has abdominal pain, vomiting, deep breathing, drowsy, tachycardic, hypotensive. Glucose 420, pH 7.12, HCO3 10, Na 130, K 4.2, urine ketones. Most appropriate initial step?",
 "o": [
 "Start IV insulin infusion immediately",
@@ -1017,6 +1083,7 @@
 "lec": "L28",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 6-year-old weighing 12 kg is in shock from severe dehydration. What volume of 0.9% saline should be the initial bolus?",
 "o": [
 "120 mL",
@@ -1032,6 +1099,7 @@
 "lec": "L8",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 12-year-old Saudi boy has fever, sweats, malaise and arthralgia after drinking unpasteurized camel milk on a farm. Most likely organism?",
 "o": [
 "Brucella melitensis",
@@ -1047,6 +1115,7 @@
 "lec": "L17",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A newborn has a sacral swelling covered by a thin membrane; myelomeningocele is suspected. Most appropriate next diagnostic step?",
 "o": [
 "Plain X-ray of the spine",
@@ -1062,6 +1131,7 @@
 "lec": "L17",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "After vacuum delivery a newborn develops a progressive fluctuant scalp swelling that crosses sutures and extends to the orbits and nape of the neck. The infant becomes pale and tachycardic. Diagnosis?",
 "o": [
 "Caput succedaneum",
@@ -1077,6 +1147,7 @@
 "lec": "L25",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 9-year-old with absence seizures on ethosuximide has been seizure-free for 2 years. Next best step?",
 "o": [
 "Continue antiepileptics for life",
@@ -1092,6 +1163,7 @@
 "lec": "L5",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 7-year-old with 3 days of gastroenteritis: vomiting stopped, diarrhea continues, well hydrated with normal exam. Father asks about diet. Advice?",
 "o": [
 "Stop solids until diarrhea stops",
@@ -1107,6 +1179,7 @@
 "lec": "L27",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 10-year-old on ICS with salbutamol reliever uses meds about 3 days/week, good technique and adherence, and had 2 viral exacerbations needing oral steroids this year. Next step?",
 "o": [
 "Continue current regimen",
@@ -1122,6 +1195,7 @@
 "lec": "L23",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 3-day-old healthy, well-feeding term boy is jaundiced with predominantly unconjugated bilirubin. Most likely diagnosis?",
 "o": [
 "Hemolytic disease of the newborn",
@@ -1137,6 +1211,7 @@
 "lec": "L23",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 6-week-old has persistent jaundice with clay-colored stools and dark urine, otherwise well. Most likely diagnosis?",
 "o": [
 "Physiological jaundice",
@@ -1152,6 +1227,7 @@
 "lec": "L13",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 7-year-old has 6 days of fever to 40.2, tender cervical lymph nodes, maculopapular rash, BP 80/45, HR 140, Na 129, K 3.1, CRP 120. Most concerning long-term complication?",
 "o": [
 "Coronary artery aneurysm",
@@ -1167,6 +1243,7 @@
 "lec": "L20",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A healthy 12-year-old girl has BP between the 90th and 95th percentile on routine visit. Next step?",
 "o": [
 "Start antihypertensive medication",
@@ -1182,6 +1259,7 @@
 "lec": "L12",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A baby girl can transfer objects between hands, sit with support and mimic sounds. What is her age?",
 "o": [
 "12 months",
@@ -1197,6 +1275,7 @@
 "lec": "L5",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A neonate has not passed meconium for 46 hours and has bilious (green) vomiting. Most likely diagnosis?",
 "o": [
 "Duodenal atresia",
@@ -1212,6 +1291,7 @@
 "lec": "L7",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 2-year-old returns after her first febrile UTI, finished antibiotics yesterday, asymptomatic, normal exam. Next best step?",
 "o": [
 "Reassurance and clinic follow-up in 2-6 weeks",
@@ -1227,6 +1307,7 @@
 "lec": "L17",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "After C-section a baby had Apgar 1 and 3, needed PPV, intubation, compressions and IV epinephrine. What should be done to preserve neurological function?",
 "o": [
 "Therapeutic hypothermia",
@@ -1242,6 +1323,7 @@
 "lec": "L17",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A full-term infant has acrocyanosis, no respiratory distress, SpO2 98%, pink mucous membranes. Next step?",
 "o": [
 "Echocardiogram",
@@ -1257,6 +1339,7 @@
 "lec": "L3",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 9-month-old exclusively breastfed baby is not growing well. The mother says he feeds well; exam is normal and he is alert. Most likely reason for failure to thrive?",
 "o": [
 "Inadequate caloric intake",
@@ -1271,6 +1354,7 @@
 "lec": "L6",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 5-year-old has chronic diarrhea, abdominal pain, bloating and FTT, family history of autoimmune disease, and positive tTG-IgA. Next step?",
 "o": [
 "Upper GI endoscopy with duodenal biopsy",
@@ -1286,6 +1370,7 @@
 "lec": "L9",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 6-year-old with FTT, irritability and confusion has glucose 50, ammonia 200 and elevated branched-chain amino acids in urine. A maternal aunt has a metabolic disorder. Primary mechanism?",
 "o": [
 "Defective glucose transport",
@@ -1301,6 +1386,7 @@
 "lec": "L8",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 9-month-old had 3 days of fever (40 C) and developed a maculopapular rash after the fever went away. Most likely cause?",
 "o": [
 "Roseola infantum (HHV-6)",
@@ -1316,6 +1402,7 @@
 "lec": "L8",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 5-year-old has high fever, cough, coryza and red eyes, with a rash that started on the face and spread downward over 3 days. Which best describes the measles rash?",
 "o": [
 "Small, flat, red, non-blanching spots",
@@ -1331,6 +1418,7 @@
 "lec": "Other",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A term newborn has microcephaly, micrognathia, microphthalmia, low-set ears, iris coloboma, postaxial polydactyly (7 fingers each hand), cleft palate, a VSD murmur, and rocker-bottom feet. Most likely cause?",
 "o": [
 "Trisomy 13",
@@ -1346,6 +1434,7 @@
 "lec": "Other",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "In a patient with poorly controlled diabetes, HbA1c reflects glucose control over approximately:",
 "o": [
 "8 hours",
@@ -1361,6 +1450,7 @@
 "lec": "L17",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 2-week-old preterm (800 g) on formula since day 2 has bloody stools, is pale and sick, with a distended tender abdomen and air in the bowel wall on X-ray. BP 40/20. Most likely diagnosis?",
 "o": [
 "Meconium ileus",
@@ -1376,6 +1466,7 @@
 "lec": "L23",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 4-week-old formula-fed infant has jaundice, poor feeding, vomiting, dark urine, pale stools and high direct bilirubin. Most important to investigate?",
 "o": [
 "Biliary atresia",
@@ -1390,6 +1481,7 @@
 "lec": "L23",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A neonate develops jaundice. Mother is O+, baby is A+, Coombs test positive. Cause?",
 "o": [
 "ABO incompatibility",
@@ -1404,6 +1496,7 @@
 "lec": "L23",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "Clear case of biliary atresia with pale stool and high direct bilirubin. Which is the gold standard among these for diagnosis?",
 "o": [
 "ALT (elevated liver enzymes)",
@@ -1418,6 +1511,7 @@
 "lec": "L17",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "Definition of prematurity:",
 "o": [
 "Less than 38 weeks",
@@ -1433,6 +1527,7 @@
 "lec": "L6",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "An 18-month-old girl has blood-streaked stool, positive for occult blood. Most likely diagnosis?",
 "o": [
 "Anal fissure",
@@ -1448,6 +1543,7 @@
 "lec": "L26",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 9-month-old has fever 38.7, ear pulling, and a bulging erythematous tympanic membrane with purulent effusion. Most likely organism?",
 "o": [
 "Group B streptococcus",
@@ -1463,6 +1559,7 @@
 "lec": "L22",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A child has recurrent chest infections and oral thrush. No T cells, but B cells and NK cells are present. Diagnosis?",
 "o": [
 "SCID",
@@ -1478,6 +1575,7 @@
 "lec": "L16",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 2-year-old is below the 3rd percentile for weight and height with frequent respiratory infections, irritability, visible muscle wasting and dry skin, but no edema. Most likely diagnosis?",
 "o": [
 "Kwashiorkor",
@@ -1493,6 +1591,7 @@
 "lec": "Other",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 1-year-old has a normal palpable thyroid gland, elevated TSH and low T4. What do you suspect?",
 "o": [
 "Thyroid dysgenesis",
@@ -1508,6 +1607,7 @@
 "lec": "L14",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "Which physiological change occurs in the normal post-natal cardiopulmonary transition?",
 "o": [
 "Pulmonary vascular resistance decreases",
@@ -1523,6 +1623,7 @@
 "lec": "L11",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "An 11-year-old has 1 day of right-sided abdominal pain, fever 37.9, vomiting, HR 112 and rebound tenderness in the RIF. Most likely cause?",
 "o": [
 "Diverticulitis",
@@ -1538,6 +1639,7 @@
 "lec": "L9",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "An asthmatic child in an exacerbation has pH 7.49, low CO2, HCO3 21. Gas changes?",
 "o": [
 "Respiratory alkalosis",
@@ -1553,6 +1655,7 @@
 "lec": "L20",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 9-year-old boy was recently diagnosed with nephrotic syndrome. Which is an indication for renal biopsy?",
 "o": [
 "Age between 1 and 8 years",
@@ -1568,6 +1671,7 @@
 "lec": "L13",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 9-year-old collapses during soccer practice without warning. His father died suddenly at 40. Next step in evaluation?",
 "o": [
 "ECG and echocardiogram to look for a cardiac cause",
@@ -1583,6 +1687,7 @@
 "lec": "L10",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 26-month-old speaks single words only (20-word vocabulary), does not respond when his mother talks to him, is picky about foods and gets angry when his face is held. Diagnosis?",
 "o": [
 "ADHD",
@@ -1598,6 +1703,7 @@
 "lec": "L3",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 14-year-old girl is short (3rd percentile height, 35th weight), Tanner 2 breasts, no pubic hair, bone age 11 years. Her father was short as a teenager and is now 177 cm. Management?",
 "o": [
 "Reassurance and follow-up",
@@ -1613,6 +1719,7 @@
 "lec": "L4",
 "year": "443",
 "dr": false,
+"imm": true,
 "q": "A few-month-old infant has a mild fever (around 37.8) and looks alert and playful at the vaccine visit. What is correct?",
 "o": [
 "Minor illness and low-grade fever are not contraindications to immunization",
@@ -1628,6 +1735,7 @@
 "lec": "L18",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A child has fever, lethargy, neck stiffness and irritability. CSF is turbid with high WBC (mainly polymorphs), high protein and low glucose. Most likely diagnosis?",
 "o": [
 "Bacterial meningitis",
@@ -1643,6 +1751,7 @@
 "lec": "L16",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "An 8-year-old has weight and height above the 95th percentile, BMI 30, looks older than peers, otherwise normal exam. Most appropriate management?",
 "o": [
 "Lifestyle modification",
@@ -1658,6 +1767,7 @@
 "lec": "L9",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 5-year-old in PICU on insulin infusion and fluids for DKA: Na 138, K 2.8, Cl 101, HCO3 22. Most likely cause of the low potassium?",
 "o": [
 "Vomiting",
@@ -1673,6 +1783,7 @@
 "lec": "L9",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 5-month-old with 3 days of severe diarrhea is lethargic and dehydrated. pH 7.22, HCO3 15, PaCO2 32. Primary disturbance?",
 "o": [
 "Metabolic acidosis with respiratory compensation",
@@ -1688,6 +1799,7 @@
 "lec": "Other",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 4-year-old girl with speech delay has a flat facial profile, upslanting eyes and a single palmar crease. Which blood test confirms the diagnosis?",
 "o": [
 "FISH",
@@ -1703,6 +1815,7 @@
 "lec": "L3",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "A 3-month-old girl born breech is suspected to have developmental dysplasia of the hip. Best diagnostic modality?",
 "o": [
 "Ultrasound",
@@ -1718,6 +1831,7 @@
 "lec": "L15",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "An exclusively breastfed 5-day-old term boy had all standard newborn care and is normal on exam. Without supplementation, he is at greatest risk of:",
 "o": [
 "Rickets",
@@ -1733,6 +1847,7 @@
 "lec": "L23",
 "year": "443",
 "dr": false,
+"imm": false,
 "q": "An 18-hour-old term formula-fed baby is jaundiced. Mother O+, baby A+, retics 10%, total bilirubin 13, direct 1, direct Coombs positive. Underlying pathophysiology?",
 "o": [
 "Physiological jaundice",
@@ -1748,6 +1863,7 @@
 "lec": "L20",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 5-year-old with nephrotic syndrome develops renal vein thrombosis. Which blood abnormality contributes to this complication?",
 "o": [
 "Hypocalcemia",
@@ -1763,6 +1879,7 @@
 "lec": "L11",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "All of the following are part of high-quality CPR EXCEPT:",
 "o": [
 "Allow the chest to fully recoil",
@@ -1778,6 +1895,7 @@
 "lec": "L7",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A fully vaccinated girl develops muscle weakness, loss of deep tendon reflexes and hypotonia. Her classmates have hand-foot-mouth disease. Most likely cause?",
 "o": [
 "Non-polio enterovirus",
@@ -1793,6 +1911,7 @@
 "lec": "L5",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 6-week-old has persistent non-bilious vomiting, dehydration and visible peristalsis. Most likely electrolyte disturbance?",
 "o": [
 "Hypokalemia, hypernatremia, metabolic acidosis",
@@ -1808,6 +1927,7 @@
 "lec": "L16",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 23-month-old hospitalized for severe malnutrition received inappropriately rapid NG feeding. Which lab value is most concerning as an iatrogenic complication?",
 "o": [
 "Hyponatremia",
@@ -1823,6 +1943,7 @@
 "lec": "L26",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 2-year-old wakes at night with inspiratory noisy breathing, marked retractions, nasal flaring and a barking cough after 2 days of mild URTI. What will be done in the emergency department?",
 "o": [
 "Short-acting bronchodilators and 5-day steroids",
@@ -1838,6 +1959,7 @@
 "lec": "L10",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 5-year-old girl is inattentive at home and school, refuses to talk to parents or peers, prefers playing alone. Normal physical and neurological exam. Most likely diagnosis?",
 "o": [
 "Cerebral palsy",
@@ -1853,6 +1975,7 @@
 "lec": "L11",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 12-year-old ate peanuts and 10 minutes later has lip angioedema, urticaria, stridor and hypotension. Underlying pathophysiology?",
 "o": [
 "Delayed T-cell/macrophage hypersensitivity",
@@ -1867,6 +1990,7 @@
 "lec": "L23",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "An 18-hour-old term formula-fed neonate is jaundiced. Mother O+, baby A+. Most important investigation to order?",
 "o": [
 "Liver function tests",
@@ -1882,6 +2006,7 @@
 "lec": "L17",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A post-term (42 weeks) baby born through thick meconium needed PPV and intubation. Cord pH 6.8, HCO3 8, Apgar 3 and 4, hypotonic with possible seizures. Which treatment improves long-term neurological outcome?",
 "o": [
 "Thyroxine",
@@ -1897,6 +2022,7 @@
 "lec": "L17",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "At 5 minutes, a 28-week newborn in a plastic wrap is on CPAP 5 cmH2O with FiO2 70%, pink, well perfused, HR 135. Main reason for his respiratory distress?",
 "o": [
 "Transient tachypnea of the newborn",
@@ -1912,6 +2038,7 @@
 "lec": "L8",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 10-year-old who drinks fresh camel milk on his grandfather's farm has 2 weeks of recurrent fever spikes, drenching night sweats, arthralgia, tender lymph nodes, relative bradycardia and raised AST/ALT. Most likely diagnosis?",
 "o": [
 "Malaria",
@@ -1927,6 +2054,7 @@
 "lec": "L17",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A term neonate delivered for cord prolapse has a secure airway. Despite PPV with corrective maneuvers, HR is 52. After 1 minute of compressions HR is 48. Best next step?",
 "o": [
 "Chest tube for possible pneumothorax",
@@ -1942,6 +2070,7 @@
 "lec": "L26",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 13-year-old has 7 days of fever, nausea, non-productive cough, headache, fatigue, myalgia and arthralgia, now dyspnea. Scattered wheezes, bilateral interstitial opacities on CXR. Most likely organism?",
 "o": [
 "Staphylococcus aureus",
@@ -1957,6 +2086,7 @@
 "lec": "L13",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 4-year-old has had fever for 5 days and you suspect Kawasaki disease. Which is a diagnostic criterion?",
 "o": [
 "Vesicular rash",
@@ -1972,6 +2102,7 @@
 "lec": "L11",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 20 kg 5-year-old ingested 500 mg of paracetamol 10 hours ago and is asymptomatic. Next step?",
 "o": [
 "Discharge with follow-up instructions",
@@ -1987,6 +2118,7 @@
 "lec": "L22",
 "year": "442",
 "dr": false,
+"imm": true,
 "q": "Which vaccine can be given to a child with SCID?",
 "o": [
 "BCG",
@@ -2002,6 +2134,7 @@
 "lec": "L18",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 3-week-old has high fever, irritability, lethargy, poor feeding and leukocytosis (sepsis features). Best empirical antibiotics?",
 "o": [
 "Ampicillin + ceftriaxone",
@@ -2017,6 +2150,7 @@
 "lec": "L10",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 5-year-old wakes screaming at night, frightened, unaware of surroundings, hard to console, for several minutes, and does not remember in the morning. He also has vivid dreams he can describe. Diagnosis for the screaming episodes?",
 "o": [
 "Sleep apnea",
@@ -2032,6 +2166,7 @@
 "lec": "L27",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 10-year-old has 2 years of cough and dyspnea worse at night and with exercise, triggered by dust. Which test most assists diagnosis of asthma?",
 "o": [
 "Chest ultrasound",
@@ -2047,6 +2182,7 @@
 "lec": "L4",
 "year": "442",
 "dr": false,
+"imm": true,
 "q": "An 18-month-old due for vaccines including varicella was exposed to active varicella at kindergarten this morning. What should the mother be told?",
 "o": [
 "Skip this set and resume at 24 months",
@@ -2062,6 +2198,7 @@
 "lec": "L28",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A healthy 22 kg child is to receive maintenance IV fluids before surgery. Maintenance rate?",
 "o": [
 "62 mL/hour",
@@ -2077,6 +2214,7 @@
 "lec": "L26",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 5-year-old unvaccinated girl has severe sore throat, drooling, high fever and increasing breathing difficulty. Looks toxic, sits on her mother's lap refusing to move, tachypneic. Most likely diagnosis?",
 "o": [
 "Bronchiolitis",
@@ -2092,6 +2230,7 @@
 "lec": "L9",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A neonate with 2 days of vomiting, poor sucking, afebrile: pH 7.28, CO2 29, HCO3 14. To calculate the anion gap you need:",
 "o": [
 "Sodium, glucose, magnesium",
@@ -2107,6 +2246,7 @@
 "lec": "L26",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 3-year-old sitting upright, drooling and distressed with stridor and retractions. What is important when assessing suspected upper airway obstruction?",
 "o": [
 "Establish IV access immediately",
@@ -2122,6 +2262,7 @@
 "lec": "L13",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 5-year-old has 6 days of fever, conjunctivitis, strawberry tongue, hand swelling, diffuse rash and cervical lymphadenopathy. Which medication in initial treatment lessens the risk of complications?",
 "o": [
 "IV antibiotics",
@@ -2137,6 +2278,7 @@
 "lec": "L24",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A friend advises giving fresh cow's milk instead of formula to a 2-month-old. Before 1 year, cow's milk puts the baby at risk of:",
 "o": [
 "Thalassemia",
@@ -2152,6 +2294,7 @@
 "lec": "L5",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 3-week-old has frequent milky vomiting, abdominal distension and a small, fixed RUQ mass. Advice for first initial management?",
 "o": [
 "Reassure",
@@ -2167,6 +2310,7 @@
 "lec": "L28",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 10 kg 1-year-old has fever, vomiting, acute diarrhea, HR 150, RR 50 with deep breaths, decreased turgor, lethargy, CRT 3 s. Next step?",
 "o": [
 "Half normal saline bolus 200 mL over 30 min",
@@ -2182,6 +2326,7 @@
 "lec": "L15",
 "year": "442",
 "dr": true,
+"imm": false,
 "q": "A 2-week-old born at 36 weeks weighed 2.4 kg at birth and weighs 2.4 kg now. Parents are worried about intake. What would you advise?",
 "o": [
 "Encourage breastfeeding",
@@ -2197,6 +2342,7 @@
 "lec": "L4",
 "year": "442",
 "dr": false,
+"imm": true,
 "q": "A child received IVIG for Kawasaki disease and is now due for his 2-year (live) vaccines. Expected effect on the vaccine?",
 "o": [
 "Unchanged immune response",
@@ -2212,6 +2358,7 @@
 "lec": "L17",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 12-hour-old infant born by C-section is jittery and hypoglycemic; the mother has diabetes. Likely cause of hypoglycemia?",
 "o": [
 "Maternal diabetes",
@@ -2227,6 +2374,7 @@
 "lec": "L20",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A child has red urine following an upper respiratory infection. Urinalysis: 2+ protein, 20-30 RBC/HPF, dysmorphic RBCs. Most likely diagnosis?",
 "o": [
 "Rhabdomyolysis",
@@ -2242,6 +2390,7 @@
 "lec": "L7",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A school-age child has streptococcal pharyngitis confirmed by rapid test. Antibiotics are started to prevent which serious complication?",
 "o": [
 "Otitis media",
@@ -2257,6 +2406,7 @@
 "lec": "L24",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A child with beta thalassemia major on chronic transfusions. Which complication will be seen?",
 "o": [
 "Vaso-occlusive crisis",
@@ -2272,6 +2422,7 @@
 "lec": "L8",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A child has progressive cognitive decline. Parents say he had a viral exanthem 10 years ago. Most likely pathogen?",
 "o": [
 "Varicella",
@@ -2287,6 +2438,7 @@
 "lec": "L6",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 14-year-old Saudi girl has jaundice after a week of flu-like illness. She recently swam in pools and beaches in Bahrain and donated blood a month ago. ALT 1225, AST 340, bilirubin 6.6, HBsAg negative, anti-HBs positive, anti-HCV negative, anti-HEV IgM negative. Most likely diagnosis?",
 "o": [
 "Hepatitis A",
@@ -2302,6 +2454,7 @@
 "lec": "L28",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "What is the daily fluid requirement for an 18 kg child?",
 "o": [
 "1400 mL",
@@ -2317,6 +2470,7 @@
 "lec": "L27",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A child has intermittent asthma. What should be prescribed?",
 "o": [
 "Short-acting beta agonist",
@@ -2332,6 +2486,7 @@
 "lec": "L16",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A family follows a strict vegan diet. Which deficiency is expected?",
 "o": [
 "Iron",
@@ -2347,6 +2502,7 @@
 "lec": "L20",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "An 8-year-old girl was dry at night until age 6, now wets frequently at night. No UTIs, no daytime symptoms, recent school stress. Most likely contributing factor?",
 "o": [
 "Neurological disorder",
@@ -2362,6 +2518,7 @@
 "lec": "L18",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 9-month-old has fever of 38.9 for 3 days, looks well, with no focus of infection. Next best step?",
 "o": [
 "Empirical antibiotics and reassess in 48 h",
@@ -2377,6 +2534,7 @@
 "lec": "L13",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 3-year-old has 6 days of fever, conjunctivitis, lymph node enlargement and a maculopapular rash. What will you see on CBC?",
 "o": [
 "Low platelets",
@@ -2392,6 +2550,7 @@
 "lec": "L17",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A neonate is born with a myelomeningocele. Best time for surgery?",
 "o": [
 "Within 1 week",
@@ -2407,6 +2566,7 @@
 "lec": "L3",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 4-month-old's head circumference is above the 98th percentile, with normal development and neurological exam. The father and his family have large heads. Next step?",
 "o": [
 "Reassure and continue to monitor development",
@@ -2422,6 +2582,7 @@
 "lec": "L8",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 6-year-old has fever, malaise and a slapped-cheek rash followed by a lacy body rash. Which complication is most associated with this infection in sickle cell anemia?",
 "o": [
 "Splenic infarction",
@@ -2437,6 +2598,7 @@
 "lec": "L13",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 15-year-old collapses suddenly while sitting in a class exam, with a few seconds of twitching, then several minutes of confusion. First episode. First investigation?",
 "o": [
 "Brain CT",
@@ -2452,6 +2614,7 @@
 "lec": "L15",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "In which condition would you strongly advise against breastfeeding?",
 "o": [
 "Mother returns to full-time work",
@@ -2467,6 +2630,7 @@
 "lec": "L12",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A child begins to copy a square, hop on one foot and ask \"why\" and \"how\" questions. Most likely age?",
 "o": [
 "3 years",
@@ -2482,6 +2646,7 @@
 "lec": "L7",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A well, afebrile 4-year-old has small perioral vesicles that rupture leaving honey-colored crusts. Initial management?",
 "o": [
 "IV clindamycin",
@@ -2497,6 +2662,7 @@
 "lec": "L14",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 2-day-old has blue lips and tongue, SpO2 84% on room air, not improving with 100% oxygen. What best differentiates central from peripheral cyanosis?",
 "o": [
 "Discoloration of mucous membranes and tongue",
@@ -2512,6 +2678,7 @@
 "lec": "L5",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 6-month-old has episodes of drawing up the legs, inconsolable crying and \"red currant jelly\" stool, is irritable with a distended abdomen and a palpable right-sided mass. Most likely diagnosis?",
 "o": [
 "Acute appendicitis",
@@ -2527,6 +2694,7 @@
 "lec": "L25",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A healthy 7-year-old has brief staring spells with eyelid fluttering, provoked by hyperventilation; EEG shows 3-Hz spike-and-wave. Most appropriate drug?",
 "o": [
 "Ethosuximide",
@@ -2542,6 +2710,7 @@
 "lec": "L8",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 4-year-old has fever and an itchy rash that started on the trunk and spread to the face, scalp and arms, with lesions in different stages (macules, papules, \"dewdrop on a rose petal\" vesicles, crusts), sparing palms and soles. Diagnosis?",
 "o": [
 "Hand, foot and mouth disease",
@@ -2557,6 +2726,7 @@
 "lec": "L28",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 20 kg 6-year-old has severe dehydration. Initial isotonic saline bolus volume?",
 "o": [
 "240 mL",
@@ -2572,6 +2742,7 @@
 "lec": "L7",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 5-year-old boy, toilet trained 4 months ago, has abdominal pain, frequency, new bedwetting and odd-smelling urine. Last bowel movement 3 days ago. Dipstick: leukocyte esterase, nitrite, blood positive; gram-negative rods. Strongest risk factor?",
 "o": [
 "Posterior urethral valves",
@@ -2587,6 +2758,7 @@
 "lec": "L3",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 16-year-old girl with primary amenorrhea is 140 cm tall with no breast tissue and Tanner 3 pubic hair. Mother 173 cm, father 178 cm. Most likely diagnosis?",
 "o": [
 "Androgen insensitivity syndrome",
@@ -2602,6 +2774,7 @@
 "lec": "L20",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 14-year-old has asymptomatic isolated proteinuria on routine urinalysis, confirmed on repeat, with normal BP and renal function. Best next step?",
 "o": [
 "Serum ANA and anti-dsDNA",
@@ -2617,6 +2790,7 @@
 "lec": "L18",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 3-year-old has high fever, lethargy, CRT 4 s, weak pulse, BP 85/50, mottled and minimally responsive. Initial management?",
 "o": [
 "IV fluids and broad-spectrum antibiotics",
@@ -2632,6 +2806,7 @@
 "lec": "L3",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 2-year-old has a painless limp for months, limited left hip abduction, Trendelenburg gait and leg length discrepancy. X-ray: shallow acetabulum with superolateral displacement of the femoral head. Diagnosis?",
 "o": [
 "Proximal femoral focal deficiency",
@@ -2647,6 +2822,7 @@
 "lec": "Other",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "Healthy first-cousin parents have a 3-year-old with cystic fibrosis (autosomal recessive). Recurrence risk in each future pregnancy?",
 "o": [
 "100%",
@@ -2662,6 +2838,7 @@
 "lec": "L9",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 3-year-old in DKA (glucose 700, pH 7.0, HCO3 8, 10% dehydrated). Most appropriate action to decrease the risk of cerebral edema?",
 "o": [
 "Rehydrate slowly using 0.9% saline",
@@ -2677,6 +2854,7 @@
 "lec": "L17",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A newborn at 38 weeks delivered by emergency C-section for cord prolapse has arterial pH 6.89 at 30 minutes, SpO2 97%, lethargy, generalized hypotonia and weak suck. Management will include:",
 "o": [
 "Zinc supplementation",
@@ -2692,6 +2870,7 @@
 "lec": "L23",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 4-week-old has persistent jaundice since birth, pale stools, dark urine, hepatomegaly. Bilirubin 7.2 (direct 5.6), GGT very high, HIDA shows no excretion after 24 h. Next best step?",
 "o": [
 "Kasai portoenterostomy",
@@ -2707,6 +2886,7 @@
 "lec": "L4",
 "year": "442",
 "dr": false,
+"imm": true,
 "q": "A healthy term 2-month-old in Saudi Arabia comes for routine vaccines. According to the local schedule, which vaccines are given now?",
 "o": [
 "DTaP, IPV, Hib, Hepatitis B, PCV and Rotavirus",
@@ -2722,6 +2902,7 @@
 "lec": "L27",
 "year": "442",
 "dr": true,
+"imm": false,
 "q": "A 4-year-old girl suddenly starts wheezing right after opening holiday gifts; her brother received toy cars with detachable wheels. Most appropriate test?",
 "o": [
 "Chest CT",
@@ -2737,6 +2918,7 @@
 "lec": "L19",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 5-year-old girl has 8 weeks of intermittent right knee swelling and positive ANA. Other than uveitis, which systemic complication may develop in oligoarticular JIA?",
 "o": [
 "Macrophage activation syndrome",
@@ -2752,6 +2934,7 @@
 "lec": "L20",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "An 18-month-old girl has a \"full\" abdomen with an abdominal mass, hematuria and a solid renal mass on ultrasound. Most likely diagnosis?",
 "o": [
 "Neuroblastoma",
@@ -2767,6 +2950,7 @@
 "lec": "L15",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "Which advice on introducing complementary foods is correct?",
 "o": [
 "Avoid honey until 4 years",
@@ -2782,6 +2966,7 @@
 "lec": "L20",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A child develops hemolytic uremic syndrome after bacterial gastroenteritis. Which lab finding suggests this diagnosis?",
 "o": [
 "Positive direct Coombs test",
@@ -2797,6 +2982,7 @@
 "lec": "L13",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 10-year-old has fever, polyarthritis, tachycardia and a systolic murmur. You suspect acute rheumatic fever. Next step to support the diagnosis?",
 "o": [
 "Chest X-ray",
@@ -2812,6 +2998,7 @@
 "lec": "L8",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 10-year-old on a rural livestock farm who drinks unpasteurized goat milk has 4 weeks of low-grade fever, fatigue, weight loss, musculoskeletal pain and mild hepatosplenomegaly. Blood cultures pending. Next lab test?",
 "o": [
 "ANA",
@@ -2827,6 +3014,7 @@
 "lec": "L28",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 10-year-old has 3 days of watery diarrhea, is thirsty, active, with mildly dry mucous membranes, CRT 2 s, taking sips without vomiting. Next step?",
 "o": [
 "Oral rehydration therapy",
@@ -2842,6 +3030,7 @@
 "lec": "L15",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A Saudi mother with HIV on ART has a high viral load. What feeding advice is appropriate for her infant?",
 "o": [
 "Exclusive breast milk until 6 months",
@@ -2857,6 +3046,7 @@
 "lec": "L21",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "Which factor indicates pre-renal acute kidney injury in children?",
 "o": [
 "Urine osmolality <300 mOsm/L",
@@ -2872,6 +3062,7 @@
 "lec": "L8",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 1-year-old has fever, cough, coryza, conjunctivitis and a descending maculopapular rash. Hallmark diagnostic feature in the prodromal stage?",
 "o": [
 "Redness and swelling of the Stensen duct opening",
@@ -2887,6 +3078,7 @@
 "lec": "L17",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A midwife wants to give an intramuscular injection for routine neonatal care. What is it?",
 "o": [
 "Vitamin K",
@@ -2902,6 +3094,7 @@
 "lec": "L27",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 10-year-old girl has chronic rhinorrhea, nasal itch, sneezing, dark circles under her eyes and pale boggy mucosa. Which is true?",
 "o": [
 "Skin testing is performed to identify causative allergens",
@@ -2917,6 +3110,7 @@
 "lec": "L27",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 10-year-old was just discharged after an asthma exacerbation. Advice to prevent future exacerbations?",
 "o": [
 "Limit physical activity",
@@ -2932,6 +3126,7 @@
 "lec": "L26",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 4-year-old has fever, tachypnea and retractions; CXR confirms lobar pneumonia. Most likely etiology?",
 "o": [
 "Streptococcus pyogenes",
@@ -2947,6 +3142,7 @@
 "lec": "L28",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 12 kg 2-year-old with viral gastroenteritis has HR 130, otherwise normal vitals, looks tired, cries with slight tears, moist mucosa. Most appropriate rehydration?",
 "o": [
 "D10 normal saline 120 mL over 30 minutes",
@@ -2962,6 +3158,7 @@
 "lec": "L7",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "Which test is used to diagnose HIV in infants less than 18 months old?",
 "o": [
 "Viral culture",
@@ -2977,6 +3174,7 @@
 "lec": "L4",
 "year": "442",
 "dr": false,
+"imm": true,
 "q": "Parents are concerned about MMR. Which is a valid contraindication?",
 "o": [
 "Older brother with autism",
@@ -2992,6 +3190,7 @@
 "lec": "L21",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "In children with chronic kidney disease, which is the most effective strategy to slow progression?",
 "o": [
 "Sodium bicarbonate for metabolic acidosis",
@@ -3007,6 +3206,7 @@
 "lec": "L13",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 10-year-old has fever, polyarthritis, tachycardia, tachypnea and a systolic murmur. You suspect acute rheumatic fever. Which is a major criterion?",
 "o": [
 "Conjunctivitis",
@@ -3022,6 +3222,7 @@
 "lec": "L8",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "An unvaccinated 4-year-old has fever and a pruritic vesicular rash in different stages. Her immunocompromised sister had a painful unilateral truncal vesicular rash. Which is true?",
 "o": [
 "Immunocompromised patients usually have mild breakthrough illness",
@@ -3037,6 +3238,7 @@
 "lec": "L22",
 "year": "442",
 "dr": false,
+"imm": true,
 "q": "Which vaccine should NOT be given to a child with SCID?",
 "o": [
 "Hepatitis B",
@@ -3052,6 +3254,7 @@
 "lec": "L18",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 2-year-old with femoral osteomyelitis on IV antibiotics is afebrile with improving inflammatory markers after 72 hours. Next step?",
 "o": [
 "Continue IV antibiotics for 6 weeks",
@@ -3067,6 +3270,7 @@
 "lec": "L11",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 20 kg 5-year-old ingested paracetamol. If the serum level is above the treatment line on the Rumack-Matthew nomogram, next step?",
 "o": [
 "Discharge with follow-up",
@@ -3082,6 +3286,7 @@
 "lec": "L20",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 6-year-old has persistent proteinuria on dipstick at a routine check, otherwise normal exam and no family history. Most appropriate initial investigation?",
 "o": [
 "Urine protein-to-creatinine ratio",
@@ -3097,6 +3302,7 @@
 "lec": "L28",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A well-hydrated 30 kg 6-year-old is admitted for elective surgery. Maintenance IV volume for the next 24 hours?",
 "o": [
 "1900 mL",
@@ -3112,6 +3318,7 @@
 "lec": "L11",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 2-month-old girl is fussy, sleepy, poorly feeding and difficult to console, afebrile, with a full fontanelle and dilated pupils. CBC, electrolytes and urinalysis are normal. CT shows subdural hematoma. Most likely diagnosis?",
 "o": [
 "Galactosemia",
@@ -3127,6 +3334,7 @@
 "lec": "L18",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A previously healthy 7-year-old has 3 days of fever and headache and 1 day of abnormal movements, now lethargic with decreased consciousness. CSF is clear with mild lymphocytic pleocytosis, normal glucose, slightly high protein. Diagnosis?",
 "o": [
 "Autoimmune encephalitis",
@@ -3142,6 +3350,7 @@
 "lec": "L7",
 "year": "442",
 "dr": true,
+"imm": false,
 "q": "A 1-year-old has 2 days of irritability, poor feeding, strong-smelling pink urine, no urine since morning, fever 38.8, and cries when the lower abdomen is palpated. Next step?",
 "o": [
 "Voiding cystourethrogram",
@@ -3157,6 +3366,7 @@
 "lec": "L3",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A mother asks how she will know her 9-year-old daughter is beginning puberty. First visible sign?",
 "o": [
 "Breast buds",
@@ -3172,6 +3382,7 @@
 "lec": "L23",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 3-month-old has progressively worsening jaundice since birth, pale stools, dark urine, hepatomegaly and poor weight gain. Most definitive test to confirm biliary atresia?",
 "o": [
 "Abdominal ultrasound",
@@ -3187,6 +3398,7 @@
 "lec": "L27",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 3-year-old with recurrent wheezing (admitted at 9 months for bronchiolitis). According to the modified Asthma Predictive Index, which increases the risk of asthma later in life?",
 "o": [
 "Male gender",
@@ -3202,6 +3414,7 @@
 "lec": "L10",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A school-age boy always interrupts class, doesn't like to sit down and doesn't follow rules. Diagnosis and treatment?",
 "o": [
 "ADHD; behavioral therapy",
@@ -3216,6 +3429,7 @@
 "lec": "L8",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 15-month-old unvaccinated boy has fever then a cephalocaudal maculopapular rash, with cough, coryza and conjunctivitis. Which is also seen in this disease?",
 "o": [
 "Subacute sclerosing panencephalitis after 7-10 years",
@@ -3230,6 +3444,7 @@
 "lec": "L7",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 3-year-old has 2 days of fever and submandibular lymphadenopathy. Which is a red flag in lymphadenitis?",
 "o": [
 "2 days of fever",
@@ -3245,6 +3460,7 @@
 "lec": "L20",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 13-year-old girl has abdominal pain and diarrhea after eating at a burger restaurant a week ago. Low Hb, high retics, high LDH, high urea and creatinine, schistocytes. Most likely organism?",
 "o": [
 "Non-typhoid Salmonella",
@@ -3259,6 +3475,7 @@
 "lec": "L21",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 12-year-old girl with ESRD has bruising and nosebleeds, normal platelet count and prolonged bleeding time. Most likely cause?",
 "o": [
 "Immune thrombocytopenic purpura",
@@ -3274,6 +3491,7 @@
 "lec": "L22",
 "year": "442",
 "dr": false,
+"imm": true,
 "q": "A patient has IgA deficiency. Which vaccine can be given?",
 "o": [
 "Pneumococcal vaccine",
@@ -3289,6 +3507,7 @@
 "lec": "L24",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 14-year-old girl who eats no animal products has pale conjunctiva and a high MCV. Which is expected to be deficient?",
 "o": [
 "Iron",
@@ -3304,6 +3523,7 @@
 "lec": "L22",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 4-month-old has DiGeorge syndrome. What is the cause of its immunodeficiency?",
 "o": [
 "Gene mutation of humoral immunity",
@@ -3319,6 +3539,7 @@
 "lec": "L25",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A child has had two febrile seizures, no developmental delay, normal neurological exam and normal EEG. Likelihood of developing epilepsy?",
 "o": [
 "High",
@@ -3334,6 +3555,7 @@
 "lec": "L25",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A child has brief spells of staring into space, unaware, with generalized spike-and-wave on EEG. Diagnosis and treatment?",
 "o": [
 "Childhood absence seizures; ethosuximide (or valproate)",
@@ -3349,6 +3571,7 @@
 "lec": "L5",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 3-week-old girl has large-volume vomiting after breastfeeds and an epigastric mass. What is the gold standard for diagnosis?",
 "o": [
 "Ultrasound",
@@ -3363,6 +3586,7 @@
 "lec": "L26",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A well-appearing 5-year-old has 2 days of fever 38.5, mild ear pain and ear discharge. Bulging dull tympanic membrane with otorrhea. Next best step?",
 "o": [
 "High-dose amoxicillin for 10 days",
@@ -3378,6 +3602,7 @@
 "lec": "L24",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A child has petechiae and ecchymoses (no other bleeding), no family history, and platelet count 33,000. Best therapy?",
 "o": [
 "Observe",
@@ -3393,6 +3618,7 @@
 "lec": "L24",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A 7-year-old has pallor, fatigue and hepatosplenomegaly. Low Hb and low platelets. Most likely diagnosis?",
 "o": [
 "Wilms tumor",
@@ -3408,6 +3634,7 @@
 "lec": "L25",
 "year": "442",
 "dr": false,
+"imm": false,
 "q": "A child has slurred speech and left facial twitching at night with no focal deficit. What will you see on EEG?",
 "o": [
 "Occipital spikes",
@@ -3423,6 +3650,7 @@
 "lec": "L27",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "You are following a 13-year-old with asthma. Which is a reliever therapy?",
 "o": [
 "Seretide (salmeterol + fluticasone)",
@@ -3438,6 +3666,7 @@
 "lec": "L27",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A child has wheezing and sudden cough that started when he was alone in a room. CXR shows unilateral hyperinflation. Asthma therapy gives no improvement. Next step?",
 "o": [
 "Bronchoscopy",
@@ -3452,6 +3681,7 @@
 "lec": "L24",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A 9-month-old term girl has iron deficiency anemia. She had formula until 6 months, then baby foods and whole cow's milk. Which is correct?",
 "o": [
 "Her age is atypical for iron deficiency",
@@ -3467,6 +3697,7 @@
 "lec": "L20",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "Which is an indication for renal biopsy in nephrotic syndrome?",
 "o": [
 "Gross hematuria",
@@ -3482,6 +3713,7 @@
 "lec": "L18",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A neonate is in shock (tachycardia, tachypnea, CRT >4 s). Cultures grow gram-positive cocci. Most likely organism?",
 "o": [
 "Group B streptococcus",
@@ -3497,6 +3729,7 @@
 "lec": "L15",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A 2-week-old formula-fed neonate was 3.6 kg at birth and is now 2.8 kg. He sleeps about 18 hours. Main concern?",
 "o": [
 "Sleep hours",
@@ -3512,6 +3745,7 @@
 "lec": "L5",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A 5-year-old with GERD has failed conservative management. Next step?",
 "o": [
 "Initiate medical therapy",
@@ -3526,6 +3760,7 @@
 "lec": "L9",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "All of the following are true about salicylate poisoning EXCEPT:",
 "o": [
 "Activated charcoal is effective",
@@ -3541,6 +3776,7 @@
 "lec": "L18",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A child has fever, headache and behavioral change. CSF is clear with normal glucose, slightly raised protein and lymphocytosis. Imaging shows temporal lobe involvement. Best next step?",
 "o": [
 "Lumbar puncture",
@@ -3555,6 +3791,7 @@
 "lec": "L4",
 "year": "441",
 "dr": false,
+"imm": true,
 "q": "A 4-year-old has only received his 2- and 4-month vaccines. Appropriate action?",
 "o": [
 "Give vaccines for his current age and catch up the missed ones",
@@ -3569,6 +3806,7 @@
 "lec": "L21",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A child with renal failure missed dialysis and looks sick. What will his blood gas show?",
 "o": [
 "High anion gap metabolic acidosis",
@@ -3583,6 +3821,7 @@
 "lec": "L20",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A child's BP is 114/74, between the 50th and 90th percentile. Next step?",
 "o": [
 "Diet and healthy lifestyle",
@@ -3597,6 +3836,7 @@
 "lec": "L14",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A 4-month-old seen for an ear infection has a heart murmur. Which feature most suggests it needs further investigation?",
 "o": [
 "Presence of a thrill",
@@ -3612,6 +3852,7 @@
 "lec": "L12",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A child can draw a cross/square. What is his age?",
 "o": [
 "2 years",
@@ -3627,6 +3868,7 @@
 "lec": "L8",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A 10-year-old has fever, exudative tonsillitis, prominent lymphadenopathy and lethargy. Amoxicillin was given; the next day she developed a maculopapular rash. She has splenomegaly. Cause of the rash?",
 "o": [
 "EBV infection with amoxicillin reaction",
@@ -3642,6 +3884,7 @@
 "lec": "L4",
 "year": "441",
 "dr": false,
+"imm": true,
 "q": "A mother does not want her infant to get varicella and MMR on the same day and asks to return in 2 weeks for the second. Best response?",
 "o": [
 "If live vaccines are not given simultaneously, they must be separated by at least 28 days",
@@ -3657,6 +3900,7 @@
 "lec": "L3",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "An 8-year-old has not grown in height for 2 years. Which best approximates the normal prepubertal annual height gain?",
 "o": [
 "1-2 cm",
@@ -3672,6 +3916,7 @@
 "lec": "L12",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A child rides a tricycle, draws a cross and helps to dress himself. Expected age?",
 "o": [
 "16 months",
@@ -3687,6 +3932,7 @@
 "lec": "L20",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A patient with E. coli O157 has acute renal failure and anemia (HUS). What do you expect to see?",
 "o": [
 "Thrombocytosis",
@@ -3701,6 +3947,7 @@
 "lec": "L15",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "What is the earliest time you can give cow's milk?",
 "o": [
 "3 months",
@@ -3716,6 +3963,7 @@
 "lec": "L17",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A 3-week-old has microcephaly, periventricular calcifications and blindness. Most likely cause?",
 "o": [
 "Bilateral subdural hemorrhage",
@@ -3731,6 +3979,7 @@
 "lec": "Other",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A 4-year-old has axillary freckling, 6 cafe-au-lait spots and neurological manifestations. Diagnosis?",
 "o": [
 "Tuberous sclerosis",
@@ -3745,6 +3994,7 @@
 "lec": "L20",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "An 8-year-old has never been dry at night (3-4 wet nights/week), dry by day since 3, no urinary symptoms, normal exam and urinalysis; father wet until 9. Best next step?",
 "o": [
 "Decrease fluids at bedtime and use a bedwetting alarm",
@@ -3760,6 +4010,7 @@
 "lec": "L22",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "DiGeorge syndrome is a defect in which arm of immunity?",
 "o": [
 "Cellular",
@@ -3775,6 +4026,7 @@
 "lec": "L24",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A patient has G6PD deficiency with hemolysis. Which lab finding is true?",
 "o": [
 "High reticulocytes",
@@ -3789,6 +4041,7 @@
 "lec": "L28",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "Oral rehydration solution (homemade) contains:",
 "o": [
 "Half teaspoon salt and 6 teaspoons sugar in 1 liter of water",
@@ -3804,6 +4057,7 @@
 "lec": "L26",
 "year": "441",
 "dr": false,
+"imm": true,
 "q": "A 3-month-old ex-preterm was in the NICU for weeks and has just been discharged. Parents fear severe lower respiratory infection. What do you advise?",
 "o": [
 "Just stick with the vaccination schedule",
@@ -3818,6 +4072,7 @@
 "lec": "L19",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A 12-year-old girl has 2 weeks of fever and polyarthralgia; she looks well but pale. Urine shows traces of protein and blood. Most likely diagnosis?",
 "o": [
 "Rheumatic fever",
@@ -3833,6 +4088,7 @@
 "lec": "L20",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "On urine dipstick, which of the following is heme-negative (red/pink urine without blood)?",
 "o": [
 "Alport syndrome",
@@ -3847,6 +4103,7 @@
 "lec": "L7",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A child has fever, sore throat and a unilateral, tender, erythematous cervical lymph node. Most likely causative agent?",
 "o": [
 "Adenovirus",
@@ -3862,6 +4119,7 @@
 "lec": "L8",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A well 2-year-old has tender vesicular lesions on both feet, a few on his hands and tongue. Most likely cause?",
 "o": [
 "Coxsackie A virus",
@@ -3877,6 +4135,7 @@
 "lec": "L28",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A 10-month-old weighing 8 kg is admitted. At what rate should maintenance IV fluids run?",
 "o": [
 "8 mL/hr",
@@ -3892,6 +4151,7 @@
 "lec": "L26",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A 5-month-old with bronchiolitis (bilateral wheeze) is not feeding well. Appropriate management?",
 "o": [
 "Oral antibiotics",
@@ -3907,6 +4167,7 @@
 "lec": "L11",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "In salicylate poisoning (early hyperglycemia, later hypoglycemia), which is an indication to give IV glucose?",
 "o": [
 "Vomiting",
@@ -3922,6 +4183,7 @@
 "lec": "L27",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A 5-year-old is diagnosed with asthma. Appropriate way to take the inhaled treatment?",
 "o": [
 "Metered-dose inhaler with spacer",
@@ -3936,6 +4198,7 @@
 "lec": "L22",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A 4-year-old boy has recurrent otitis media and pneumonia; his maternal uncle has the same problem. Best initial test?",
 "o": [
 "Quantitative immunoglobulins",
@@ -3951,6 +4214,7 @@
 "lec": "L17",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A newborn has markedly enlarged head circumference with a bulging anterior fontanelle but is otherwise well. Next step?",
 "o": [
 "CT scan for craniosynostosis",
@@ -3966,6 +4230,7 @@
 "lec": "L8",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A child has fever, sore throat, a sandpaper-like rash and strawberry tongue. Causative agent?",
 "o": [
 "Group A streptococcus",
@@ -3980,6 +4245,7 @@
 "lec": "L4",
 "year": "441",
 "dr": false,
+"imm": true,
 "q": "A child receives varicella zoster immunoglobulin. What type of immunity is this?",
 "o": [
 "Passive artificial",
@@ -3995,6 +4261,7 @@
 "lec": "Other",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A preterm infant had perinatal brain damage involving the cortex and motor pathways (pyramidal tracts). Which diagnosis?",
 "o": [
 "Spastic cerebral palsy",
@@ -4009,6 +4276,7 @@
 "lec": "Other",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A child has facial angiofibromas and a history of seizures. Which is consistent with tuberous sclerosis?",
 "o": [
 "Hypopigmented (ash-leaf) spots",
@@ -4023,6 +4291,7 @@
 "lec": "L5",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "An unvaccinated 4-month-old has fever, vomiting and non-bloody diarrhea without mucus. Likely cause?",
 "o": [
 "Influenza A",
@@ -4037,6 +4306,7 @@
 "lec": "L25",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A child has repeated seizures and cafe-au-lait spots on exam. Most likely diagnosis?",
 "o": [
 "Epilepsy with neurofibromatosis type 1",
@@ -4052,6 +4322,7 @@
 "lec": "L16",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "An exclusively breastfed 16-month-old has swelling at the wrists/arms. Expected labs?",
 "o": [
 "Low Ca, high phosphate, normal ALP, high PTH",
@@ -4067,6 +4338,7 @@
 "lec": "L9",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A child has 1 month of polydipsia, polyuria and weight loss. Which will NOT be seen?",
 "o": [
 "Metabolic alkalosis",
@@ -4082,6 +4354,7 @@
 "lec": "L6",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A 12-month-old was well until 9 months, when he was weaned to regular foods. Now has FTT, poor appetite, abdominal distension, diarrhea and irritability. Most likely diagnosis?",
 "o": [
 "Giardiasis",
@@ -4097,6 +4370,7 @@
 "lec": "L20",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "After a minor sliding accident, a child has right-sided pain, abdominal distension on the right, high BP and hematuria. Most likely diagnosis?",
 "o": [
 "Renal contusion",
@@ -4111,6 +4385,7 @@
 "lec": "L25",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A child has staring, motionless episodes 2-3 times per week preceded by epigastric sensations. Diagnosis?",
 "o": [
 "Juvenile myoclonic epilepsy",
@@ -4125,6 +4400,7 @@
 "lec": "L3",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A boy's growth chart shows short stature with delayed bone age. Most likely diagnosis among these?",
 "o": [
 "Turner syndrome",
@@ -4139,6 +4415,7 @@
 "lec": "L19",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A boy has palpable purpura on the lower limbs and buttocks, joint pain and abdominal pain. Which immunoglobulin is involved?",
 "o": [
 "IgA",
@@ -4153,6 +4430,7 @@
 "lec": "L16",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A neglected child in hospital develops pedal edema, ascites, hepatomegaly, and is apathetic and hard to console. Most likely diagnosis?",
 "o": [
 "Nephrotic syndrome",
@@ -4167,6 +4445,7 @@
 "lec": "L17",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A 2-day-old term neonate has multiple firm yellow-white 1-2 mm papules with a surrounding erythematous flare on the trunk. Wright stain shows many eosinophils. Active and feeding well. Diagnosis?",
 "o": [
 "Herpes simplex infection",
@@ -4182,6 +4461,7 @@
 "lec": "L12",
 "year": "441",
 "dr": true,
+"imm": false,
 "q": "An 18-month-old boy: what can he do?",
 "o": [
 "Copies a line",
@@ -4197,6 +4477,7 @@
 "lec": "L13",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A girl has migratory arthritis after a GAS infection. What is true about this arthritis?",
 "o": [
 "It is painless",
@@ -4211,6 +4492,7 @@
 "lec": "L27",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A 14-year-old with asthma on a bronchodilator exercises normally, has no night waking, and had one ER-treated exacerbation last year. State of his asthma control?",
 "o": [
 "Well controlled",
@@ -4225,6 +4507,7 @@
 "lec": "L5",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "An 18-month-old has a brief generalized seizure with fever 40 C. During a (normal) LP he passes a large watery stool with blood and mucus. Most likely diagnosis?",
 "o": [
 "Salmonella",
@@ -4240,6 +4523,7 @@
 "lec": "L17",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A 9-month-old has a bulging fontanelle and head circumference above the 98th percentile, with suspected hydrocephalus. Next step?",
 "o": [
 "Head CT",
@@ -4254,6 +4538,7 @@
 "lec": "L17",
 "year": "441",
 "dr": false,
+"imm": false,
 "q": "A 6-day-old with birth weight 3000 g now weighs 2950 g. Next step?",
 "o": [
 "Reassure",

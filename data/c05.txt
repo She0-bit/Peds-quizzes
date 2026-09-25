@@ -62,7 +62,7 @@ A 20 kg 5-year-old ingested 500 mg of paracetamol 10 hours ago and is asymptomat
 - Activated charcoal
 > 500 mg / 20 kg = 25 mg/kg, well below the ~150-200 mg/kg toxic threshold for acute ingestion.
 
-@L22 442
+@L22 442 imm
 Which vaccine can be given to a child with SCID?
 - BCG
 - MMR

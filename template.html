@@ -94,6 +94,8 @@ function buildQuizzes(){
   return quizzes;
 }
 const QUIZZES=buildQuizzes();
+const TOPICS=[{key:"imm",title:"Immunization",ids:QS.filter(q=>q.imm).map(q=>q.id)}];
+const secsFor=n=>Math.max(SECS,n*60);
 
 const store={get(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){return null}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
 const app=document.getElementById('app');
@@ -108,26 +110,33 @@ function home(){
   <header style="display:flex;flex-direction:column;gap:8px">
     <span class="label">Pediatrics midterm · batches 441 to 443</span>
     <h1>Peds Midterm Mini Quizzes</h1>
-    <p class="muted">${QS.length} past-year questions, deduplicated and tagged to ${nLec} lecture groups. Each quiz has about ${PER} questions from ${PER} different lectures, with a ${SECS/60}-minute timer.</p>
+    <p class="muted">${QS.length} past-year questions, deduplicated and tagged to ${nLec} lecture groups. Each mixed quiz has about ${PER} questions from ${PER} different lectures, with a ${SECS/60}-minute timer.</p>
   </header>
   <div class="note"><b>About the answers.</b> The source PDF is unsolved. Every answer and explanation here was written by Claude and should be checked against your lecture slides. Answers marked <span class="chip dr">Doctor-confirmed</span> come from notes in the PDF saying a doctor gave that answer.</div>
   <div class="row"><button class="btn" id="rand">Random mix of ${PER}</button><span class="muted" style="font-size:.9rem">New random set each time</span></div>
   <section style="display:flex;flex-direction:column;gap:10px">
-    <h2>Quizzes</h2>
+    <h2>Topic quizzes</h2>
+    <div class="grid">${TOPICS.map((t,i)=>{const b=best[t.key];
+      return `<button class="tile topic ${b!=null?'done':''}" data-t="${i}"><span class="t">${t.title}</span><span class="s">All ${t.ids.length} questions · ${secsFor(t.ids.length)/60} min</span>${b!=null?`<span class="best num">Best ${b}/${t.ids.length}</span>`:''}</button>`}).join('')}</div>
+  </section>
+  <section style="display:flex;flex-direction:column;gap:10px">
+    <h2>Mixed quizzes</h2>
     <div class="grid">${QUIZZES.map((qz,i)=>{
       const b=best[i]; const lecs=new Set(qz.map(id=>QS[id].lec)).size;
       return `<button class="tile ${b!=null?'done':''}" data-i="${i}"><span class="t">Quiz ${i+1}</span><span class="s">${qz.length} Qs · ${lecs} lectures</span>${b!=null?`<span class="best num">Best ${b}/${qz.length}</span>`:''}</button>`}).join('')}</div>
   </section>`;
-  app.querySelectorAll('.tile').forEach(t=>t.onclick=()=>start(QUIZZES[+t.dataset.i],+t.dataset.i));
+  app.querySelectorAll('.tile[data-i]').forEach(t=>t.onclick=()=>start(QUIZZES[+t.dataset.i],+t.dataset.i,'Quiz '+(+t.dataset.i+1)));
+  app.querySelectorAll('.tile[data-t]').forEach(t=>{const tp=TOPICS[+t.dataset.t];t.onclick=()=>start(shuffle(tp.ids),tp.key,tp.title)});
   document.getElementById('rand').onclick=()=>{
     const byLec={};shuffle(QS).forEach(q=>(byLec[q.lec]??=[]).push(q.id));
-    start(shuffle(Object.keys(byLec)).slice(0,PER).map(l=>byLec[l][0]),null);
+    start(shuffle(Object.keys(byLec)).slice(0,PER).map(l=>byLec[l][0]),null,'Random mix');
   };
   scrollTo(0,0);
 }
 
-function start(ids,quizIndex){
-  const s={ids,quizIndex,i:0,answers:[],order:ids.map(id=>shuffle(QS[id].o.map((_,k)=>k))),end:Date.now()+SECS*1000};
+function start(ids,quizIndex,title){
+  const secs=secsFor(ids.length);
+  const s={ids,quizIndex,title,secs,i:0,answers:[],order:ids.map(id=>shuffle(QS[id].o.map((_,k)=>k))),end:Date.now()+secs*1000};
   clearInterval(timerId);
   timerId=setInterval(()=>{const el=document.getElementById('timer');if(!el)return;const t=Math.max(0,Math.round((s.end-Date.now())/1000));el.textContent=`${Math.floor(t/60)}:${String(t%60).padStart(2,'0')}`;el.classList.toggle('low',t<=60);if(t===0)el.textContent='Time up'},500);
   show(s);
@@ -135,9 +144,9 @@ function start(ids,quizIndex){
 
 function show(s){
   const q=QS[s.ids[s.i]], ord=s.order[s.i], picked=s.answers[s.i];
-  const title=s.quizIndex==null?'Random mix':`Quiz ${s.quizIndex+1}`;
+  const title=s.title;
   app.innerHTML=`
-  <div class="bar"><button class="btn ghost" id="quit">Back</button><span><b>${title}</b> <span class="num muted">${s.i+1}/${s.ids.length}</span></span><span class="num timer" id="timer">${SECS/60}:00</span></div>
+  <div class="bar"><button class="btn ghost" id="quit">Back</button><span><b>${title}</b> <span class="num muted">${s.i+1}/${s.ids.length}</span></span><span class="num timer" id="timer">${s.secs/60}:00</span></div>
   <div class="progress"><div style="width:${100*s.i/s.ids.length}%"></div></div>
   <article class="card">
     <div class="chips"><span class="chip">${esc(LEC[q.lec])}</span></div>
@@ -165,13 +174,13 @@ function show(s){
 function results(s){
   clearInterval(timerId);
   const score=s.ids.filter((id,i)=>s.answers[i]===QS[id].a).length;
-  const used=Math.round((Date.now()-(s.end-SECS*1000))/1000);
+  const used=Math.round((Date.now()-(s.end-s.secs*1000))/1000);
   if(s.quizIndex!=null){const best=store.get('best')||{};best[s.quizIndex]=Math.max(best[s.quizIndex]??0,score);store.set('best',best)}
   const missed=s.ids.map((id,i)=>({q:QS[id],p:s.answers[i]})).filter(x=>x.p!==x.q.a);
-  const next=s.quizIndex!=null&&s.quizIndex+1<QUIZZES.length?s.quizIndex+1:null;
+  const next=typeof s.quizIndex==='number'&&s.quizIndex+1<QUIZZES.length?s.quizIndex+1:null;
   app.innerHTML=`
   <section class="card" style="align-items:flex-start">
-    <span class="label">${s.quizIndex==null?'Random mix':'Quiz '+(s.quizIndex+1)} finished</span>
+    <span class="label">${esc(s.title)} finished</span>
     <span class="big num">${score}/${s.ids.length}</span>
     <p class="muted">Time used: <span class="num">${Math.floor(used/60)}:${String(used%60).padStart(2,'0')}</span></p>
     <div class="row">${next!=null?`<button class="btn" id="nextq">Start Quiz ${next+1}</button>`:''}<button class="btn ghost" id="again">Retry</button><button class="btn ghost" id="home">All quizzes</button></div>
@@ -180,8 +189,8 @@ function results(s){
     <div class="rv"><span class="chip" style="align-self:flex-start">${esc(LEC[q.lec])}</span><p>${esc(q.q)}</p>
     <p style="color:var(--bad)">Your answer: ${esc(q.o[p])}</p><p style="color:var(--ok)"><b>Answer: ${esc(q.o[q.a])}</b></p><p class="muted">${esc(q.e)}</p></div>`).join('')}</section>`:'<p>Perfect score. Nothing to review.</p>'}`;
   document.getElementById('home').onclick=home;
-  document.getElementById('again').onclick=()=>start(s.ids,s.quizIndex);
-  if(next!=null)document.getElementById('nextq').onclick=()=>start(QUIZZES[next],next);
+  document.getElementById('again').onclick=()=>start(s.ids,s.quizIndex,s.title);
+  if(next!=null)document.getElementById('nextq').onclick=()=>start(QUIZZES[next],next,'Quiz '+(next+1));
   scrollTo(0,0);
 }
 home();

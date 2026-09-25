@@ -43,7 +43,7 @@ A 12-year-old girl with ESRD has bruising and nosebleeds, normal platelet count 
 - Von Willebrand disease
 > Uremic toxins impair platelet adhesion/aggregation. Treat with dialysis, desmopressin, correcting anemia.
 
-@L22 442
+@L22 442 imm
 A patient has IgA deficiency. Which vaccine can be given?
 * Pneumococcal vaccine
 - Yellow fever vaccine

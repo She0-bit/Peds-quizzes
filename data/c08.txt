@@ -94,7 +94,7 @@ An unvaccinated 4-year-old has fever and a pruritic vesicular rash in different 
 * It can be complicated by necrotizing fasciitis from GAS
 > VZV (a DNA virus) spreads by respiratory droplets and vesicle fluid. Secondary GAS infection including necrotizing fasciitis is a key complication. It is severe in the immunocompromised.
 
-@L22 442
+@L22 442 imm
 Which vaccine should NOT be given to a child with SCID?
 - Hepatitis B
 * Measles
