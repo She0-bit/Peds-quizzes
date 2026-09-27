@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Common Pediatric Infections 2</title>
+<style>
+@page { size: A4 landscape; margin: 0; }
+:root{
+  --ink:#1f2933; --muted:#52606d; --sub:#2b4c7e; --warn:#b42318;
+  --ph:#c2415d; --ph-bg:#fdf2f4; --ph-hd:#f8dde3;
+  --om:#2f6fb0; --om-bg:#f2f7fc; --om-hd:#dbe8f6;
+  --si:#1f8a7a; --si-bg:#f0faf8; --si-hd:#d3efe9;
+  --sk:#c46a1b; --sk-bg:#fdf6ef; --sk-hd:#f8e4cf;
+  --ut:#a88a0e; --ut-bg:#fdfbef; --ut-hd:#f5edc4;
+  --gy:#5b6b7a; --gy-bg:#f5f7f9; --gy-hd:#e3e8ed;
+  --pu:#6d56b3; --pu-bg:#f7f5fc; --pu-hd:#e6e0f6;
+}
+*{box-sizing:border-box}
+html,body{background:#fff;color:var(--ink);margin:0}
+body{font-family:"Calibri","Carlito","Segoe UI","Liberation Sans",Arial,sans-serif;font-size:10pt;line-height:1.3}
+.page{width:297mm;height:210mm;padding:8mm 10mm;display:flex;flex-direction:column;gap:2.5mm;overflow:hidden;break-after:page;page-break-after:always;position:relative}
+.page:last-child{break-after:auto;page-break-after:auto}
+.row{display:flex;gap:3mm;min-height:0}
+.row.grow{flex:1}
+.col{display:flex;flex-direction:column;gap:2.5mm;min-width:0}
+h1{font-size:19pt;color:#1e3a5f;text-align:center;margin:0}
+.scope{text-align:center;font-size:9pt;color:var(--muted);margin-top:-1mm}
+h2{font-size:13.5pt;margin:0;padding-bottom:.8mm;border-bottom:1.5px solid var(--c);color:#22303c}
+h3{font-size:10pt;margin:0;padding:1.3mm 2.5mm;background:var(--hd);border-bottom:1px solid var(--c);color:#22303c;display:flex;align-items:center;gap:2mm}
+h3 .no{background:var(--c);color:#fff;border-radius:1.2mm;padding:.2mm 1.6mm;font-size:9pt}
+h4{font-size:9.4pt;color:var(--sub);margin:1.2mm 0 .3mm}
+.ph{--c:var(--ph);--bg:var(--ph-bg);--hd:var(--ph-hd)}
+.om{--c:var(--om);--bg:var(--om-bg);--hd:var(--om-hd)}
+.si{--c:var(--si);--bg:var(--si-bg);--hd:var(--si-hd)}
+.sk{--c:var(--sk);--bg:var(--sk-bg);--hd:var(--sk-hd)}
+.ut{--c:var(--ut);--bg:var(--ut-bg);--hd:var(--ut-hd)}
+.gy{--c:var(--gy);--bg:var(--gy-bg);--hd:var(--gy-hd)}
+.pu{--c:var(--pu);--bg:var(--pu-bg);--hd:var(--pu-hd)}
+.card{border:1px solid color-mix(in srgb,var(--c) 45%,white);background:var(--bg)}
+.card .b{padding:.8mm 2.5mm 1.5mm}
+ul{margin:.2mm 0 .5mm;padding-left:4mm}
+li{margin:.15mm 0}
+ul ul{margin:0;padding-left:3.5mm;list-style:"▸ "}
+ol{margin:.2mm 0 .5mm;padding-left:4.5mm}
+b{font-weight:700}
+.hb{background:#cfe3ff;font-weight:700;border-radius:.6mm;padding:0 .4mm;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+.hy{background:#ffe766;font-weight:700;border-radius:.6mm;padding:0 .4mm;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+.clue{color:#b42318;font-weight:700;text-decoration:underline;text-decoration-thickness:1.2px;text-underline-offset:1.5px}
+.w{color:var(--warn);font-weight:700;font-size:7.5pt;vertical-align:super;line-height:0}
+table{border-collapse:collapse;width:100%;margin:.6mm 0 .8mm;font-size:9.4pt;background:#fff}
+th,td{border:1px solid #c9d2db;padding:.6mm 1.3mm;vertical-align:top;text-align:left}
+th{background:var(--hd)}
+.tc td,.tc th{text-align:center}
+.flow{margin:.5mm 0;padding:1mm 2mm;background:#fff;border:1px dashed color-mix(in srgb,var(--c) 60%,white);border-radius:1mm}
+.flow div{margin:.3mm 0}
+.flow .i1{padding-left:4mm}.flow .i2{padding-left:8mm}
+.imgrow{display:flex;gap:2mm;margin:.8mm 0}
+.imgrow figure{margin:0;flex:1}
+.imgrow img{width:100%;object-fit:cover;border:1px solid #ccc;display:block}
+figcaption{font-size:7.8pt;color:var(--muted);text-align:center}
+.small{font-size:8.3pt}
+.muted{color:var(--muted)}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:3mm}
+.q p{margin:0}
+.q{margin-bottom:1.3mm;font-size:8.9pt;line-height:1.2}
+.q ol{list-style:upper-alpha;margin:0;padding-left:8mm}
+.key td:first-child{width:9mm;font-weight:700;text-align:center}
+</style>
+</head>
+<body>
+<!-- ================= PAGE 1 ================= -->
+<div class="page ph">
+<h1>Common Pediatric Infectious Diseases (Part Two): Common Clinical Syndromes</h1>
+<div class="scope">Pharyngitis · Acute otitis media · Acute bacterial sinusitis · Skin &amp; soft tissue infection · UTI  |  For each: organisms · signs &amp; symptoms · diagnosis · complications · management<br/><span class="hy">Yellow</span> = stressed by the doctor  ·  <span class="hb">Blue</span> = other high-yield  ·  <span class="clue">Red underline</span> = clue that points to the diagnosis</div>
+<h2>1. Pharyngitis</h2>
+<div class="row grow">
+<div class="col" style="flex:1">
+<div class="card"><h3><span class="no">1.1</span>Definition &amp; Causes</h3><div class="b">
+<ul>
+<li>Infection of the <b>pharynx and/or tonsils</b></li>
+<li>Age &lt; 4 y ➞ mainly <b>viral</b>; &gt; 4 y ➞ mainly <b>bacterial</b></li>
+</ul>
+<h4>Viruses: 80% (most common)</h4>
+<ul>
+<li>Rhinovirus · coronavirus · adenovirus · enterovirus · influenza · parainfluenza · RSV · EBV · HSV</li>
+<li>Cough, rhinitis, conjunctivitis ➞ think viral</li>
+<li>Exudate can also be viral ➞ <b>EBV, adenovirus</b></li>
+</ul>
+<h4>Bacteria: 20%</h4>
+<ul>
+<li><span class="hb">GABHS (15%)</span> ➞ severe complications; <span class="clue">scarlet fever (sandpaper) rash</span></li>
+<li>Group C &amp; G strep · <i>C. diphtheriae</i> · <i>Arcanobacterium haemolyticum</i> · <i>Chlamydophila pneumoniae</i> · <i>Mycoplasma pneumoniae</i> · <i>Yersinia enterocolitica</i> · <i>Francisella tularensis</i></li>
+</ul>
+</div></div><div class="card"><h3><span class="no">1.2</span>Modified Centor (McIsaac) Criteria</h3><div class="b">
+<table>
+<tr><th>Criterion</th><th>Points</th></tr>
+<tr><td>Temperature &gt; 38 °C</td><td>+1</td></tr>
+<tr><td>Absence of cough</td><td>+1</td></tr>
+<tr><td>Swollen, tender anterior cervical nodes (unilateral)</td><td>+1</td></tr>
+<tr><td>Tonsillar swelling or exudate</td><td>+1</td></tr>
+<tr><td>Age 3–14 y / 15–44 y / ≥ 45 y</td><td>+1 / 0 / −1</td></tr>
+</table>
+<table class="tc">
+<tr><th>Score</th><td>≤ 0</td><td>1</td><td>2</td><td>3</td><td><b>≥ 4</b></td></tr>
+<tr><th>Strep risk</th><td>1–2.5%</td><td>5–10%</td><td>11–17%</td><td>28–35%</td><td><b>51–53%</b></td></tr>
+</table>
+<ul><li><span class="hy">≥ 4 ➞ mostly bacterial</span> · winter season ➞ ↑ suspicion</li></ul>
+</div></div></div>
+<div class="col" style="flex:1">
+<div class="card"><h3><span class="no">1.3</span>Clinical Features: Viral vs Bacterial (GAS)</h3><div class="b">
+<table>
+<tr><th>Feature</th><th>Viral</th><th>Bacterial (GAS)</th></tr>
+<tr><td>Age</td><td>All ages</td><td><span class="hb">Peak 5–11 y</span></td></tr>
+<tr><td>Onset</td><td>Variable</td><td><b>Sudden</b>, severe fever</td></tr>
+<tr><td>Sore throat</td><td>+</td><td>+++</td></tr>
+<tr><td>Fever</td><td>Variable</td><td>+++</td></tr>
+<tr><td>Abdominal pain</td><td>±</td><td>+ / ++</td></tr>
+<tr><td>Cough, rhinitis, hoarseness, conjunctivitis, diarrhea</td><td>+</td><td><span class="clue">− (absent)</span></td></tr>
+<tr><td>Other symptoms</td><td>Myalgia, arthralgia</td><td>Headache</td></tr>
+<tr><td>Tonsillar hypertrophy</td><td>Variable</td><td>+++</td></tr>
+<tr><td>Exudate</td><td>±</td><td>+++</td></tr>
+<tr><td>Palatal petechiae</td><td>±</td><td>+</td></tr>
+<tr><td>Cervical nodes</td><td>Bilateral, nontender</td><td><span class="clue">Unilateral, tender</span></td></tr>
+<tr><td>Rash</td><td>Characteristic exanthems</td><td><span class="clue">Scarlet fever rash</span></td></tr>
+</table>
+</div></div><div class="card"><h3><span class="no">1.4</span>Diagnostic Tests</h3><div class="b">
+<table>
+<tr><th>Test</th><th>Sensitivity</th><th>Specificity</th><th>Note</th></tr>
+<tr><td><b>Rapid antigen (RADT)</b></td><td>70–97% (↓)</td><td>&gt; 95%</td><td>(+) ➞ treat; (−) ➞ culture</td></tr>
+<tr><td><b>Throat culture</b></td><td>97%</td><td>99%</td><td>↑ sens + ↑ spec, but 2–3 days</td></tr>
+<tr><td><b>Molecular (PCR)</b></td><td colspan="2">accurate</td><td>expensive ➞ not everywhere</td></tr>
+</table>
+<ul>
+<li>↑ Specificity ➞ rules <b>in</b>; ↑ sensitivity ➞ rules <b>out</b> (screening)</li>
+<li>RADT is poor for screening ➞ <span class="hy">negative RADT ➞ throat culture</span></li>
+<li>Culture delay is acceptable: <span class="hy">9-day window</span> to prevent rheumatic fever</li>
+</ul>
+</div></div></div>
+</div>
+</div>
+<!-- ================= PAGE 2 ================= -->
+<div class="page ph">
+<h2>1. Pharyngitis (continued)</h2>
+<div class="row grow">
+<div class="col" style="flex:1">
+<div class="card"><h3><span class="no">1.5</span>Should We Treat GAS? &amp; Clinical Approach</h3><div class="b">
+<ul>
+<li><b>Yes</b> ➞ <span class="hy">to prevent acute rheumatic fever</span> (9-day window)</li>
+<li><span class="hy">Antibiotics do NOT prevent glomerulonephritis</span></li>
+<li>Child looks well ➞ RADT: (+) ➞ start Tx; (−) ➞ wait for culture</li>
+<li>No RADT/culture available ➞ decide clinically (epidemiology + manifestations)</li>
+</ul>
+<div class="flow">
+<div><b>Clinical &amp; epidemiological features</b></div>
+<div class="i1">▸ Suggest <b>viral</b> ➞ symptomatic therapy (no test needed)</div>
+<div class="i1">▸ Suggest <b>bacterial</b> ➞ test:</div>
+<div class="i2">RADT (+) ➞ antibiotics · RADT (−) ➞ throat culture</div>
+<div class="i2">Throat culture (+) ➞ antibiotics · (−) ➞ symptomatic</div>
+<div class="i2">Molecular test (PCR) (+) ➞ antibiotics · (−) ➞ symptomatic</div>
+</div>
+</div></div>
+<div class="card"><h3><span class="no">1.6</span>Complications of GAS Pharyngitis</h3><div class="b">
+<table>
+<tr><th>Suppurative</th><th>Non-suppurative</th></tr>
+<tr><td>Retropharyngeal abscess · peritonsillar abscess · cervical adenitis · otitis media · sinusitis · mastoiditis · bacteremia ➞ metastatic infection</td>
+<td><b>Acute rheumatic fever</b> · acute glomerulonephritis · reactive arthritis (?) · toxin-mediated ➞ streptococcal toxic shock syndrome</td></tr>
+</table>
+</div></div>
+<div class="card"><h3><span class="no">1.7</span>Treatment</h3><div class="b">
+<ul>
+<li><span class="hy">Penicillin V</span> ➞ GAS highly susceptible</li>
+<li>Alternative: <b>amoxicillin</b> ➞ 10 days</li>
+<li>β-lactam allergy: <b>macrolide or clindamycin</b> ➞ in severe/disseminated disease, confirm sensitivity first</li>
+</ul>
+</div></div>
+</div>
+<div class="col" style="flex:1">
+<div class="card"><h3><span class="no">1.8</span>Lecture Cases</h3><div class="b">
+<h4>Case 1: 3 y, low-grade fever, runny nose, cough, sore throat</h4>
+<ul>
+<li>Age ≤ 3 y + cough + rhinitis ➞ <b>viral</b> ➞ <b>supportive</b></li>
+<li>Tonsillar swelling + headache + unilateral tender cervical LN ➞ would point to bacterial</li>
+</ul>
+<div class="imgrow"><figure><img alt="Erythematous pharynx without exudate" src="img/viral_pharyngitis.jpg" style="height:34mm"/><figcaption>Case 1: red pharynx, no exudate</figcaption></figure></div>
+<h4>Case 2: 6 y, high fever, severe sore throat, no cough</h4>
+<ul>
+<li>Age &gt; 3 y + <span class="clue">exudate + no cough</span> ➞ <b>GAS</b> (± scarlet fever)</li>
+<li>➞ antibiotic (<b>amoxicillin 10 d</b>) to prevent rheumatic fever</li>
+</ul>
+<div class="imgrow"><figure><img alt="Enlarged tonsils with white exudate" src="img/gas_tonsillitis.jpg" style="height:34mm"/><figcaption>Case 2: tonsillar exudate</figcaption></figure></div>
+</div></div>
+</div>
+</div>
+</div>
+<!-- ================= PAGE 3: AOM ================= -->
+<div class="page om">
+<h2>2. Acute Otitis Media (AOM)</h2>
+<div class="row grow">
+<div class="col" style="flex:1">
+<div class="card"><h3><span class="no">2.1</span>Etiology</h3><div class="b">
+<ul>
+<li><b>Bacteria 60–80%</b> ➞ why we treat
+            <ul>
+<li><span class="hy">S. pneumoniae 30% = #1</span> despite vaccine (vaccine covers only invasive subtypes)</li>
+<li><b>H. influenzae 20%</b> ➞ often amoxicillin-resistant ➞ amox-clav; now ↓ by vaccination</li>
+<li><b>M. catarrhalis 20%</b></li>
+</ul></li>
+<li>Viruses 20–40%</li>
+<li><span class="hb">Spontaneous resolution 50%</span> (&gt; 2 y)</li>
+<li><span class="clue">Purulent conjunctivitis</span> ➞ think <span class="hy">H. influenzae</span></li>
+</ul>
+</div></div>
+<div class="card"><h3><span class="no">2.2</span>Pathophysiology</h3><div class="b">
+<div class="flow">
+<div><b>Viral URTI</b> ➞ secretions + edema ➞ <span class="hy">Eustachian tube (ET) dysfunction = hallmark</span></div>
+<div class="i1">▸ ET blocked ➞ <b>−ve middle-ear pressure</b> ➞ reflux of nasopharyngeal microbes into ME</div>
+<div class="i1">▸ ↓ mucociliary defense · ↑ bacterial colonization &amp; adhesion · altered immunity</div>
+<div class="i1">▸ Nose blowing / sniffing ➞ pushes microbes into ME</div>
+<div class="i1">▸ Mucus accumulates in ME ➞ medium for bacterial growth</div>
+<div class="i1">▸ Adenoids ➞ bacterial reservoir?</div>
+<div>➞ Ascending bacterial (± viral) infection via ET ➞ <b>AOM</b></div>
+</div>
+</div></div>
+<div class="card"><h3><span class="no">2.3</span>Clinical Presentation</h3><div class="b">
+<div class="two">
+<div><h4>Symptoms</h4><ul>
+<li>Ear pain (<span class="clue">ear tugging</span> in infants)</li><li>Irritability / crying</li><li>Fever</li>
+<li>Ear discharge (± perforation)</li><li>Diarrhea ± vomiting</li></ul></div>
+<div><h4>Signs</h4><ul>
+<li><span class="clue">Bulging TM</span> ➞ <span class="hy">hallmark</span></li><li>Dull TM</li><li>Absent light reflex</li>
+<li>↓ / absent mobility</li><li>Air-fluid level</li><li>Otorrhea</li></ul></div>
+</div>
+<ul><li>Bulging ➞ only in acute suppurative OM; redness alone ➞ not specific</li></ul>
+</div></div>
+</div>
+<div class="col" style="flex:1">
+<div class="card"><h3><span class="no">2.4</span>Who to Treat &amp; For How Long</h3><div class="b">
+<table>
+<tr><th>Group</th><th>Action</th><th>Duration</th></tr>
+<tr><td><span class="hy">&lt; 2 y</span> (esp. &lt; 6 mo)</td><td><span class="hy">Always treat</span> (↑ complications)</td><td><span class="hy">10 d</span> (prevents failure)</td></tr>
+<tr><td>≥ 2 y, <b>severe</b>: toxic, T ≥ 39 °C, severe otalgia, bilateral OM</td><td>Treat now</td><td><b>5 d</b> (= 7 d)</td></tr>
+<tr><td>≥ 2 y, <b>mild</b></td><td><span class="hy">Supportive ➞ reassess at 48–72 h</span>: resolved ➞ no antibiotic; persists ➞ treat</td><td>5 d</td></tr>
+</table>
+<ul class="small"><li>Symptoms should improve by day 5</li></ul>
+</div></div>
+<div class="card"><h3><span class="no">2.5</span>Antibiotic Choice (Flowchart)</h3><div class="b">
+<div class="flow">
+<div>Amoxicillin in last 30 d <b>or</b> purulent conjunctivitis? (H. influenzae resistance)</div>
+<div class="i1">▸ No ➞ <span class="hy">HIGH-dose amoxicillin</span> ➞ improved ➞ 7 d (uncomplicated, &gt; 2 y) / 10 d (others)</div>
+<div class="i2">not improved ➞ high-dose amox-clav</div>
+<div class="i1">▸ Yes ➞ <span class="hb">high-dose amox-clav</span> ➞ improved ➞ 10 d</div>
+<div class="i2">not improved ➞ <b>IV ceftriaxone 50 mg/d × 3 d</b></div>
+<div class="i2">still no improvement ➞ <b>tympanocentesis</b> ➞ adjust per C/S (mainly immunocompromised)</div>
+</div>
+</div></div>
+<div class="card"><h3><span class="no">2.6</span>Case 3</h3><div class="b">
+<div class="two" style="align-items:center">
+<div><ul>
+<li>6-mo infant: fever, vomiting, excessive crying</li>
+<li>Ear exam: <b>bulging TM</b> ➞ AOM</li>
+<li>&lt; 2 y ➞ <b>antibiotics now, 10 d</b></li></ul></div>
+<figure style="margin:0"><img alt="Bulging tympanic membrane" src="img/aom_tm.jpg" style="width:100%;height:18mm;object-fit:cover;border:1px solid #ccc;display:block"/><figcaption>Bulging TM</figcaption></figure>
+</div>
+</div></div>
+<div class="card"><h3><span class="no">2.7</span>Complications</h3><div class="b">
+<ul>
+<li>TM perforation · conductive hearing loss · mastoiditis · labyrinthitis</li>
+<li>Brain abscess · epidural abscess</li>
+<li><span class="hb">Otic hydrocephalus</span> ➞ ↑ ICP without hydrocephalus</li>
+</ul>
+</div></div>
+</div>
+</div>
+</div>
+<!-- ================= PAGE 4: ABS ================= -->
+<div class="page si">
+<h2>3. Acute Bacterial Sinusitis (ABS)</h2>
+<div class="row grow">
+<div class="col" style="flex:1">
+<div class="card"><h3><span class="no">3.1</span>Pathogenesis</h3><div class="b">
+<ul>
+<li>ABS ➞ <span class="hy">100% preceded by URTI</span> (AOM ➞ ~90%)</li>
+<li>Sinus mucosa is continuous with nasal mucosa</li>
+<li><span class="hy">&lt; 4 y ➞ no sinusitis</span> (sinuses underdeveloped)</li>
+</ul>
+<h4>3 keys to normal sinus physiology</h4>
+<ol>
+<li><b>Patent ostia</b> ➞ URTI secretions block the <b>ostiomeatal complex</b></li>
+<li><b>Ciliary function</b> ➞ moves secretions to the nose; impaired (congenital, CF, acute URTI) ➞ bacteria multiply</li>
+<li><b>Secretion quality</b> ➞ overproduction in URTI</li>
+</ol>
+<ul><li>➞ Fluid accumulation ➞ medium for bacteria ➞ sinusitis</li>
+<li>High risk: damaged cilia (e.g. <b>cystic fibrosis</b>)</li></ul>
+</div></div>
+<div class="card"><h3><span class="no">3.2</span>Clinical Manifestations (3 Types)</h3><div class="b">
+<table>
+<tr><th>Persistent</th><td>Nasal discharge and/or cough <span class="hb">&gt; 10 d, not improving</span></td></tr>
+<tr><th>Severe</th><td><span class="hb">T ≥ 39 °C + purulent nasal discharge together &gt; 3 d</span></td></tr>
+<tr><th>Worsening</th><td>URTI improving ➞ <span class="hb">worse on day 6–7</span>: new/recurrent fever or ↑ nasal symptoms/cough</td></tr>
+</table>
+</div></div>
+<div class="card"><h3><span class="no">3.3</span>Etiology</h3><div class="b">
+<ul>
+<li><span class="hb">S. pneumoniae 30–40%</span> · H. influenzae 20% · M. catarrhalis 20% · viruses 10%</li>
+<li>Staphylococci, anaerobes, fungi ➞ uncommon; seen in <b>immunocompromised</b></li>
+</ul>
+</div></div>
+</div>
+<div class="col" style="flex:1">
+<div class="card"><h3><span class="no">3.4</span>Diagnosis</h3><div class="b">
+<ul>
+<li><b>Clinical</b> is enough</li>
+<li>Uncomplicated ➞ <span class="hb">no imaging</span> (only finding = mucosal thickening, also seen in viral URTI)</li>
+<li><b>Sinus aspiration</b> ➞ special cases only: not responding to Tx, immunocompromised</li>
+</ul>
+</div></div>
+<div class="card"><h3><span class="no">3.5</span>Who to Treat &amp; Management (Flowchart)</h3><div class="b">
+<div class="flow">
+<div><b>Treat now</b> if any:</div>
+<div class="i1">▸ Severe or worsening symptoms</div>
+<div class="i1">▸ Concurrent bacterial infection (AOM, pneumonia)</div>
+<div class="i1">▸ Suspected complications</div>
+<div class="i1">▸ Underlying disease: asthma, CF, ciliary dysfunction, immunodeficiency</div>
+<div><b>None</b> ➞ outpatient observation <b>3 d</b> ➞ improving: symptomatic · not improving: treat</div>
+</div>
+<div class="flow">
+<div><b>Choosing the antibiotic</b></div>
+<div class="i1">▸ Daycare, severe, or amoxicillin in last 30 d ➞ <b>high-dose amox-clav</b></div>
+<div class="i1">▸ None of these ➞ <b>high-dose amoxicillin</b> ➞ not improving ➞ amox-clav</div>
+<div class="i1">▸ Improving ➞ continue until <b>7 d after symptoms resolve</b> (total 7–10 d)</div>
+<div class="i1">▸ Not improving on amox-clav ➞ <b>sinus imaging / aspiration</b> (fungal in immunocompromised) ➞ adjust per C/S</div>
+</div>
+</div></div>
+<div class="card"><h3><span class="no">3.6</span>Complication</h3><div class="b">
+<ul><li><b>Brain abscess</b></li></ul>
+</div></div>
+</div>
+</div>
+</div>
+<!-- ================= PAGE 5: SSTI ================= -->
+<div class="page sk">
+<h2>4. Skin &amp; Soft Tissue Infections (SSTI) <span style="font-weight:400;font-size:10pt">➞ mainly <b>S. aureus</b> + <b>group A strep</b></span></h2>
+<div class="row grow">
+<div class="col" style="flex:1">
+<div class="card"><h3><span class="no">4.1</span>Case 4 &amp; Impetigo</h3><div class="b">
+<ul>
+<li><b>Case 4:</b> 6 y, red swollen chin + <span class="clue">golden crusts</span> ➞ impetigo
+            <ul><li><span class="hy">Well &amp; afebrile ➞ topical</span> antibiotic (mupirocin)</li>
+<li><span class="hy">Ill &amp; febrile ➞ systemic</span> (narrow-spectrum, e.g. flucloxacillin)</li></ul></li>
+</ul>
+<div class="imgrow">
+<figure><img alt="Honey-coloured crusts on the chin" src="img/impetigo.jpg" style="height:30mm"/><figcaption>Non-bullous: honey crusts</figcaption></figure>
+<figure><img alt="Scattered pustules on an infant" src="img/bullous.jpg" style="height:30mm"/><figcaption>Bullous (S. aureus)</figcaption></figure>
+</div>
+<ul>
+<li>Localized, <span class="hy">highly contagious</span>; age <span class="hb">2–5 y</span></li>
+<li><b>Non-bullous</b> ➞ <span class="hb">GAS</span> ➞ <span class="clue">golden/honey crusts</span></li>
+<li><b>Bullous</b> ➞ <span class="hy">S. aureus toxin</span> (not the organism) ➞ pustules rupture ➞ erosion with collarette of scale ➞ heals without scar</li>
+</ul>
+</div></div>
+<div class="card"><h3><span class="no">4.2</span>Folliculitis</h3><div class="b">
+<ul>
+<li>Hair follicle, <span class="hy">epidermis only</span> ➞ more superficial &amp; widespread than furuncle</li>
+<li>Discrete <b>2–5 mm papules/pustules</b> on red base; single or grouped; <span class="clue">hair shaft in center</span></li>
+<li><b>S. aureus</b> (predominant) ± GAS</li>
+<li>Often resolves spontaneously, no scar</li>
+<li>Mild ➞ chlorhexidine cleanser, topical mupirocin/clindamycin, benzoyl peroxide</li>
+</ul>
+</div></div>
+</div>
+<div class="col" style="flex:1">
+<div class="card"><h3><span class="no">4.3</span>Furuncle &amp; Carbuncle</h3><div class="b">
+<ul>
+<li><b>Furuncle (boil)</b>: hair follicle infection extending <span class="hb">deep into dermis</span></li>
+<li><b>Carbuncle</b>: painful aggregate of <span class="clue">contiguous follicles, multiple drainage points</span>, surrounding inflammation</li>
+<li>Almost always <b>S. aureus</b></li>
+<li>Tx: frequent <b>hot, moist compress</b> ➞ drainage; large furuncles &amp; most carbuncles ➞ <span class="hb">surgical drainage</span></li>
+</ul>
+</div></div>
+<div class="card"><h3><span class="no">4.4</span>Ecthyma &amp; Ecthyma Gangrenosum</h3><div class="b">
+<ul>
+<li><b>Ecthyma</b>: rare, <b>deep ulcer</b> into dermis ➞ <b>S. pyogenes</b> ➞ systemic anti-streptococcal antibiotic</li>
+<li><b>Ecthyma gangrenosum</b>: <span class="clue">necrotic center</span>, serious, toxin-mediated ➞ gram −ve, esp. <span class="hb">Pseudomonas aeruginosa</span>
+<ul><li>Immunocompromised / neutropenic (e.g. leukemia) ➞ septicemia, can be fatal</li>
+<li>➞ <span class="hy">Prompt anti-pseudomonal + blood culture</span></li></ul></li>
+</ul>
+</div></div>
+<div class="card"><h3><span class="no">4.5</span>Erysipelas vs Cellulitis</h3><div class="b">
+<table>
+<tr><th></th><th>Erysipelas</th><th>Cellulitis</th></tr>
+<tr><th>Depth</th><td><b>Upper dermis + lymphatics</b> (superficial)</td><td><b>Dermis + subcutaneous</b> (deep)</td></tr>
+<tr><th>Look</th><td><span class="clue">Sharply demarcated</span>, follows lymphatic chain</td><td>Edema, warmth, erythema, tenderness</td></tr>
+<tr><th>Organism</th><td><b>GAS</b> (&gt; staph); occasionally group B, C, G</td><td><b>S. pyogenes + S. aureus</b></td></tr>
+<tr><th>Tx</th><td>Oral anti-strep, <b>7–14 d</b></td><td>Anti-strep + anti-staph (oral 5–7 d)</td></tr>
+</table>
+<ul class="small"><li>Erythrasma is shown in the lecture photos with no further detail</li></ul>
+</div></div>
+</div>
+</div>
+</div>
+<!-- ================= PAGE 6: UTI 1 ================= -->
+<div class="page ut">
+<h2>5. Urinary Tract Infection (UTI)</h2>
+<div class="row grow">
+<div class="col" style="flex:1">
+<div class="card"><h3><span class="no">5.1</span>Definition &amp; Case 5</h3><div class="b">
+<ul>
+<li><span class="hy">UTI = significant bacteriuria + symptoms</span></li>
+<li>Asymptomatic bacteriuria ➞ don't treat (except pregnancy / before procedures)</li>
+<li><b>Infants</b>: <span class="clue">fever with no focus</span> is often the only sign</li>
+<li><b>Case 5:</b> 9 mo, fever 3 d, well, T 38.9 °C, no focus ➞ <span class="hy">urine analysis</span></li>
+<li>Suspect UTI: fever ≥ 38 °C + no source, esp. with <b>age &lt; 12 mo, female, uncircumcised boy, T &gt; 39 °C, fever &gt; 48 h</b></li>
+</ul>
+</div></div>
+<div class="card"><h3><span class="no">5.2</span>Pathogenesis</h3><div class="b">
+<ul>
+<li>GI bacteria colonize periurethral mucosa ➞ ascend ➞ bladder ➞ ureters ➞ kidneys</li>
+<li>Bacterial virulence ➞ e.g. Klebsiella adheres to ureter ➞ kidney</li>
+<li>Host: obstruction + urostasis (stones, tumor, <b>constipation</b>), <b>neurogenic bladder</b>, <b>VUR</b></li>
+<li><span class="hy">Circumcision ↓ UTI ~8×</span> in boys &lt; 3 mo</li>
+</ul>
+</div></div>
+<div class="card"><h3><span class="no">5.3</span>Etiology</h3><div class="b">
+<ul>
+<li><span class="hb">E. coli 70–80%</span> (from anal area) · Klebsiella · Proteus · Pseudomonas · Enterococcus (gram +) · Enterobacter</li>
+<li><span class="hb">GBS</span> ➞ <span class="clue">neonates</span></li>
+<li><span class="hb">S. saprophyticus</span> ➞ <span class="clue">adolescent girls</span> (gram +); S. aureus rare</li>
+<li><b>Candida</b> ➞ urinary catheter ➞ remove catheter</li>
+<li><span class="hb">Adenovirus</span> ➞ <span class="clue">hemorrhagic cystitis</span> (immunocompromised)</li>
+<li><span class="hb">TB</span> ➞ <span class="clue">sterile pyuria</span> (↑ WBC/pus, culture −ve)</li>
+<li><b>Saudi data</b>: E. coli + K. pneumoniae most common; resistance ampicillin ~70%, co-trimoxazole ~60% ➞ <span class="hy">3rd-gen cephalosporin / aminoglycoside</span></li>
+</ul>
+</div></div>
+</div>
+<div class="col" style="flex:1.15">
+<div class="card"><h3><span class="no">5.4</span>Clinical Features</h3><div class="b">
+<table>
+<tr><th>Age</th><th>Most common</th><th>Less common</th><th>Least common</th></tr>
+<tr><td>&lt; 3 mo</td><td><b>Fever, vomiting, lethargy, irritability</b></td><td>Poor feeding, FTT</td><td>Abdominal pain, jaundice, hematuria, offensive urine</td></tr>
+<tr><td>≥ 3 mo, preverbal</td><td><b>Fever</b></td><td>Abdominal pain, loin tenderness, vomiting, poor feeding</td><td>Lethargy, irritability, hematuria, offensive urine, FTT</td></tr>
+<tr><td>≥ 3 mo, verbal</td><td><b>Frequency, dysuria</b></td><td>Dysfunctional voiding, continence change, abdominal pain, loin tenderness</td><td>Fever, malaise, vomiting, hematuria, offensive/cloudy urine</td></tr>
+</table>
+<table>
+<tr><th>Lower UTI (cystitis) ➞ bladder</th><th>Upper UTI (pyelonephritis) ➞ kidney</th></tr>
+<tr><td>Dysuria, urgency, frequency, suprapubic pain, hematuria</td><td><b>Fever</b>, shivering, nausea/vomiting, diarrhea, flank pain + lower UTI symptoms</td></tr>
+<tr><td>Tx 3–7 d</td><td>Tx <b>7–14 d</b></td></tr>
+</table>
+</div></div>
+<div class="card"><h3><span class="no">5.5</span>Urinalysis &amp; Microscopy</h3><div class="b">
+<ul>
+<li><b>Pyuria</b>: <span class="hb">≥ 5 WBC/HPF</span> (centrifuged) or <span class="hb">≥ 10 WBC/mm³</span> (uncentrifuged)</li>
+<li>Urinalysis = <b>screening tool</b> (↑ sensitive) ➞ all negative ➞ UTI unlikely</li>
+</ul>
+<table>
+<tr><th>Test</th><th>Sensitivity %</th><th>Specificity %</th></tr>
+<tr><td>Leukocyte esterase (WBC breakdown)</td><td>83</td><td>78</td></tr>
+<tr><td>Nitrite</td><td>53</td><td><span class="hb">98</span></td></tr>
+<tr><td>LE <b>or</b> nitrite positive</td><td><span class="hb">93</span></td><td>72</td></tr>
+<tr><td>Microscopy: WBCs</td><td>73</td><td>81</td></tr>
+<tr><td>Microscopy: bacteria</td><td>81</td><td>83</td></tr>
+</table>
+</div></div>
+</div>
+</div>
+</div>
+<!-- ================= PAGE 7: UTI 2 ================= -->
+<div class="page ut">
+<h2>5. Urinary Tract Infection (continued)</h2>
+<div class="row grow">
+<div class="col" style="flex:1">
+<div class="card"><h3><span class="no">5.6</span>Urine Culture (Gold Standard) &amp; Collection</h3><div class="b">
+<table>
+<tr><th>Method</th><th>Use</th><th>Significant growth</th></tr>
+<tr><td><b>Transurethral catheter</b> (in/out)</td><td>1st choice: infants, not toilet-trained</td><td><span class="hy">&gt; 50,000 CFU/mL</span> (or &gt; 10,000 with fever + pyuria)</td></tr>
+<tr><td><b>Clean-catch midstream</b></td><td>1st choice: toilet-trained; 2nd choice if catheter impossible (e.g. bleeding tendency)</td><td><span class="hy">&gt; 100,000 CFU/mL</span> (or &gt; 10,000 with fever + pyuria)</td></tr>
+<tr><td><b>Suprapubic aspiration</b> (from bladder)</td><td>Neonates, neurological pts; phimosis, severe labial adhesions</td><td><span class="hy">Any CFU</span> (even one)</td></tr>
+</table>
+<ul>
+<li><span class="hy">Urine bag ✘</span> ➞ very high contamination ➞ never for culture diagnosis; a <b>negative</b> result can help exclude UTI</li>
+<li>Colonization ➞ from inside the body; contamination ➞ from outside</li>
+</ul>
+</div></div>
+<div class="card"><h3><span class="no">5.7</span>Diagnostic Approach (Flowchart)</h3><div class="b">
+<div class="flow">
+<div>Suspect UTI: infant with fever + no focus, or older child with urinary symptoms</div>
+<div>➞ Collect by recommended method ➞ <b>dipstick + microscopy + culture</b></div>
+<div class="i1">▸ <b>Febrile with urinary symptoms / unwell</b> ➞ start empiric antibiotic now ➞ adjust per culture</div>
+<div class="i1">▸ <b>Afebrile with urinary symptoms / well with fever, no source</b> ➞ check dipstick + microscopy:</div>
+<div class="i2">LE, nitrite, pyuria or bacteriuria (+) ➞ start empiric antibiotic, await culture</div>
+<div class="i2">All (−) ➞ wait for culture; repeat after 24–48 h if fever persists</div>
+</div>
+</div></div>
+</div>
+<div class="col" style="flex:1">
+<div class="card"><h3><span class="no">5.8</span>Treatment</h3><div class="b">
+<ul>
+<li><span class="hy">Oral = IV</span> in children ≥ 2 mo</li>
+<li><b>Toxic</b> or can't take oral ➞ IV until improved for 24–48 h ➞ switch to oral</li>
+<li>Empiric ➞ then <b>step down per culture</b>; check previous cultures</li>
+</ul>
+<table>
+<tr><th>≥ 3 mo – 14 y</th><th>First line</th><th>Alternative*</th><th>Duration</th></tr>
+<tr><td><b>Outpatient</b> (oral)</td><td><span class="hy">1) Amox-clav</span><br/>2) Cephalexin, cefuroxime, cefprozil</td><td>Cefixime (regular dose)</td><td><b>3–7 d</b> (up to 10 d by severity/age)</td></tr>
+<tr><td><b>Inpatient</b> (IV): toxic, vomiting, no oral, pyelonephritis</td><td><span class="hb">Ceftriaxone</span></td><td>Gentamicin ± ceftriaxone</td><td><b>7–14 d</b></td></tr>
+</table>
+<ul class="small">
+<li>*Alternative ➞ no improvement 48 h after first choice, or first choice unsuitable</li>
+<li><b>Gentamicin</b> ➞ previous ESBL UTI or cephalosporin in last 3 mo</li>
+<li><b>Ceftriaxone + aminoglycoside</b> ➞ critically ill or worsening on first line</li>
+</ul>
+</div></div>
+<div class="card"><h3><span class="no">5.9</span>Imaging</h3><div class="b">
+<div class="flow">
+<div><b>First febrile UTI, &lt; 3 y</b> ➞ <span class="hy">RBUS 2–6 wk</span> after infection (look for anomalies) ➞ abnormal ➞ <b>VCUG</b></div>
+<div><b>Any age</b> + recurrent / complicated / febrile non-E. coli UTI / family history of VUR ➞ <b>RBUS + VCUG</b> ➞ abnormal ➞ refer urology/nephrology</div>
+</div>
+<ul>
+<li>Why wait 2–6 wk? Acute inflammation / debris ➞ <b>false-positive</b> US</li>
+<li><b>Early US</b> ➞ severely ill, complicated, obstruction, or not improving by 48 h ➞ detects renal/perirenal abscess, pyonephrosis</li>
+</ul>
+<ul class="small">
+<li><b>Recurrent</b> = ≥ 2 symptomatic UTIs in 12 mo</li>
+<li><b>Complicated</b> = critically ill (urosepsis/shock), obstruction, or no response after 48 h of antibiotics</li>
+<li><b>Refer</b> ➞ recurrent UTI + abnormal imaging, VUR grade III–IV, congenital renal anomaly, bladder dysfunction, ↓ kidney function, hypertension</li>
+</ul>
+</div></div>
+</div>
+</div>
+</div>
+<!-- ================= PAGE 8: SUMMARY ================= -->
+<div class="page gy">
+<h2>Summary</h2>
+<table>
+<tr><th>Syndrome</th><th>Main organisms</th><th>Hallmark</th><th>Diagnosis</th><th>Treatment</th><th>Complications</th></tr>
+<tr><td><b>Pharyngitis</b></td><td>Viral 80%; GAS 15%</td><td>GAS: sudden high fever, exudate, unilateral tender nodes, no cough, scarlet rash; 5–11 y</td><td>Centor ➞ RADT ➞ (−) culture</td><td>Penicillin V / amoxicillin 10 d; allergy ➞ macrolide/clindamycin</td><td>ARF (preventable), AGN, abscesses, STSS</td></tr>
+<tr><td><b>AOM</b></td><td>S. pneumoniae 30%, H. influenzae 20%, M. catarrhalis 20%</td><td><b>Bulging TM</b>; ET dysfunction</td><td>Clinical (ear exam)</td><td>&lt; 2 y: treat 10 d; ≥ 2 y: severe ➞ 5 d, mild ➞ wait 48–72 h. High-dose amoxicillin ➞ amox-clav ➞ IV ceftriaxone</td><td>Perforation, hearing loss, mastoiditis, abscess, otic hydrocephalus</td></tr>
+<tr><td><b>ABS</b></td><td>S. pneumoniae 30–40%, H. influenzae 20%, M. catarrhalis 20%</td><td>100% after URTI; &gt; 10 d / ≥ 39 °C + pus &gt; 3 d / worse day 6–7</td><td>Clinical, no imaging</td><td>High-dose amoxicillin or amox-clav, 7 d after resolution (7–10 d)</td><td>Brain abscess</td></tr>
+<tr><td><b>SSTI</b></td><td>S. aureus, GAS; Pseudomonas (ecthyma gangrenosum)</td><td>Honey crusts (impetigo); necrotic center (EG)</td><td>Clinical; blood culture in EG</td><td>Topical mupirocin ➞ systemic flucloxacillin; drain boils</td><td>EG ➞ septicemia</td></tr>
+<tr><td><b>UTI</b></td><td>E. coli 70–80%, Klebsiella</td><td>Infant: fever, no focus; older: dysuria, frequency</td><td>UA screen + culture (gold); catheter &gt; 50k, midstream &gt; 100k, SPA any</td><td>Amox-clav oral 3–7 d; ceftriaxone IV 7–14 d</td><td>Renal abscess, pyonephrosis</td></tr>
+</table>
+<h2 style="--c:var(--sk)">Skin Lesions by Depth</h2>
+<table>
+<tr><th>Lesion</th><th>Depth</th><th>Organism</th><th>Clue</th><th>Treatment</th></tr>
+<tr><td>Impetigo</td><td>Superficial</td><td>GAS (non-bullous), S. aureus toxin (bullous)</td><td>Honey crusts, 2–5 y, contagious</td><td>Topical ➞ systemic if febrile</td></tr>
+<tr><td>Folliculitis</td><td>Epidermis</td><td>S. aureus</td><td>Pustule with central hair shaft</td><td>Self-limited; topical</td></tr>
+<tr><td>Furuncle</td><td>Deep dermis</td><td>S. aureus</td><td>Single boil</td><td>Hot compress ± drainage</td></tr>
+<tr><td>Carbuncle</td><td>Dermis + surrounding tissue</td><td>S. aureus</td><td>Many follicles, multiple drainage points</td><td>Surgical drainage</td></tr>
+<tr><td>Ecthyma</td><td>Ulcer into dermis</td><td>S. pyogenes</td><td>Deep ulcer</td><td>Systemic anti-strep</td></tr>
+<tr><td>Ecthyma gangrenosum</td><td>Necrotic</td><td>P. aeruginosa</td><td>Necrotic center, neutropenia</td><td>Anti-pseudomonal + blood culture</td></tr>
+<tr><td>Erysipelas</td><td>Upper dermis + lymphatics</td><td>GAS</td><td>Sharply demarcated</td><td>Oral anti-strep</td></tr>
+<tr><td>Cellulitis</td><td>Dermis + subcutaneous</td><td>S. pyogenes, S. aureus</td><td>Warm, red, swollen, tender</td><td>Anti-strep + anti-staph</td></tr>
+</table>
+</div>
+<!-- ================= PAGE 9: KEYWORDS ================= -->
+<div class="page pu">
+<h2>Ultra-Quick Differentiation (Keywords)</h2>
+<div class="row">
+<div class="col" style="flex:1">
+<table>
+<tr><th>Keyword combination</th><th>Think of</th></tr>
+<tr><td>≤ 3 y, cough, runny nose, conjunctivitis, sore throat</td><td>Viral pharyngitis ➞ supportive</td></tr>
+<tr><td>&gt; 3–4 y, sudden high fever, no cough, exudate, unilateral tender nodes</td><td>GAS ➞ penicillin V / amoxicillin</td></tr>
+<tr><td>Sore throat + sandpaper rash</td><td>Scarlet fever (GAS)</td></tr>
+<tr><td>Exudative pharyngitis, not strep</td><td>EBV, adenovirus</td></tr>
+<tr><td>Centor ≥ 4</td><td>51–53% strep ➞ mostly bacterial</td></tr>
+<tr><td>Ear tugging, crying, fever + bulging TM</td><td>AOM</td></tr>
+<tr><td>AOM + purulent conjunctivitis / amoxicillin in last 30 d</td><td>H. influenzae ➞ amox-clav</td></tr>
+<tr><td>↑ ICP without hydrocephalus after AOM</td><td>Otic hydrocephalus</td></tr>
+<tr><td>Nasal discharge/cough &gt; 10 d, not improving</td><td>Persistent ABS</td></tr>
+<tr><td>≥ 39 °C + purulent discharge &gt; 3 d</td><td>Severe ABS</td></tr>
+<tr><td>URTI improving ➞ new fever day 6–7</td><td>Worsening ABS</td></tr>
+<tr><td>Recurrent sinus/ear infections, damaged cilia</td><td>Cystic fibrosis / ciliary dysfunction</td></tr>
+<tr><td>Child &lt; 4 y with "sinusitis"</td><td>Unlikely: sinuses underdeveloped</td></tr>
+</table>
+</div>
+<div class="col" style="flex:1">
+<table>
+<tr><th>Keyword combination</th><th>Think of</th></tr>
+<tr><td>Golden/honey crusts on the chin, 2–5 y</td><td>Non-bullous impetigo (GAS)</td></tr>
+<tr><td>Bullae in an infant, heals with no scar</td><td>Bullous impetigo (S. aureus toxin)</td></tr>
+<tr><td>Pustule with hair shaft in center</td><td>Folliculitis</td></tr>
+<tr><td>Many draining follicles, painful</td><td>Carbuncle</td></tr>
+<tr><td>Necrotic black center, neutropenic child</td><td>Ecthyma gangrenosum (Pseudomonas)</td></tr>
+<tr><td>Superficial, sharply demarcated, along lymphatics</td><td>Erysipelas (GAS)</td></tr>
+<tr><td>Well infant, fever, no focus</td><td>UTI ➞ urine analysis</td></tr>
+<tr><td>Adolescent girl, gram-positive UTI</td><td>S. saprophyticus</td></tr>
+<tr><td>Hemorrhagic cystitis, immunocompromised</td><td>Adenovirus</td></tr>
+<tr><td>Pyuria, sterile culture</td><td>TB</td></tr>
+<tr><td>UTI in a neonate</td><td>GBS</td></tr>
+<tr><td>Candida in urine + catheter</td><td>Remove the catheter</td></tr>
+<tr><td>Nitrite (+) / LE or nitrite (+)</td><td>Best specificity 98% / best sensitivity 93%</td></tr>
+</table>
+</div>
+</div>
+</div>
+<!-- ================= PAGE 10: MCQs ================= -->
+<div class="page gy">
+<h2>Case-Based Practice MCQs <span class="muted" style="font-weight:400;font-size:9pt">(1–5 = lecture cases; answers on the next page)</span></h2>
+<div class="row">
+<div class="col" style="flex:1">
+<div class="q"><p><b>1.</b> 3-year-old: low-grade fever, runny nose, cough, sore throat. Best management?</p><ol><li>Penicillin V for 10 days</li><li>Supportive treatment</li><li>RADT, amoxicillin if positive</li><li>Clindamycin</li></ol></div>
+<div class="q"><p><b>2.</b> 6-year-old: high fever, severe sore throat, no cough, tonsillar exudate. Main reason to give antibiotics?</p><ol><li>Shorten the illness</li><li>Prevent acute rheumatic fever</li><li>Prevent sinusitis only</li><li>Treat EBV</li></ol></div>
+<div class="q"><p><b>3.</b> 6-month-old: fever, vomiting, excessive crying; ear exam shows a bulging TM. Best management?</p><ol><li>Observe 48–72 h</li><li>Antibiotics now, 10 days</li><li>Antibiotics, 5 days</li><li>Tympanocentesis first</li></ol></div>
+<div class="q"><p><b>4.</b> 6-year-old: red swollen chin with golden crusts; well and afebrile. Best treatment?</p><ol><li>Topical mupirocin</li><li>IV flucloxacillin</li><li>Surgical drainage</li><li>Anti-pseudomonal antibiotic</li></ol></div>
+<div class="q"><p><b>5.</b> 9-month-old: fever 3 days, looks well, T 38.9 °C, no focus. Next step?</p><ol><li>Chest X-ray</li><li>Urine analysis</li><li>Throat culture</li><li>Reassure and discharge</li></ol></div>
+<div class="q"><p><b>6.</b> Rapid antigen test for GAS: which is correct?</p><ol><li>Sensitivity 97%, so (−) excludes GAS</li><li>Specificity &gt; 95%, lower sensitivity ➞ (−) needs culture</li><li>Takes 2–3 days</li><li>More accurate than culture</li></ol></div>
+<div class="q"><p><b>7.</b> 3-year-old with AOM took amoxicillin 3 weeks ago. First-line now?</p><ol><li>High-dose amoxicillin</li><li>High-dose amoxicillin-clavulanate</li><li>IV ceftriaxone</li><li>Azithromycin</li></ol></div>
+</div>
+<div class="col" style="flex:1">
+<div class="q"><p><b>8.</b> Hallmark sign of AOM?</p><ol><li>Red TM</li><li>Bulging TM</li><li>Ear tugging</li><li>Fever</li></ol></div>
+<div class="q"><p><b>9.</b> Nasal discharge and cough for 12 days, not improving, afebrile. Diagnosis?</p><ol><li>Viral URTI, reassure</li><li>Persistent acute bacterial sinusitis</li><li>Severe acute bacterial sinusitis</li><li>Needs sinus CT</li></ol></div>
+<div class="q"><p><b>10.</b> Neutropenic child with leukemia: skin lesion with necrotic black center. Organism?</p><ol><li>S. aureus</li><li>S. pyogenes</li><li>Pseudomonas aeruginosa</li><li>Group B strep</li></ol></div>
+<div class="q"><p><b>11.</b> 10-month-old, not toilet-trained. Collection method and cut-off?</p><ol><li>Urine bag, any growth</li><li>Transurethral catheter, &gt; 50,000 CFU/mL</li><li>Midstream, &gt; 100,000 CFU/mL</li><li>Suprapubic, &gt; 100,000 CFU/mL</li></ol></div>
+<div class="q"><p><b>12.</b> 4-year-old with febrile UTI, well, drinking. Correct statement?</p><ol><li>IV beats oral</li><li>Oral = IV in children ≥ 2 months</li><li>Ampicillin preferred in Saudi children</li><li>Co-trimoxazole is first line</li></ol></div>
+<div class="q"><p><b>13.</b> 1-year-old recovered from first febrile UTI. When is RBUS done?</p><ol><li>Immediately, during fever</li><li>2–6 weeks after infection</li><li>Only after a 2nd UTI</li><li>Never under 3 years</li></ol></div>
+<div class="q"><p><b>14.</b> Pyuria with repeatedly sterile cultures. Consider?</p><ol><li>E. coli</li><li>Adenovirus</li><li>Tuberculosis</li><li>Candida</li></ol></div>
+</div>
+</div>
+</div>
+<!-- ================= PAGE 11: KEY + CONFLICTS ================= -->
+<div class="page gy">
+<div class="row grow">
+<div class="col" style="flex:1">
+<h2>Answer Key</h2>
+<table class="key">
+<tr><td>1</td><td><b>B</b>: ≤ 3 y + cough + rhinitis ➞ viral ➞ supportive</td></tr>
+<tr><td>2</td><td><b>B</b>: prevent ARF (9-day window); GN not preventable</td></tr>
+<tr><td>3</td><td><b>B</b>: &lt; 2 y (esp. &lt; 6 mo) ➞ treat, 10 d</td></tr>
+<tr><td>4</td><td><b>A</b>: well/afebrile ➞ topical; ill/febrile ➞ systemic</td></tr>
+<tr><td>5</td><td><b>B</b>: infant fever without focus ➞ UTI ➞ urine analysis</td></tr>
+<tr><td>6</td><td><b>B</b>: RADT sens 70–97%, spec &gt; 95% ➞ (−) ➞ culture</td></tr>
+<tr><td>7</td><td><b>B</b>: amoxicillin in last 30 d ➞ amox-clav (H. influenzae)</td></tr>
+<tr><td>8</td><td><b>B</b>: bulging TM; redness is non-specific</td></tr>
+<tr><td>9</td><td><b>B</b>: &gt; 10 d, not improving ➞ persistent; no imaging</td></tr>
+<tr><td>10</td><td><b>C</b>: ecthyma gangrenosum ➞ anti-pseudomonal + blood culture</td></tr>
+<tr><td>11</td><td><b>B</b>: catheter &gt; 50,000 (or &gt; 10,000 + fever + pyuria)</td></tr>
+<tr><td>12</td><td><b>B</b>: oral = IV ≥ 2 mo; ampicillin ~70% and co-trimoxazole ~60% resistant</td></tr>
+<tr><td>13</td><td><b>B</b>: 2–6 wk avoids false positives; early only if severe/complicated</td></tr>
+<tr><td>14</td><td><b>C</b>: TB ➞ sterile pyuria</td></tr>
+</table>
+</div>
+
+</div>
+</div>
+</body>
+</html>
